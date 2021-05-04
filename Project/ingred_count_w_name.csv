@@ -1,0 +1,3803 @@
+food_id,count,food_name
+33908,995,Salt
+36442,923,Onions
+33892,854,Black Pepper
+36383,751,Garlic
+34212,630,Olive Oil
+37922,507,Water
+33792,284,Egg (Whole)
+3092,261,Egg
+36633,256,Red Tomatoes
+33872,254,Cinnamon
+36320,236,Carrots
+36333,224,Celery
+36421,215,Mushrooms
+36480,215,Green Peppers
+33911,206,Vanilla Extract
+33882,198,Garlic Powder
+34447,198,Chicken Breast Meat (Broilers or Fryers)
+36848,190,Sweet Red Peppers
+33893,186,Red or Cayenne Pepper
+35849,180,Lemon Juice
+33876,170,Cumin
+33814,168,Butter
+33889,165,Oregano
+33871,162,Chili Powder
+39830,154,White Wheat Flour (All Purpose)
+39656,145,"Sweeteners (Splenda Packets, Sucralose)"
+39075,141,Baking Soda
+39558,140,Brown Sugar
+36457,139,Parsley
+36590,139,Zucchini
+33793,131,Egg White
+33914,130,Vinegar
+33712,125,Parmesan Cheese (Grated)
+39559,125,Granulated Sugar
+35001,122,Chicken Stock
+36351,122,Cilantro (Coriander)
+35755,122,Bananas
+34305,119,Canola Vegetable Oil
+39536,119,Honey
+39072,118,"Baking Powder (Sodium Aluminum Sulfate, Double Acting)"
+33905,116,Basil
+36384,112,Ginger
+33890,110,Paprika
+36451,109,Scallions or Spring Onions
+36577,108,Spinach
+283520,108,Extra Virgin Olive Oil
+7175,89,Sugar
+33865,89,Basil (Dried)
+33887,89,Nutmeg (Ground)
+36291,89,Broccoli
+36327,82,Cauliflower
+33907,82,Yellow Mustard
+33883,81,Ginger (Ground)
+33689,81,Cheddar Cheese
+298864,79,Sea Salt
+36996,77,Jalapeno Peppers
+35854,75,Lime Juice
+40391,71,Ground Beef (95% Lean / 5% Fat)
+33877,68,Curry Powder
+36308,68,Cabbage
+36581,65,"Spinach (Chopped or Leaf, Frozen)"
+40654,65,"Milk (Fat Free or Skim, Calcium Fortified)"
+35718,64,Apples
+33903,63,Thyme (Dried)
+34857,62,Salsa (Ready to Serve)
+38225,62,Black Beans
+33888,62,Onion Powder
+33820,60,Milk (Nonfat)
+33681,60,Butter (Salted)
+36643,59,Tomato Sauce (Canned)
+34214,58,Sesame Oil
+35103,58,Worcestershire Sauce
+33697,58,Cream Cheese
+36640,57,Tomato Paste
+39432,57,Cocoa Powder (Unsweetened)
+35976,57,Strawberries
+34677,57,Ground Turkey
+475603,56,Minced Garlic
+36635,56,Red Tomatoes (Canned)
+305067,55,Red Onions
+6138,55,Tomatoes
+6242,55,Cilantro
+36377,54,Cucumber (Peeled)
+35752,53,Avocados
+3419,52,White Flour
+33891,50,Parsley (Dried)
+36452,50,Young Green Onions (Tops Only)
+33786,49,Plain Yogurt (Lowfat)
+33896,49,Poultry Seasoning
+33910,49,Thyme
+38416,49,Soy Sauce (Shoyu) (Low Sodium)
+1641,49,Chicken Breast
+33815,49,Parmesan Cheese (Shredded)
+36617,48,Sweet Potato
+35850,48,Lemon Juice (Canned or Bottled)
+36246,48,Asparagus
+37040,47,Almonds
+33866,47,Bay Leaf
+3420,46,Whole Wheat Flour
+34194,46,Mayonnaise
+36380,44,Eggplant
+39715,44,Oats
+39751,44,Whole Grain Wheat Flour
+35102,44,"Chicken Broth Soup (Low Sodium, Canned)"
+36970,44,Yellow Sweet Peppers
+33732,43,Whipping Cream
+36493,43,White Potatoes (Flesh and Skin)
+38110,42,Shrimp
+34874,41,"Chicken Broth Soup (Less/Reduced Sodium, Canned)"
+59788,41,Baking Powder
+36726,41,Crushed Tomatoes (Canned)
+34861,41,Pepper or Hot Sauce
+33873,40,Cloves (Ground)
+36136,39,Bacon (Cured)
+38828,39,Bread Crumbs
+33917,39,Rosemary
+33708,38,Mozzarella Cheese (Part Skim Milk)
+33812,37,Egg Substitute (Liquid)
+35084,37,Spaghetti/Marinara Pasta Sauce
+3272,36,Soy Sauce
+38269,36,"Chickpeas (Garbanzo Beans, Bengal Gram) (Mature Seeds, Canned)"
+36636,36,"Red Tomatoes (Stewed, Canned)"
+35761,36,Blueberries
+38279,36,Lentils
+39704,36,Cornstarch
+34792,36,"Chicken Stock Cubes (Dry, Dehydrated)"
+33717,35,Ricotta Cheese (Part Skim Milk)
+35875,35,Olives (Small-Extra Large)
+35962,34,Raisins (Seedless)
+36376,34,Cucumber (with Peel)
+7048,34,Vegetable Oil
+36494,34,Red Potatoes (Flesh and Skin)
+36413,34,Cos or Romaine Lettuce
+35852,34,Lemon Peel
+33842,34,Sour Cream (Fat Free)
+33904,34,Turmeric (Ground)
+33699,33,Feta Cheese
+34962,33,Chicken Stock (Canned)
+36637,33,"Red Tomatoes (In Tomato Juice, Canned)"
+6994,32,Unsalted Butter Stick
+35883,32,Orange Juice
+34349,32,Light Mayonnaise
+36724,32,Shallots
+33755,32,Milk (1% Lowfat with Added Vitamin A)
+33918,32,Peppermint (Mint)
+33863,32,Allspice Ground
+33879,31,Dill (Dried)
+37749,31,White Table Wine
+33900,31,Sage (Ground)
+36638,30,"Red Tomatoes (with Green Chilies, Canned)"
+39790,30,Dry Whole Wheat Pasta
+40396,30,Ground Beef (90% Lean / 10% Fat)
+38245,30,Red Kidney Beans (Canned)
+36454,29,Sweet Onions
+36846,29,Red Hot Chili Peppers
+34996,28,Beef Stock
+36414,28,Iceberg Lettuce (Includes Crisphead Types)
+39068,28,Flour Tortillas
+285829,28,Bell Peppers
+229039,27,Salt
+37118,27,Flaxseed Seeds
+36276,27,Green Snap Beans
+36664,27,Mixed Vegetables (Frozen)
+2175965,27,Pure Vanilla Extract
+40637,27,"Cheddar or American Cheese (Reduced Fat, Pasteurized)"
+5290,27,Fresh Lime Juice
+283219,26,Baby Spinach
+40627,26,"Cheddar or American Cheese (Fat Free, Pasteurized)"
+36979,26,Baby Carrots
+33909,26,Vinegar (Cider)
+38240,25,Kidney Beans (Canned)
+33735,25,Sour Cream (Cultured)
+38332,25,Soy Sauce (Shoyu)
+33898,24,Rosemary (Dried)
+33894,24,White Pepper
+37084,24,Pecan Nuts
+40602,24,Vegetable Oil-Butter Spread (Reduced Calorie)
+36343,24,Chives
+40722,24,Cream Cheese (Low Fat)
+40592,24,"Whipped Topping (Low Fat, Frozen)"
+3379,23,Walnuts
+34209,23,Peanut Oil
+36408,23,Leeks
+338614,23,Italian Seasoning
+36957,22,Ketchup
+35113,22,"Bouillon Cubes Soup (Low Sodium, Dry)"
+33835,22,Cheddar or Colby Cheese (Lowfat)
+1517,22,Bacon
+164484,22,Almond Meal Flour
+803,22,1% Fat Milk
+93081,22,Minced Garlic
+39713,22,Brown Rice (Long-Grain)
+33886,22,Yellow Mustard Seed
+34729,21,Beef Broth or Bouillon (Canned)
+36415,21,Green Leaf Lettuce
+35863,21,Mangos
+36598,21,Butternut Winter Squash
+37740,21,Red Table Wine
+33846,21,Cream Cheese (Fat Free)
+1080,21,Heavy Cream
+38243,21,Red Kidney Beans
+4881229,21,Skinless Chicken Breast
+39560,20,Powdered Sugar
+40659,20,Mozzarella Cheese (Nonfat)
+36718,20,Green Hot Chili Peppers
+810776,20,No Calorie Sweetener
+36553,20,"Pumpkin (Without Salt, Canned)"
+229046,20,Coarse Kosher Salt
+36398,20,Kale
+36997,20,Green Chili Peppers (Canned)
+33706,20,Mozzarella Cheese (Whole Milk)
+2178,19,Shrimp
+36355,19,"Yellow Sweet Corn (Whole Kernel, Drained Solids, Canned)"
+299727,19,Black Beans (Canned)
+33729,19,Cream (Half & Half)
+39569,19,Maple Syrup
+33875,19,Coriander Seed
+33906,19,Dill
+1097,19,Sour Cream
+4350223,19,Crushed Red Pepper Flakes
+35734,19,"Applesauce (Without Added Ascorbic Acid, Unsweetened, Canned)"
+38329,19,Soy Milk
+38333,19,Soy Sauce (Tamari)
+211406,18,Red Bell Pepper
+36425,18,Portabella Mushrooms
+49835,18,Butter Cooking Spray
+33897,18,Pumpkin Pie Spice
+4308635,18,93/7 Lean Ground Beef
+34870,18,Fish Sauce
+37093,18,English Walnuts
+39541,17,Molasses
+42595,17,Original Cream Cheese
+233566,17,Almond Breeze Unsweetened Vanilla Milk
+33798,17,Hard-Boiled Egg
+39717,17,"Brown Rice (Medium-Grain, Cooked)"
+38262,17,"White Beans (Mature Seeds, Canned)"
+36583,17,Summer Squash (Crookneck and Straightneck)
+97316,17,Original Seasoning Blend
+343387,17,Garlic Powder
+35143,17,Sliced Ham (Extra Lean)
+38255,17,"Pinto Beans (Mature Seeds, Canned)"
+1727595,17,All-Purpose Flour
+5286,17,Fresh Lemon Juice
+39078,17,Bakers Yeast (Active Dry)
+35848,17,Lemons (with Peel)
+39074,17,Baking Powder (Low Sodium)
+36551,16,Pumpkin
+35719,16,Apples (Without Skin)
+34736,16,"Cream Of Chicken Soup (Canned, Condensed)"
+5268,16,Lemon
+34449,16,"Chicken Breast Meat (Broilers or Fryers, Roasted, Cooked)"
+38040,16,Wild Atlantic Salmon
+36469,16,Green Peas (Frozen)
+6250,15,Lettuce
+76960,15,Large Grade A Eggs
+91084,15,Apple Cider Vinegar
+6243,15,Corn
+40623,15,Mayonnaise-Like Salad Dressing (Fat Free)
+1717231,15,No Calorie Sweetener Packets
+35931,15,Pineapple
+33840,15,Sour Cream (Reduced Fat)
+40713,15,Tomato Sauce
+33761,15,"Buttermilk (Lowfat, Cultured)"
+33787,15,Plain Yogurt (Skim Milk)
+36667,15,Waterchestnuts
+55122,15,Sweet Yellow Onion
+4718517,15,Boneless Skinless Chicken Breast
+35325,15,Turkey Sausage
+36310,15,Red Cabbage
+39079,15,Bread Crumbs (Seasoned)
+39712,14,Quinoa
+4049182,14,Extra Virgin Olive Oil
+35786,14,Dried Cranberries (Sweetened)
+36503,14,"Potatoes (Flesh, Without Salt, Boiled)"
+519595,14,Cherry Tomatoes
+7705,14,Tap Water
+38212,14,Tilapia (Fish)
+6256,14,Young Green Onions
+40401,14,Ground Beef (85% Lean / 15% Fat)
+27572,14,Old Fashioned Oats
+39714,14,"Brown Rice (Long-Grain, Cooked)"
+37088,14,Dried Pine Nuts
+35190,14,Turkey Breast Meat
+5285,14,Lemon Juice
+6269,14,Yellow Summer Squash
+36081,14,"Pork Chops (Top Loin, Boneless)"
+33859,14,"Cream (Half & Half, Fat Free)"
+221262,13,Organic Virgin Coconut Oil
+4513,13,Brown Rice
+1643,13,Chicken Breast (Skin Not Eaten)
+36293,13,"Broccoli (Chopped, Frozen)"
+39821,13,White Rice (Long-Grain)
+36768,13,Broccoli Flower Clusters
+34341,13,"Margarine (Fat Free, Tub)"
+5270,13,Lime
+33874,13,Coriander Leaf (Dried)
+36464,13,Green Peas
+31914,13,Original Diced Tomatoes & Green Chilies
+40740,13,Parmesan Cheese (Low Sodium)
+34862,13,Tabasco Sauce
+39353,13,Semisweet Chocolate Candies
+39699,13,Yellow Whole Grain Corn Meal
+36492,13,Russet Potatoes (Flesh and Skin)
+35888,13,Orange Peel
+687585,13,Grape Tomatoes
+294912,13,Dijon Mustard
+25517,12,100% Whole Grain Oatmeal
+6246,12,Garlic
+48838,12,Sea Salt
+39073,12,"Baking Powder (Straight Phosphate, Double Acting)"
+33902,12,Tarragon
+36352,12,Yellow Sweet Corn
+33709,12,"Mozzarella (Part Skim Milk, Low Moisture)"
+33696,12,Cottage Cheese (Lowfat 1% Milkfat)
+33752,12,Milk (2% Lowfat with Added Vitamin A)
+35965,12,Raspberries
+2315684,12,Unbleached All-Purpose Flour
+27303,12,Egg Beaters - Original
+59241,12,Canola Oil
+40590,12,Turkey Bacon (Cooked)
+261203,12,Extra Virgin Olive Oil
+37025,12,Dried Whole Sesame Seeds
+6166,12,Salsa
+38087,12,"White Tuna Fish (Drained Solids In Water, Canned)"
+33788,12,Vanilla Yogurt (Lowfat)
+33841,12,Sour Cream (Light)
+77671,11,Boneless Skinless Chicken Breast
+35174,11,Fresh Pork Sausage
+66558,11,Red Wine Vinegar
+36283,11,Beets
+34802,11,"Onion Soup Mix (Dry, Dehydrated)"
+1350778,11,Pure Baking Soda
+36281,11,Green Snap Beans (Frozen)
+38084,11,"Light Tuna Fish (Drained Solids In Water, Canned)"
+35878,11,Oranges
+33770,11,Evaporated Milk (Nonfat)
+3273,11,Reduced Sodium Soy Sauce
+55102,11,Green Onion
+39710,11,Oat Bran
+53757,11,100% Pure Pumpkin
+251177,11,100% Fat Free Chicken Broth (33% Less Sodium)
+61505,11,Minced Garlic
+56875,11,Seasoned Salt
+38308,11,Smooth Peanut Butter (with Salt)
+3779807,11,Ground Cumin
+33915,11,Capers
+39719,10,"White Rice (Long-Grain, Cooked)"
+40406,10,Ground Beef (80% Lean / 20% Fat)
+6999,10,Margarine
+36314,10,"Chinese Cabbage (Bok-Choy, Pak-Choi)"
+33827,10,Goats Cheese (Soft)
+38358,10,Soft Silken Tofu
+48833,10,Boneless Skinless Chicken Breasts
+35853,10,Limes
+56871,10,Garlic Salt
+36412,10,Butterhead Lettuce (Includes Boston and Bibb Types)
+38331,10,Soy Protein Isolate
+7153,10,Coconut Oil
+39726,10,White Rice (Short-Grain)
+1998384,10,Organic Diced Tomatoes
+1825269,10,Amber Agave Nectar
+36208,10,Ground Pork
+33695,10,Cottage Cheese (Lowfat 2% Milkfat)
+4481,10,Oatmeal
+180303,10,Coarse Kosher Salt
+34270,10,Grapeseed Vegetable Oil
+38403,10,Smooth Peanut Butter (Without Salt)
+1100,10,Light Sour Cream
+36424,10,"Mushrooms (Drained Solids, Canned)"
+34321,10,Light Butter (Stick Without Salt)
+3171729,10,Pure Almond Milk - Unsweetened Original
+5363,10,Raisins
+80314,10,Extra Virgin Olive Oil
+33720,10,Swiss Cheese
+800,10,2% Fat Milk
+33733,10,Whipped Cream (Pressurized)
+33794,10,Egg Yolk
+39786,10,Enriched Dry Pasta
+35785,10,Cranberries
+36908,10,"Red Tomatoes (No Salt Added, Canned)"
+1125235,9,Less Sodium Soy Sauce
+33716,9,Ricotta Cheese (Whole Milk)
+4377215,9,Balsamic Vinegar
+39067,9,Corn Tortillas
+5369,9,Applesauce Unsweetened
+34448,9,"Chicken Breast Meat (Broilers or Fryers, Fried, Cooked)"
+38229,9,Black Turtle Soup Beans (Canned)
+39694,9,Yellow Corn
+4501,9,White Rice
+36505,9,"Potatoes (Flesh Without Skin, Without Salt, Boiled)"
+38295,9,Split Peas (Mature Seeds)
+33913,9,"Vanilla Extract (Imitation, No Alcohol)"
+36329,9,Cauliflower (Frozen)
+6234,9,Green Cabbage
+38801,9,Whole Wheat Pita Bread
+3384,9,Peanut Butter
+35917,9,Pears
+406824,9,Organic 100% Whole Ground Golden Flaxseed Meal
+5718,9,Potato
+33731,9,Whipping Cream (Light)
+37657,9,"Beef Top Sirloin (Trimmed to 1/8"" Fat)"
+36079,9,"Pork Loin (Tenderloin, Lean Only)"
+46142,9,Country Dijon Mustard
+250863,9,Onions
+34345,9,Italian Salad Dressing (Fat Free)
+6296,9,Red Sweet Pepper
+33750,9,Milk (Whole Milk)
+33705,9,Monterey Cheese
+36964,9,Sweet Pickle Relish
+34498,9,Chicken Meat (Roasting)
+4743301,9,Quinoa (Cooked)
+35757,9,Blackberries
+34787,9,"Beef Stock (Cubed, Dry)"
+34848,8,Barbecue Sauce
+36426,8,Brown Mushrooms (Crimini Italian)
+34867,8,Oyster Sauce
+34856,8,"Tomato Soup (Canned, Condensed)"
+39749,8,Wheat Bran (Crude)
+35831,8,"Grapes (Red or Green, European Type Varieties Such As Thompson Seedless)"
+6629,8,Yeast
+36207,8,Pork Loin (Tenderloin)
+6229,8,Green String Beans
+35105,8,"Tomato Chili Sauce (Low Sodium, Bottled)"
+33713,8,Parmesan Cheese (Hard)
+36295,8,"Broccoli (Spears, Frozen)"
+250858,8,Green Bell Pepper
+33885,8,Marjoram (Dried)
+5340,8,Dried Cranberries
+33869,8,Celery Seed
+39716,8,Brown Rice (Medium-Grain)
+6809,8,Black Olives
+33880,8,Fennel Seed
+52432,8,Olive Oil
+39076,8,Cream Of Tartar
+35902,8,Peaches
+276497,8,Organic High Fiber Coconut Flour
+2567408,8,Garlic Salt
+56342,8,All Purpose Flour
+83179,8,Healthy Request Cream of Chicken Soup
+565305,8,Clover Honey
+33692,8,Cottage Cheese
+89916,8,Balsamic Vinegar
+3408,8,Sesame Seeds
+36444,8,Onion Flakes
+40595,8,"Mayonnaise (Reduced Calorie or Diet, Cholesterol Free)"
+35753,8,California Avocados
+70917,8,Boneless Skinless Chicken Breast Fillets
+27330,8,Natural Shredded Fat Free Cheddar Cheese
+244076,7,Light Brown Sugar
+59814,7,Extra Virgin Olive Oil
+33916,7,Horseradish
+39093,7,Pie Crust
+34760,7,"Cream Of Mushroom Soup (Canned, Condensed)"
+37026,7,Roasted and Toasted Whole Sesame Seeds
+1785,7,Ground Turkey
+36458,7,Parsnips
+51978,7,Red Curry Paste
+36358,7,"Yellow Sweet Corn (Kernels Cut Off Cob, Frozen)"
+6673141,7,Black Beans
+35420,7,"Oats Cereal (Dry, Not Fortified)"
+34604,7,Turkey Breast Meat (Fryer-Roasters)
+86710,7,Semi-Sweet Mini Chocolate Chip Morsels
+36605,7,Spaghetti Winter Squash
+1905179,7,Soy Sauce
+36447,7,"Onions (Chopped, Frozen)"
+38237,7,"Great Northern Beans (Mature Seeds, Canned)"
+38313,7,Refried Beans (Canned)
+51544,7,Corn Starch
+2383661,7,Kosher Salt
+2057,7,Salmon
+2102625,7,Tomatoes
+61356,7,Rice Vinegar
+36299,7,Brussels Sprouts
+38235,7,Great Northern Beans (Mature Seeds)
+40630,7,Flaxseed Oil
+1019505,7,Chopped Walnuts
+34481,7,Chicken Thigh Meat (Broilers or Fryers)
+2173,7,Scallops
+1123662,7,Olive Oil Cooking Spray
+1855609,7,Liquid Stevia
+7185,7,100% Maple Syrup
+34450,7,"Chicken Breast Meat (Broilers or Fryers, Stewed, Cooked)"
+35855,7,"Lime Juice (Unsweetened, Canned or Bottled)"
+518752,7,Ground Black Pepper
+34196,7,Italian Salad Dressing (Reduced Fat)
+39791,7,Whole Wheat Spaghetti (Cooked)
+36695,7,"Jalapeno Peppers (Solids and Liquids, Canned)"
+33845,7,Parmesan Cheese (Fat Free Topping)
+343406,7,Paprika
+33715,7,Provolone Cheese
+33868,7,Cardamom
+45261,7,Shredded Parmesan Cheese
+6258,7,Parsley
+36974,7,Sun-Dried Tomatoes
+39750,7,Wheat Germ
+1251,7,Colby Jack Cheese
+343384,7,Chili Powder
+38334,7,Soy Sauce (Made From Hydrolyzed Vegetable Protein)
+38321,7,Miso
+36460,7,Snow or Sugar Snap Peas
+1101,7,Fat Free Sour Cream
+2663873,7,Craisins Dried Cranberries
+2079878,7,Sweetener (Packet)
+1052,6,Cocoa Powder
+47632,6,Sriracha Hot Chili Sauce
+58308,6,Lean Ground Turkey
+49391,6,Grated Parmesan Cheese
+3007,6,Low Sodium Chicken Broth (Canned)
+262035,6,The Original Worcestershire Sauce
+36641,6,"Tomato Puree (Without Salt Added, Canned)"
+39439,6,"Gelatin Desserts (Dry Mix, with Aspartame, Reduced Calorie)"
+38820,6,White Bread
+33895,6,Poppy Seed
+38267,6,"Chickpeas (Garbanzo Beans, Bengal Gram) (Mature Seeds)"
+35880,6,Navels Oranges
+39351,6,Baking Chocolate Squares
+34215,6,Sunflower Vegetable Oil (Linoleic Less Than 60%)
+36242,6,Artichokes (Globe or French)
+1328288,6,Chia Seeds
+307606,6,Almond Milk
+48933,6,Real Mayonnaise
+577617,6,Dry Mustard
+35104,6,"Tomato Chili Sauce (with Salt, Bottled)"
+40653,6,Corn and Canola Oil
+34325,6,"Margarine (Regular, 80% Fat with Salt, Tub)"
+37738,6,Sweet Dessert Wine
+38250,6,"Navy Beans (Mature Seeds, Canned)"
+518607,6,Cayenne Pepper
+35306,6,"Chicken Breast (Oven Roasted, Fat Free, Sliced)"
+33694,6,Cottage Cheese (Nonfat)
+3345875,6,Corn Starch
+35961,6,Golden Raisins (Seedless)
+38307,6,Chunky Peanut Butter (with Salt)
+39621,6,"Gelatin Desserts (Dry Mix, Reduced Calorie, with Aspartame, No Added Sodium)"
+37479,6,Ground Beef (70% Lean / 30% Fat)
+39705,6,Dry Couscous
+518587,6,Pure Almond Extract
+299288,6,Organic Extra Virgin Coconut Oil
+263378,6,Distilled White Vinegar
+3102,6,Egg White
+32688,6,Brown Sugar
+1264,6,Nonfat or Fat Free Mozzarella Cheese
+36557,6,Radishes
+5388,6,Banana
+40705,6,Cooking Wine
+82370,6,All Natural 100% Egg Whites
+35422,6,"Oats Cereal (Instant, Dry, Fortified)"
+36994,6,Serrano Pepper
+26316,6,Light Mayonnaise
+59252,6,Fancy Low-moisture Part-skim Mozzarella Cheese Shredded
+51153,6,Stevia
+59237,6,Balsamic Vinegar
+1260,6,Mozzarella Cheese
+36650,6,Turnips
+5466093,6,100% Liquid Egg Whites
+71464,6,Red Wine Vinegar
+71416,6,Extra Virgin Olive Oil
+34678,6,Ground Turkey (Cooked)
+35300,6,Smoked Turkey Italian Sausage
+40604,6,Monterey Cheese (Low Fat)
+5589,6,Apple Juice
+38348,6,Pink Lentils
+794,5,Whole Milk
+518592,5,Bay Leaves
+39752,5,"White Wheat Flour (All Purpose, Bleached, Enriched)"
+75372,5,Fat Free Feta Cheese
+38398,5,Dry Roasted Peanuts (Without Salt)
+3413,5,Flax Seeds
+36978,5,Arugula (Rocket)
+35731,5,Apple Juice (Canned or Bottled)
+35897,5,Papayas
+40738,5,Mayonnaise (Low Calorie)
+33912,5,"Vanilla Extract (Imitation, Alcohol)"
+74198,5,Organic Apple Cider Vinegar
+1470073,5,All Purpose Flour
+38793,5,Italian Bread
+48850,5,Raisins
+51121,5,Canola Oil Cooking Spray
+39566,5,Light Corn Syrup
+33703,5,Gruyere Cheese
+36661,5,Vegetable Juice Cocktail (Canned)
+3756765,5,Flaxseed Meal
+34864,5,Chicken Stock (Home Prepared)
+34346,5,Ranch Salad Dressing (Fat Free)
+36491,5,Potato (Flesh and Skin)
+7105,5,White Sugar (Granulated or Lump)
+3387797,5,Eggs (Large)
+3006,5,Reduced Sodium Chicken Broth (Canned)
+36279,5,"Green Snap Beans (Drained Solids, Canned)"
+4474,5,Cornstarch
+39776,5,Whole Wheat Macaroni (Cooked)
+57432,5,Margarine
+54889,5,Aged White Wine Vinegar
+49838,5,Original Canola Cooking Spray
+65061,5,Natural Shredded 2% Milk Reduced Fat Mozzarella Cheese
+35865,5,Cantaloupe Melons
+35287,5,Sweet Italian Links Sausage
+29381,5,Light Sour Cream
+234524,5,Boneless Skinless Chicken Breast
+36324,5,Carrots (Frozen)
+53247,5,Taco Seasoning
+2532515,5,Ground Cinnamon
+1267,5,Dry Grated Parmesan Cheese
+6284119,5,Shredded Mild Cheddar Cheese
+440073,5,Monterey Jack Cheese
+38826,5,Whole Wheat Bread
+5431,5,Kiwi Fruit
+35984,5,Watermelon
+40803,5,Swiss Cheese (Low Fat)
+37042,5,Dry Roasted Almonds (Without Salt Added)
+48252,5,Healthy Harvest Whole Wheat Rotini Pasta
+92779,5,Balsamic Vinegar
+49809,5,Diced Petite Tomatoes
+40779,5,Rice (Sake) Beverage
+39561,5,Equal Sweeteners (Aspartame) Packets
+38253,5,Pinto Beans (Mature Seeds)
+38794,5,Mixed Grain Bread (Includes Whole Grain and 7 Grain)
+793,5,Milk
+39767,5,"Pasta (Made with Egg, Cooked)"
+29523,5,100% Grated Parmesan Cheese
+6240,5,Fennel Bulb
+122837,5,Olive Oil Cooking Spray
+5628891,5,Black Beans
+518696,5,Ground Cumin
+34442,5,Chicken Breast Meat and Skin (Broilers or Fryers)
+1623,5,Chicken
+3094,5,Boiled Egg
+86110,5,Grill Mates Montreal Steak Seasoning
+35350,5,Bran Flakes
+34683,5,"Chicken (No Broth, Canned)"
+262285,5,Organic Olive Oil Cooking Spray
+379156,5,Shredded Carrots
+35144,5,"Sliced Ham  (Regular, Approx. 11% Fat)"
+6164883,5,Classic Yellow Mustard
+3376,5,Pecans
+1907,5,Deli Sliced Ham
+624951,5,Chocolate Chips
+33870,5,Chervil (Dried)
+59254,5,Fat Free Cream Cheese
+35877,5,"Green Olives (Pickled, Canned or Bottled)"
+81221,5,100% Canola Oil
+36428,5,Dried Shiitake Mushrooms
+32904,5,Great Northern Beans
+421771,5,Unbleached Bread Flour
+36418,5,Red Leaf Lettuce
+6254,5,Mixed Salad Greens
+49831,4,Tomato Paste (No Salt Added)
+33784,4,"Whey (Sweet, Dried)"
+82992,4,Salted Butter
+87639,4,Brown Sugar Blend
+36268,4,"Mung Beans (Mature Seeds, Sprouted)"
+37061,4,Coconut
+39692,4,Dry Bulgur
+38896,4,"Graham Crackers (Plain or Honey, Includes Cinnamon)"
+36316,4,Chinese Cabbage (Pe-Tsai)
+191549,4,Organic 100% Whole Ground Golden Flaxseed Meal
+35950,4,Pomegranates
+2076643,4,Large Egg
+35777,4,Sweet Cherries
+59266,4,Sharp Cheddar Cheese
+37169,4,"Beef Chuck (Blade Roast, Trimmed to 1/4"" Fat)"
+39071,4,Wonton Wrappers (Includes Egg Roll Wrappers)
+38790,4,French or Vienna Bread (Includes Sourdough)
+79776,4,1/3 Less Fat Neufchatel Cream Cheese
+40734,4,"Mixed Vegetables (Corn, Lima Beans, Peas, Green Beans, Carrots) (No Salt Added, Canned)"
+6239,4,Celery
+7125,4,Bouillon Vegetable Broth
+36440,4,Okra (Frozen)
+37062,4,Dried Coconut
+33702,4,Gouda Cheese
+369775,4,Extra Virgin Olive Oil
+25789,4,Turkey Pepperoni 70% Less Fat
+3374284,4,Diced Tomatoes
+343382,4,Ground Cinnamon
+38824,4,Whole Wheat Bread (Commercial)
+38260,4,White Beans (Mature Seeds)
+40723,4,"American Cheese (Low Fat, Pasteurized)"
+8131140,4,Finely Shredded Parmesan Cheese
+40765,4,"Cheddar or American Cheese (Low Sodium, Pasteurized)"
+35932,4,"Pineapple (Solids and Liquids, Water Pack, Canned)"
+35356,4,Granola Cereal
+33684,4,Blue Cheese
+28033,4,Natural Creamy Peanut Butter
+35933,4,"Pineapple (Solids and Liquids, Juice Pack, Canned)"
+263384,4,Natural Rice Vinegar
+36699,4,Summer Squash
+33707,4,"Mozzarella Cheese (Whole Milk, Low Moisture)"
+5289,4,Lime Juice
+1928814,4,93/7 Lean Ground Turkey
+34818,4,Teriyaki Sauce
+27818,4,Total 0% Greek Yogurt
+33754,4,Milk (2% Lowfat with Added Vitamin A and Protein)
+293798,4,Celery Salt
+36972,4,Baby Zucchini
+2109,4,Tuna in Water (Canned)
+38324,4,Soy Flour (Full Fat)
+37092,4,Dried Black Walnuts
+44673,4,2% Milk Sharp Cheddar Cheese
+40812,4,"Chocolate Puddings (Instant, Dry Mix, Low Calorie)"
+87491,4,Less Sodium Soy Sauce
+124977,4,Stevia in the Raw
+44766,4,Fancy Parmesan Blend Cheese Shredded
+36676,4,Yam
+36149,4,"Ham (Center Slice, Country-Style, Lean Only, Cured)"
+40748,4,Tomato and Vegetable Juice (Low Sodium)
+38426,4,"Lamb (Lean Only, Trimmed to 1/4"" Fat, Choice Grade)"
+2658950,4,Active Dry Yeast
+216142,4,Unsweetened Flaked Coconut
+35151,4,Pork Italian Sausage
+41563,4,Reduced Fat Mozzarella Cheese
+3863851,4,All Natural Diced Tomatoes
+65713,4,Dark Red Kidney Beans
+38256,4,Small White Beans (Mature Seeds)
+36483,4,"Green Peppers (Chopped, Frozen)"
+1262,4,Part Skim Mozzarella Cheese
+3381,4,Almond Butter
+38196,4,Atlantic Salmon (Farmed)
+38834,4,Angelfood Cake
+36968,4,Ketchup (Low Sodium)
+1099,4,Reduced Fat Sour Cream
+6034,4,Carrots
+108844,4,Just Almond Meal
+1902531,4,100% Natural Chicken Broth
+37945,4,Dry Dessert Wine
+36958,4,Dill Cucumber Pickles
+90151,4,99% Fat Free Extra Lean Ground Turkey Breast
+34873,4,"Cream Of Mushroom Soup (Reduced Sodium, Condensed, Canned)"
+104615,4,Finely Shredded Sharp Cheddar Cheese
+64631,4,40% Less Sodium Taco Seasoning Mix
+115665,4,Iodized Salt
+856471,4,Sriracha Chili Sauce
+6176,4,Tomato Paste
+2698025,4,Plain Greek Yogurt
+34783,4,"Vegetable with Beef Broth (Canned, Condensed)"
+229040,4,Iodized Salt
+102340,4,Extra Virgin Olive Oil
+88905,4,Sliced Carrots
+39769,4,Dry Macaroni (Enriched)
+41562,4,Original Style Traditional Spaghetti Sauce
+32430,4,Tilapia Fillets
+263382,4,Fine Red Wine Vinegar
+27656,4,Reduced Fat Crescent Rolls
+39696,4,Yellow Whole Grain Corn Flour
+61256,4,Cashew Halves & Pieces
+33844,4,Vanilla or Lemon Yogurt (Nonfat with Low Calorie Sweetener)
+5368,4,Applesauce
+36976,4,Fennel Bulk
+34252,4,Oil and Vinegar Salad Dressing (Home Recipe)
+4372265,4,Tomato Paste
+94538,4,Ranch Dry Dips Mix
+845,4,Plain Yogurt
+2399049,4,Chopped Green Chiles
+3864996,4,Banana
+36800,4,"Yellow Sweet Corn (Cream Style, No Salt Added, Canned)"
+36973,4,Tomatillos
+36871,4,"Pumpkin (with Salt, Canned)"
+38297,4,Peanuts
+36256,4,Bamboo Shoots
+33691,4,Colby Cheese
+39816,4,Dry Egg Noodles
+39799,4,Rice Noodles (Cooked)
+38962,4,Seasoned Croutons
+71004,4,Lite Soy Sauce
+36595,4,Acorn Winter Squash
+33758,4,Milk (Nonfat with Added Vitamin A)
+36778,4,Common Cabbage (Stored)
+76404,4,Old Fashioned Oatmeal
+2090261,4,Hoisin Sauce
+34866,4,Hoisin Sauce
+5420983,4,Unbleached All-Purpose Flour
+57770,4,Real Bacon Bits
+2624196,4,Unsalted Vegetable Cooking Stock
+89193,4,98% Fat Free Condensed Cream of Mushroom Soup
+38102,4,Blue Crab (Canned)
+41592,4,Taco Seasoning Mix
+39706,4,Couscous (Cooked)
+39485,4,Vanilla Puddings (Fat Free)
+66556,4,Worcestershire Sauce
+52548,4,Honey
+30042,4,Kalamata Olives
+6157,4,Tomato Juice
+34320,4,Light Butter (Stick with Salt)
+39814,4,"White Wheat Flour (All Purpose, Calcium Fortified, Enriched)"
+38350,4,Smooth Peanut Butter (Reduced Fat)
+196978,4,Panko Japanese Style Bread Crumbs
+34347,4,Ranch Salad Dressing
+31820,4,Fat Free Ricotta Cheese
+1695,4,Chicken Thigh
+303408,4,Low Fat Milk
+263348,4,Apple Cider Vinegar
+36858,4,"Potatoes (Flesh, with Salt, Boiled)"
+31242,4,Milled Flax Seed
+147995,4,Adobo All Purpose Seasoning
+716233,4,Pure Almond Milk - Original
+3332763,4,Cornstarch
+35997,4,"Applesauce (with Added Ascorbic Acid, Unsweetened, Canned)"
+36085,4,"Pork Chops (Top Loin, Boneless, Lean Only)"
+6980,4,Green Olives
+37784,4,"Cola or Pepper Soda (with Caffeine, with Aspartame)"
+3446946,4,Ground Turkey 85/15
+35747,4,"Dried Apricots (Uncooked, Sulfured)"
+47442,4,Extra Light Olive Oil
+1289285,4,Heavy Whipping Cream
+39686,4,Pearled Barley
+33711,4,Neufchatel Cheese
+36572,4,Green Soybeans
+518773,4,Crushed Red Pepper
+5086982,4,Coconut Flour
+26245,4,Boneless Skinless Chicken Breast
+6174,4,Tomato Sauce
+43434,4,Premium Pinto Beans
+33899,4,Saffron
+2266397,4,Pure Irish Butter
+3060709,4,Shredded Mozzarella Cheese
+6260,4,Hot Chili Pepper
+564224,3,Granny Smith Apples
+36336,3,Swiss Chard
+53308,3,Natural Crumbled Feta Cheese
+547174,3,Double Acting Baking Powder
+33725,3,American Cheese (Cold Pack)
+55089,3,Bell Peppers
+109622,3,Corn Starch
+4550055,3,Corn Flakes
+37624,3,"Beef Top Round (Trimmed to 1/8"" Fat, Choice Grade)"
+4433,3,Barley (Cooked)
+33785,3,Plain Yogurt (Whole Milk)
+40662,3,"Margarine-Like Spread with Salt (40% Fat, Reduced Calorie, Stick)"
+40818,3,"Puddings (All Flavors Except Chocolate, Dry Mix, Low Calorie)"
+63512,3,Nonfat Plain Greek Yogurt (170g)
+49330,3,Instant Whole Grain Brown Rice
+30760,3,Spicy Brown Mustard
+991805,3,Chick Peas
+37718,3,Light Beer
+5440449,3,Light Mayonnaise
+43682,3,100% Pure Florida Orange Juice
+34263,3,Sunflower Vegetable Oil (Linoleic Approx. 65%)
+5298095,3,0% Plain Greek Yogurt (8 oz)
+29050,3,Toasted Sesame Oil
+38359,3,Firm Silken Tofu
+3394355,3,Whole Wheat Flour
+27158,3,Reduced Fat Mayonnaise
+71486,3,Bacon Thick Sliced
+98352,3,Extra Virgin Olive Oil
+38047,3,Pink Salmon
+3219350,3,Original Pepper Sauce
+49814,3,Spaghetti Sauce Four Cheese
+427987,3,Mascarpone Cheese
+166269,3,Unsweetened Shredded Coconut
+69801,3,Special Dark Chocolate Chips
+27124,3,Original Pancake & Baking Mix
+37820,3,Coffee (Instant Powder)
+4013663,3,Turkey Bacon (15g)
+71467,3,White Cooking Wine
+144508,3,Crushed Red Pepper
+6471,3,Cooked Cauliflower (Fat Not Added in Cooking)
+36112,3,Pork Chitterlings
+44754,3,Chicken Broth
+5445,3,Peach
+1076,3,Light Cream
+55304,3,Reduced Fat Mexican Style Shredded Cheese
+370209,3,Unsalted Sweet Cream Butter Sticks
+4544575,3,Fat Free Evaporated Skimmed Milk with Vitamin A & D Added
+40724,3,Cream Cheese Spread
+61613,3,Natural Shredded 2% Milk Reduced Fat Colby & Monterey Jack Cheese
+1680900,3,Egg Substitute
+82592,3,Margarine Spread
+36962,3,Pimento (Canned)
+1502,3,Pork Roast
+34239,3,Italian Salad Dressing
+36847,3,"Red Hot Chili Peppers (Excluding Seeds, Solids and Liquids, Canned)"
+38360,3,Extra Firm Silken Tofu
+128806,3,Confectioners Powdered Sugar
+39798,3,Dry Rice Noodles
+49806,3,Crushed Tomatoes
+37804,3,Chocolate Syrup
+2151,3,Canned Crab
+80171,3,Traditional Mild Enchilada Sauce
+37952,3,"Tea (Brewed, with Distilled Water)"
+1409,3,Extra Lean Ground Beef
+30686,3,Natural Shredded 2% Milk Reduced Fat Sharp Cheddar Cheese
+113529,3,100% White Whole Wheat Flour
+40756,3,Cranberry Juice (Unsweetened)
+39090,3,Graham Cracker Pie Crust
+30597,3,Plain Ramen Noodles
+296095,3,Rotini
+263354,3,Rice Vinegar
+739274,3,Complete Biscuit & Baking Mix
+65112,3,Natural Unsweetened Cocoa
+799,3,"Milk (Other Than Whole, 1% or Skim)"
+383883,3,Shredded Green Cabbage
+38211,3,"Pink Salmon (Drained Solids, Canned)"
+279927,3,Yukon Gold Potatoes
+36936,3,"White Sweet Corn (Kernels On Cob, Frozen)"
+277098,3,Raw Unsalted Creamy Almond Butter
+29183,3,Balsamic Vinegar
+6247,3,Jicama
+62289,3,Fat Free Sweetened Condensed Milk
+528523,3,Original Pepperoni Slices
+36278,3,"Green Snap Beans (Solids and Liquids, Canned)"
+41145,3,Miracle Whip Light Dressing
+84947,3,Slivered Almonds
+485524,3,Garbanzo Beans
+1697,3,Chicken Thigh (Skin Not Eaten)
+34786,3,Beef Broth or Bouillon Soup (Dry Powder)
+38830,3,Bread Stuffing (Dry Mix)
+37069,3,"Coconut Milk or Cream (Liquid with Water, Canned)"
+34332,3,"Margarine (Regular, 80% Fat, Tub)"
+1504246,3,Nutritional Yeast
+35989,3,"Pineapple (Drained, Juice Pack, Canned)"
+33769,3,Evaporated Milk
+32530,3,Unsweetened Soymilk
+518402,3,Lentils
+37700,3,"Beef Inside Skirt Steak (Lean Only, Trimmed to 1/4"" Fat)"
+71804,3,Black Beans Canned
+50331,3,Reduced Fat Cream Cheese
+233610,3,Beef Base
+36482,3,"Green Peppers (Solids and Liquids, Canned)"
+6542,3,Cream Style Corn
+80336,3,Frozen Broccoli Cuts
+619258,3,Reduced Fat Parmesan Style Grated Topping
+7702,3,Dry Table Wine
+6249,3,Leek
+88100,3,Fat Free Cream Cheese
+2317759,3,Whole Grain Oat Flour
+47706,3,99% Fat Free Chicken Broth
+39778,3,"Egg Noodles (Enriched, Cooked)"
+119095,3,Sazon Con Culantro Y Achiote
+149354,3,Part Skim Milk Ricotta Cheese
+36989,3,Lemon Grass (Citronella)
+39775,3,Dry Whole Wheat Macaroni
+3743,3,Whole Wheat Tortilla
+37050,3,Cashew Nuts
+65716,3,Lean Ground Turkey Breast
+38776,3,Plain or Buttermilk Biscuit Dough (Lower Fat)
+34327,3,"Margarine (Vegetable Oil Spread, 60% Fat, Tub/Bottle)"
+7315459,3,Organic Coconut Oil
+39707,3,"Hominy (White, Canned)"
+343392,3,Parsley Flakes
+39760,3,Brown Rice Flour
+56869,3,Garlic Pepper
+34791,3,"Chicken Broth or Bouillon Soup (Dry, Dehydrated)"
+516010,3,California Onion Powder
+76392,3,Frozen Strawberries
+52746,3,Organic Vegetable Broth
+38144,3,"Light Tuna Fish (Drained Solids In Water, Without Salt, Canned)"
+54888,3,Organic Extra Virgin Olive Oil
+38811,3,Wheat Bread (Reduced Calorie)
+69416,3,Bananas (Large)
+4302059,3,Light Creamy Swiss Cheese Wedges
+49776,3,All Natural Organic Vegetable Stock
+285820,3,Fat Free Mayonnaise
+33901,3,Savory (Ground)
+5679491,3,Chick Peas
+50583,3,Original BBQ Sauce
+40661,3,"Vegetable Oil-Butter Spread (Reduced Calorie, Tub, Salted)"
+36684,3,Chives (Freeze Dried)
+7611195,3,Frozen Chopped Spinach
+39685,3,Barley
+28372,3,Spread made with Yogurt
+6292,3,Cooked Asparagus (from Fresh)
+33782,3,"Whey (Acid, Dried)"
+4358509,3,Quick Oats
+103651,3,50% Reduced Fat Sharp Cheddar Cheese
+37305,3,"Beef Tenderloin (Lean Only, Trimmed to 1/4"" Fat, Prime Grade)"
+51976,3,Premium Fish Sauce
+37004,3,Oyster Mushroom
+229053,3,5th Season Chili Powder
+36312,3,Savoy Cabbage
+37621,3,"Beef Top Round (Trimmed to 1/8"" Fat)"
+253141,3,99% Fat Free All Natural Chicken Broth
+3011486,3,Green Bell Pepper
+58418,3,Baby Bok Choy
+430972,3,Natural Finely Shredded Sharp Cheddar Cheese
+64671,3,Feta Cheese
+36639,3,"Tomato Juice (with Salt Added, Canned)"
+53134,3,Fresh Frozen Wild Blueberries
+3277,3,Worcestershire Sauce
+364010,3,Sambal Oelek Ground Fresh Chili Paste
+437137,3,Large Brown Grade A Eggs
+29572,3,Fat Free Miracle Whip
+263119,3,Natural Pure Raw Honey
+38414,3,Soy Protein Isolate (Potassium Type)
+6167,3,Red Salsa
+103676,3,Original Taco Seasoning Mix
+38877,3,Brownies (Dry Mix)
+38356,3,Extra Firm Tofu (Prepared with Nigari)
+34342,3,"Margarine (Vegetable Oil, 20% Fat)"
+37983,3,Pacific Cod
+44126,3,Quinoa Traditional
+269528,3,Tomato Paste
+37031,3,Dried Sunflower Seed Kernels
+90699,3,Olive Oil
+36346,3,Coleslaw
+35093,3,Mature Red Chili Hot Peppers (Canned)
+7152,3,Clarified Butter Ghee
+1876,3,Pepperoni
+1435,3,Pork Chop
+1787,3,Turkey Bacon
+59258,3,Instant Brown Rice
+66614,3,Mayonnaise
+37139,3,Tahini Sesame Butter Seeds
+38347,3,Soy Milk (Calcium Fortified)
+77104,3,Light Butter with Canola Oil
+3653784,3,Erythritol
+40660,3,"Butter-Margarine Blend (Unsalted, Stick)"
+5104775,3,Egg Beaters - Original
+68284,3,Original Creole Seasoning
+33764,3,"Milk (Nonfat, Dry)"
+1014703,3,Garlic & Herb Seasoning Blend
+33734,3,"Sour Cream (Reduced Fat, Cultured)"
+35115,3,"Chicken Flavor Ramen Noodle Soup (Dry, Dehydrated)"
+50491,3,Premium Pork Regular Sausage
+66537,3,Shredded Cheddar Cheese
+52919,3,2% Milk
+37063,3,"Dried Coconut (Flaked, Sweetened)"
+120194,3,Reduced Sodium Soy Sauce
+37154,3,"Beef Retail Cuts Composite (Lean Only, Trimmed to 1/4"" Fat, Select Grade)"
+525051,3,Chili Garlic Sauce
+6288738,3,Zucchini
+72536,3,Extra Virgin Olive Oil Spray
+171059,3,Boneless Chicken Breast Fillets
+93534,3,Sugar Blend
+35381,3,Corn Flakes
+58582,3,Dried Tart Cherries
+512964,3,Stove Top Chicken Flavor Stuffing Mix
+5492,3,Berries
+40718,3,Fruit Yogurt (Nonfat)
+624623,3,Bananas
+38244,3,"Red Kidney Beans (Without Salt, Cooked, Boiled)"
+39128,3,"Pie Crust (Unenriched, Frozen)"
+1236944,3,Liquid Stevia Drops
+58969,3,Chunk Light Tuna in Water
+1350,3,Beef
+2200644,3,Heavy Whipping Cream
+6086,3,Cooked Pumpkin
+34348,3,Ranch Salad Dressing (Reduced Fat)
+47477,3,Fat Free Vegetable Broth
+110417,3,Light Coconut Milk
+140987,3,Light Coconut Milk
+40706,3,Light Wine
+1577014,3,Organic Chia Seed
+35795,3,Figs
+1081,3,Whipped Heavy Cream (Unsweetened)
+39048,3,Dinner Rolls
+4397,3,Macaroni
+1329674,3,Panko Crispy Plain Bread Crumbs
+437112,3,Cage Free Large Fresh Brown Eggs
+36474,3,Peas and Carrots (Frozen)
+37121,3,Dry Roasted Sunflower Seeds (with Salt Added)
+40817,3,"Puddings (All Flavors Except Chocolate, Instant, Dry Mix, Low Calorie)"
+6997,3,Salted Light Butter Stick
+37659,3,"Beef Top Sirloin (Trimmed to 1/8"" Fat, Choice Grade)"
+36021,3,"Pork Trimmed Retail Cuts (Leg, Loin, and Shoulder, Lean Only)"
+155104,3,Season All Seasoned Salt
+763650,2,Lite Coconut Milk
+2158383,2,Organic Grape Tomatoes
+1538,2,Deep-Fried Pork Rinds
+37974,2,Wild Channel Catfish
+35867,2,Honeydew Melons
+47205,2,Whole Wheat Graham Flour
+59358,2,Turkey Smoked Sausage
+29359,2,Low Sodium Teriyaki Sauce
+91288,2,Sliced Black Olives
+34304,2,Avocado Vegetable Oil
+6433,2,Cooked Yellow Corn (Canned)
+7156,2,Sunflower Oil
+37041,2,Blanched Almonds
+1625,2,Chicken (Skin Not Eaten)
+55973,2,Turkey Breast Cutlets
+40745,2,"Cottage Cheese (Lowfat, 1% Milkfat, No Sodium)"
+80577,2,Fat Free Refried Beans
+34192,2,Sesame Seed Salad Dressing
+36462,2,Snow or Sugar Snap Peas (Frozen)
+36009,2,Medjool Dates
+55261,2,Lite Coconut Milk
+380547,2,Whole Wheat Penne
+37127,2,Dry Roasted Cashew Nuts (with Salt Added)
+3001,2,"Chicken Broth, Bouillon or Consomme"
+2213270,2,Old Fashioned Rolled Oats
+3466643,2,Organic Raw Honey
+6408,2,Cooked Celery
+2569650,2,Raw Organic Coconut Butter
+34502,2,Chicken Light Meat (Roasting)
+72181,2,Cool Whip Free
+3403556,2,Baking Blend
+88625,2,Semi-Sweet Baking Chocolate Squares
+1193869,2,Natural Peanut Butter
+37959,2,Water (Bottled)
+2320776,2,Chia Seed
+5367,2,Apple
+90365,2,Canned Artichoke Hearts
+4490,2,Instant Oatmeal
+38482,2,"Lamb Cubed For Stew or Kabob (Lean Only, Trimmed to 1/4"" Fat)"
+506043,2,Reduced Fat Crumbled Feta Cheese
+36232,2,"Bacon (Cured, Baked, Cooked)"
+82092,2,100% Natural Tomato Sauce
+96696,2,Organic Low Sodium Chicken Broth
+36504,2,"Potatoes (Skin, Without Salt, Boiled)"
+39754,2,White Wheat Bread Flour (Enriched)
+1278,2,Mexican Blend Cheese
+39460,2,"Vanilla Puddings (Instant, Dry Mix)"
+33760,2,Milk (Nonfat with Added Vitamin A and Protein)
+53528,2,Chicken Bouillon Cubes
+2217779,2,Shredded Mozzarella Cheese
+894764,2,Chicken Bouillon Granules
+40746,2,"Mayonnaise (Low Calorie or Diet, Low Sodium)"
+7185230,2,100% Pure Raw & Unfiltered Honey
+34731,2,"Cream Of Celery Soup (Canned, Condensed)"
+45409,2,2% Reduced Fat Mild Cheddar Cheese
+37992,2,Flatfish (Flounder and Sole Species)
+721388,2,Cayenne Pepper Spice
+3362,2,Mixed Nuts
+37698,2,"Beef Flank (Trimmed to 0"" Fat)"
+39537,2,Jams and Preserves
+123466,2,Southwestern Style Corn
+39812,2,Yellow Hominy (Canned)
+4070565,2,Natural California Raisins
+1292923,2,Baking Powder
+34605,2,"Turkey Breast Meat (Fryer-Roasters, Cooked, Roasted)"
+95701,2,"In The Bag Steamable Vegetables - Broccoli, Cauliflower & Carrots"
+55264,2,Fish Sauce
+6881736,2,0% Plain Greek Yogurt (5.3 oz)
+39708,2,Millet
+2067591,2,Heavy Whipping Cream
+128503,2,Corn Flakes Cereal
+6262,2,Serrano Pepper
+39135,2,"Yellow Cake (Dry Mix, Light)"
+37492,2,"Beef Knuckle (Tip Side, Steak, Lean Only, Trimmed to 0"" Fat, Choice Grade)"
+38275,2,"Cowpeas (Blackeyes, Crowder, Southern) (Mature Seeds, Canned)"
+27389,2,Organic Black Beans
+42902,2,Eggs
+6684713,2,Coconut Oil
+39802,2,"Egg Noodles (with Added Salt, Enriched, Cooked)"
+38263,2,Broadbeans (Fava Beans) (Mature Seeds)
+37104,2,Coconut Milk (Frozen)
+970499,2,Quick Cooking Rolled Oats
+2488220,2,Chopped Walnuts
+41294,2,Fat Free Skim Milk with Vitamins A & D
+37712,2,"Beef Chuck (Shoulder Clod, Top Blade Steak, Lean Only, Trimmed to 0"" Fat, Select Grade)"
+54895,2,Original Hot Sauce
+36438,2,Okra
+36249,2,"Asparagus (Drained Solids, Canned)"
+80127,2,Fine Red Wine Vinegar
+65077,2,Regular Vegetable Oil Spread
+64831,2,Dried Mixed Fruit
+38132,2,Scallop (Mixed Species)
+1198618,2,Organic Old-fashioned Rolled Oats
+1045,2,Nonfat Dry Milk
+85231,2,Corn & Peppers
+5310191,2,Hearts of Romaine Lettuce
+44768,2,Fancy Sharp Cheddar Cheese Shredded
+300613,2,White Basmati Rice
+39804,2,White Whole Grain Corn Flour
+38037,2,Orange Roughy (Fish)
+36928,2,"White Sweet Corn (Whole Kernel, Drained Solids, Canned)"
+633859,2,Roasted Red Pepper Alfredo Sauce
+64713,2,Crumbled Feta Cheese Traditional
+80622,2,100% Pure Sesame Seed Oil
+78569,2,Semi Sweet Chocolate Chips
+33718,2,Romano Cheese
+4424,2,Spaghetti
+36467,2,"Green Peas (Drained Solids, Canned)"
+6235,2,Chinese Cabbage
+6487497,2,Ghee
+3345,2,Unroasted Almonds
+40674,2,Caesar Salad Dressing (Low Calorie)
+37822,2,"Coffee (Instant Powder, Decaffeinated)"
+37282,2,"Beef Top Round (Lean Only, Trimmed to 1/4"" Fat, Prime Grade)"
+27532,2,Fat Free Strawberry Yogurt
+66804,2,Vegetable Oil
+34329,2,Household Shortening
+1599119,2,Old Fashioned Rolled Oats
+33878,2,Dill Seed
+36236,2,Bacon Fat (Cooked)
+81846,2,Organic Free Range Chicken Broth Low Sodium
+39815,2,Macaroni (Cooked)
+2753681,2,Black Label Center Cut Bacon
+37315,2,"Ground Beef (Hamburger, Approx 23% Fat, Frozen Patties)"
+70931,2,Light Original Buttery Spread with Flax Oil
+35847,2,Lemons (Without Peel)
+680123,2,Premium Dark Soy Sauce
+1872,2,Chorizos
+75536,2,Shaved Parmesan Cheese
+40355,2,"Beef Chuck (Cold Steak, Lean Only, Trimmed to 1/4"" Fat)"
+38369,2,"Black Beans (Mature Seeds, with Salt, Cooked, Boiled)"
+34344,2,Thousand Island Salad Dressing (Fat Free)
+96740,2,Canola Mayonnaise
+97297,2,Unsweetened Applesauce
+83045,2,Coarse Sea & Himalayan Salt
+35938,2,"Pineapple Juice (Without Added Ascorbic Acid, Unsweetened, Canned)"
+33867,2,Caraway Seed
+34323,2,Bacon Grease
+36059,2,"Pork Chops or Roasts (Center Loin, Bone-In, Lean Only)"
+5588,2,Apple Cider
+3762529,2,Organic Tahini
+59246,2,Clover Honey
+1518719,2,Sesame Seed Oil
+72881,2,Chopped Green Chiles
+64562,2,Wild Salmon Fillets
+55801,2,Whole Grain Dijon Mustard
+5977320,2,100% Lemon Juice
+52747,2,Organic Free Range Chicken Broth
+285159,2,Prawns
+8394954,2,Ground Chicken
+7649,2,Rice Wine
+6494,2,Cooked Young Green Onion (from Fresh)
+33730,2,Coffee or Table Cream (Light)
+83035,2,Green Chile Enchilada Sauce
+26451,2,37% Light Buttery Spread
+36910,2,Tomato Paste (with Salt Added)
+90477,2,Granulated Sugar
+499068,2,Reduced Sodium Black Beans
+82091,2,Petite Diced Tomatoes
+107368,2,Extra Thin Yellow Corn Tortillas (Taco Size)
+35159,2,Pork Luncheon Meat (Canned)
+3903329,2,Baking Powder
+61494,2,Grated Parmesan Cheese
+69768,2,Lite Cinnamon Apple Sauce
+2353080,2,All Natural Pizza Sauce
+1236456,2,Organic Chicken Broth
+288541,2,Medium Eggs
+101621,2,Slivered Almonds
+3760223,2,100% Natural Stevia Sweetener
+4216633,2,Shredded Monterey Jack Cheese
+51284,2,Chili Oil
+6992,2,Salted Butter Stick
+3238542,2,Vanilla Whey Protein Powder
+35111,2,Adobo Fresco
+33801,2,"Scrambled Egg (Whole, Cooked)"
+31886,2,Roasted Red Pepper
+568597,2,Gala Apples
+521598,2,Fat Free Plain Nonfat Yogurt
+1071769,2,Mini Chocolate Chips
+287728,2,Taco Seasoning Mix
+38842,2,Chocolate Cake (Dry Mix)
+7022,2,Mustard
+6253,2,Arugula Lettuce
+343376,2,Garlic Salt
+116608,2,Raw Whole Cashews
+263390,2,Balsamic Vinegar
+81222,2,Vanilla Praline Whey Protein
+6257,2,Mature Onions
+3407,2,Dry Roasted Hulled Sunflower Seeds
+344888,2,Sugar Snap Peas
+35787,2,"Cranberry Sauce (Sweetened, Canned)"
+34308,2,Margarine-Butter Blend (60% Corn Oil & 40% Butter)
+9237709,2,Coconut Flour
+39131,2,Corn Tortillas (Without Added Salt)
+36926,2,"White Sweet Corn (Whole Kernel, Solids and Liquids, Canned)"
+263358,2,Seasoned Rice Vinegar
+38000,2,Atlantic and Pacific Halibut
+302993,2,Natural Creamy Peanut Butter
+36980,2,Hearts Of Palm (Canned)
+38895,2,Gingersnaps
+518741,2,Minced Onion
+268119,2,Sweet Potatoes
+1305,2,Nonfat or Fat Free Processed Cream Cheese
+263375,2,White Balsamic Vinegar
+4669898,2,Organic Diced Tomatoes
+40435,2,"Beef Tenderloin (Lean Only, Trimmed to 1/8"" Fat)"
+40806,2,Mayonnaise (No Cholesterol)
+2660722,2,Chicken Cooking Stock
+56864,2,Taco Spices & Seasonings
+90324,2,Diced Tomatoes
+40759,2,"Apple Cider-Flavored Drink (Powder, Low Calorie, with Vitamin C)"
+2388553,2,Organic Chicken Broth
+3597909,2,Frozen Blueberries
+1457076,2,Spelt Flour
+38100,2,Blue Crab
+93197,2,No Stick Canola Oil Cooking Spray
+7106,2,Brown Sugar
+36801,2,"Yellow Sweet Corn (No Salt Added, Vacuum Packed, Canned)"
+6268,2,Snowpeas (Pea Pod)
+38079,2,Wild Rainbow Trout
+944965,2,Large Grade A Eggs
+127417,2,Cucumber Slices
+2613405,2,Special Dark Mildly Sweet Chocolate Chips
+38349,2,Veggie Burgers
+81735,2,Whole Wheat Pastry Flour
+5294,2,Freshly Squeezed Orange Juice
+37716,2,Regular Beer
+40731,2,Soybean (Curd Cheese)
+148606,2,Italian Style Bread Crumbs
+3760710,2,Unsweetened Organic Coconut Milk Classic
+47786,2,Unsalted Butter
+38355,2,Hummus (Commercial)
+7682,2,Beer
+49239,2,Olive Oil
+37837,2,Cranberry-Grape Juice (Bottled)
+39700,2,Yellow Degermed Cornmeal (Enriched)
+4055473,2,Creamy Peanut Butter
+65575,2,Cubed Super Firm Tofu
+51966,2,Calorie Free Pancake Syrup
+118744,2,Instant Beef Bouillon
+36338,2,Chayote (Fruit)
+80080,2,Low Fat Almond Milk
+33862,2,Fruit Yogurt (Lowfat with Low Calorie Sweetener)
+39753,2,"White Wheat Flour (All Purpose, Self-Rising, Enriched)"
+238475,2,Calorie Free Sweetener
+40428,2,"Beef Bottom Round (Lean Only, Trimmed to 1/8"" Fat)"
+55121,2,Sweet Italian Red Onion
+39765,2,Fresh Spinach Pasta
+33833,2,Queso Asadero Cheese
+34396,2,Chicken Meat (Broilers or Fryers)
+91273,2,Unsalted Butter
+98348,2,Cannellini White Kidney Beans
+47613,2,Liquid Aminos
+36729,2,Arrowroot
+49651,2,Frozen Broccoli Florets
+39390,2,Milk Chocolate Candies
+56900,2,Heavy Whipping Cream
+99759,2,Boneless Skinless Chicken Breast
+848,2,Nonfat Plain Yogurt
+72158,2,Omega Light Buttery Spread
+34264,2,Safflower Vegetable Oil (Over 70% Linoleic)
+47826,2,Fat Free Refried Beans
+38093,2,Whiting (Fish) (Mixed Species)
+76938,2,Lite Soy Sauce
+975082,2,Plain Bread Crumbs
+42732,2,Sliced Zucchini
+1268286,2,Green Bell Peppers
+36971,2,Radicchio
+50118,2,Baby Carrots
+229827,2,Seafood Steamers Seasoning & Steaming Bag
+30381,2,Pure Canola Oil
+47270,2,Walnut Halves & Pieces
+212055,2,Sweet Chili Pepper Sauce
+69051,2,Fat Free Sour Cream
+7100011,2,Applesauce Unsweetened
+39045,2,Puff Pastry (Frozen)
+69602,2,Panko Breadcrumbs
+34751,2,"Beef Broth Bouillon and Consomme (Canned, Condensed)"
+81641,2,Whole Wheat Flour
+37896,2,"Herbal Tea (Other Than Chamomile, Brewed)"
+7150085,2,Yellow Corn Tortillas
+5209383,2,White Sliced Mushrooms
+37966,2,"Anchovy (Drained Solids In Oil, Canned)"
+33789,2,"Fruit Yogurt (Lowfat, 9g Protein Per 8oz)"
+39817,2,"Egg Noodles (Without Added Salt, Cooked)"
+131921,2,Break Free Egg Substitute
+38146,2,"White Tuna Fish (Drained Solids In Water, Without Salt, Canned)"
+87010,2,Boneless Skinless Chicken Breast
+42978,2,Organic Ground Flaxseed
+40712,2,"Sweeteners (Fructose, Dry, Powder)"
+36771,2,"Broccoli (Chopped, with Salt, Frozen, Drained, Cooked, Boiled)"
+6270,2,Green Summer Squash
+7263,2,Corn Oil
+2892142,2,Organic Virgin Coconut Oil
+69644,2,Seasoned Rice Wine Vinegar
+7953818,2,Organic Roasted Garlic Pasta Sauce
+1407,2,Ground Beef (Cooked)
+34769,2,"Cream Of Potato Soup (Canned, Condensed)"
+68394,2,Whole Grain Thin Spaghetti Pasta
+39657,2,Fudgesicle Pops (No Sugar Added)
+49889,2,Cannellini Beans
+38831,2,"Bread Stuffing (Dry Mix, Commercial)"
+1336299,2,Ground Flax Seed
+39321,2,Pork Skins
+62321,2,Self-Rising Flour
+3152611,2,Baby Bella Mushrooms
+633935,2,Natural Smooth & Creamy Peanut Butter
+4552,2,Bulgur
+35736,2,Apricots
+4938350,2,Fresh Baby Cut Carrots
+29605,2,Red Baby Potatoes
+4506920,2,Himalayan Pink Salt Crystals
+36174,2,"Ham (Boneless, Extra Lean and Regular, Cured)"
+6620,2,Cooked Spaghetti Squash (Fat Not Added in Cooking)
+39820,2,Yellow Degermed Cornmeal
+99431,2,Classic Cole Slaw Mix
+4616808,2,Turbinado Raw Sugar
+40620,2,"Buttermilk (Reduced Fat, Cultured)"
+39606,2,"Tortilla Chips (Low Fat, Baked)"
+6070904,2,Whole Wheat Spaghetti
+36429,2,"Shiitake Mushrooms (Without Salt, Cooked)"
+378483,2,Old Fashioned Oats
+54136,2,Fresh Spinach
+3265373,2,Unbleached White Whole Wheat Flour
+7214,2,Butter
+4584,2,All-Bran
+5387,2,Avocado
+79431,2,Granny Smith Apple
+6354,2,Cooked Beets (from Fresh)
+37645,2,"Beef Tenderloin (Trimmed to 1/8"" Fat)"
+34456,2,Chicken Drumstick Meat (Broilers or Fryers)
+6170,2,Red Enchilada Sauce
+39761,2,Dry Corn Pasta
+1737,2,Ground Chicken
+4480,2,Quick Oatmeal (1 or 3 Minutes)
+40707,2,Sweeteners (Saccharin)
+39829,2,Semolina
+87882,2,Unsweetened Apple Sauce
+59050,2,Pure Coconut Oil
+518799,2,Imitation Vanilla Extract
+34594,2,Turkey Light Meat (Fryer-Roasters)
+87064,2,Hot Chili Sesame Oil
+69645,2,Unseasoned Rice Wine Vinegar
+40676,2,"Jams and Preserves (Dietetic, with Sodium Saccharin)"
+292098,2,Fettuccine
+6091238,2,Cannellini Beans
+35982,2,Tamarinds
+82274,2,Smart Taste Elbows Pasta
+1512889,2,Light Garden Vegetable Cream Cheese
+62938,2,Organic Carrots
+33920,2,Spearmint (Dried)
+2175415,2,Gochujang
+448901,2,Grilled Chicken
+102086,2,Granulated White Pure Cane Sugar
+1878,2,Italian Sausage
+2705099,2,Cocoa Powder Unsweetened
+229825,2,Cajun Seasoning
+75714,2,Boneless Skinless Chicken Breast Tenders
+71461,2,Baby Cut Carrots
+751556,2,Traditional Plain Greek Yogurt
+3024399,2,3 Cheese Mexicana Shredded Cheese
+39056,2,Mixed Grain Hamburger or Hotdog Rolls
+38947,2,"Saltines Crackers (Includes Oyster, Soda, Soup)"
+515996,2,Chili Powder with New Mexico Chilies
+62320,2,All Purpose Flour
+58812,2,Bean Sprouts
+3353,2,Roasted Unsalted Cashew Nuts
+7731,2,Vodka
+1814219,2,Organic Coconut Flour
+471316,2,Chinese Five Spice Blend
+80582,2,Shredded Carrots
+39437,2,Gelatin Desserts (Dry Mix)
+33700,2,Fontina Cheese
+12874451,2,Vidalia Onion
+75535,2,Natural Shredded 2% Milk Reduced Fat Mexican Style Four Cheese
+22591650,2,Whey Protein Isolate
+88045,2,Salsa Verde
+1519276,2,Reduced Sodium Pinto Beans
+33683,2,Butter Oil
+38402,2,Chunky Peanut Butter (Without Salt)
+569493,2,Pinto Beans
+33791,2,"Fruit Yogurt (Lowfat, 11g Protein Per 8oz)"
+1299414,2,Organic Quinoa
+77985,2,Stewed Tomatoes Italian Recipe
+38049,2,Sockeye Salmon
+38055,2,Sea Bass (Mixed Species)
+39777,2,Dry Egg Noodles (Enriched)
+95738,2,Seasoned Rice Vinegar
+36701,2,Winter Squash
+2693796,2,Lean Ground Turkey 93/7
+2665657,2,Healthy Request Cheddar Cheese Soup
+35000,2,"Chicken Broth or Bouillon Soup (with Equal Volume Water, Dehydrated)"
+35142,2,Chopped Ham
+122981,2,Frozen Whole Strawberries
+61903,2,Canned Black Beans
+36554,2,Pumpkin Pie Mix (Canned)
+35793,2,Deglet Noor Dates
+38583,2,Deer Game Meat
+3590,2,Whole Wheat Bread
+37090,2,Pistachio Nuts
+35450,2,"White Corn Grits Cereal (Dry, Unenriched)"
+36705,2,Spanish Style Tomato Sauce (Canned)
+3009332,2,Diced Onions
+7265,2,"Canola, Soybean and Sunflower Oil"
+2587103,2,Old Bay Seasoning
+102184,2,Chicken Breast Cutlets
+518743,2,Oregano
+344683,2,Gorgonzola Cheese
+804,2,Skim or Nonfat Milk (0.5% or Less Butterfat)
+40411,2,Ground Beef (75% Lean / 25% Fat)
+7331,2,Coffee
+72799,2,Heavy Whipping Cream Ultra Pasteurized
+36993,2,Banana Pepper
+38292,2,Chinese Noodles (Mung Beans) (Cellophane or Long Rice)
+75131,2,Fat Free Zesty Italian Dressing
+40755,2,"Swiss Cheese (Low Fat, Pasteurized)"
+598037,2,Frozen Mango
+2777933,2,Honey
+34319,2,"Vegetable Oil-Butter Spread (Tub, Salted)"
+3759786,2,Erythritol Powder
+7222,2,Sucralose Based Sweetener (Sugar Substitute)
+1729106,2,Baby Bella Mushrooms
+7218,2,Rapeseed Oil
+3268601,2,Sorghum Flour
+1315866,2,Minced Garlic in Water
+5359,2,Dried Prune
+40478,2,"Beef Bottom Sirloin (Tri-Tip Roast, Lean Only, Trimmed to 0"" Fat, Select Grade)"
+6261,2,Poblano Pepper
+69613,2,Hot Chili Oil
+34213,2,Palm Vegetable Oil
+31568,2,Fat Free Mayonnaise
+33919,2,Spearmint
+135017,2,Italian Recipe Stewed Tomatoes
+35134,2,Pork and Beef Chorizo
+181910,2,Salad Shrimp
+40302,2,"Beef Outside Round (Steak, Lean Only, Trimmed to 0"" Fat)"
+83073,2,Chopped Dates
+159476,2,Coarse Ground Mustard
+39825,2,White Rice (Medium-Grain)
+15651311,2,Pure Desi Ghee
+4109655,2,1/3 Less Fat Cream Cheese
+2693778,2,Rolled Oats - Gluten Free
+37781,2,"Soda (Other Than Cola or Pepper, Without Caffeine, Low Calorie)"
+70959,2,Sour Cream
+3387,2,Reduced Fat Peanut Butter
+86986,2,Red Hot Buffalo Wing Sauce
+6233,2,Brussels Sprouts
+518751,2,Spanish Paprika
+1968,2,Cod
+1563230,2,Agave Nectar
+1446547,2,Grilled & Ready Diced Chicken Breast
+3639622,2,White Corn Tortillas (42g)
+80150,2,Manwich Original Sloppy Joe Sauce
+3031807,2,Extra Lean Ground Turkey Breast
+37819,2,Coffee (Espresso Brewed)
+7151,2,Shortening
+148287,2,Large Eggs
+1350923,2,Light Agave Nectar
+42300,2,French Fried Onions
+6163,2,Tomato Catsup
+89783,2,Frozen Chopped Spinach
+50215,2,Diced Tomatoes & Green Chilies
+77436,2,Italian Style Bread Crumbs
+3790689,2,Simply Light Sour Cream
+518803,2,100% Pure Vanilla Extract
+38357,2,Hard Tofu (Prepared with Nigari)
+52619,2,Chipotle Peppers in Adobo Sauce
+135244,2,Organic Turbinado Raw Cane Sugar
+41670,2,Diced Tomatoes
+1132618,2,Organic Vegetable Broth
+36357,2,"Yellow Sweet Corn (Vacuum Pack, Canned)"
+38310,2,Peanut Flour (Low Fat)
+606175,2,Flatbread Original
+6003989,2,Sliced Mushrooms
+39441,2,Gelatin Powder (Unsweetened)
+46837,2,Sweet Italian Turkey Sausage
+6177,2,Tomato Puree
+77587,2,Unsalted Sweet Butter
+36995,2,Dried Ancho Pepper
+3149466,2,Coconut Sugar
+6264,2,Green Sweet Pepper
+34823,2,Brown Gravy (Dry)
+40725,2,Imitation American Cheddar Cheese
+49541,2,Frozen Shrimp
+3205681,2,Pizza Crust Dough
+36233,2,"Bacon (Cured, Microwaved, Cooked)"
+37021,2,Dried Pumpkin and Squash Seed Kernels
+42452,2,Reduced Fat Mexican 4 Cheese Blend
+39818,2,Dry Spaghetti
+74833,2,Natural Raw Wheat Germ
+77088,2,Light Butter
+419178,2,Rotisserie Chicken
+73048,2,Crushed Tomatoes
+37818,2,Coffee (Brewed From Grounds)
+113503,2,Organic Low Sodium Vegetable Broth
+36694,2,"Mung Beans (Mature Seeds, Sprouted, Drained Solids, Canned)"
+2183194,2,All Natural Nonfat Plain Yogurt
+51539,2,Chunked Chicken Breast in Water
+61907,2,Diced Green Chiles (Mild)
+4880154,2,Swerve
+133452,2,Canned Chili Beans
+35345,2,Corn Flakes (Low Sodium)
+430722,2,Reduced Fat Grated Parmesan Cheese
+25836,2,Dried Cranberries (Sweetened)
+36736,2,"Asparagus (No Salt Added, Solids and Liquids, Canned)"
+96476,2,Hot Sauce
+40675,2,Dietetic Syrup
+1516,2,Canadian Bacon
+21628901,2,Himalayan Pink Salt
+200427,2,Unsweetened Applesauce
+4690010,2,Shredded Coconut Unsweetened
+101794,2,Ground Cardamon
+1431,2,Ground or Patty Pork
+38065,2,Snapper (Fish) (Mixed Species)
+555151,2,Toasted Sesame Seeds
+518736,2,Onion Powder
+9892236,2,Stevia
+49781,2,Dijon Mustard
+1588377,2,Milk Chocolate Chips
+67701,2,Dijon Mustard
+6005,2,Broccoli
+3044978,2,Semi-Sweet Chocolate Chips
+2485033,2,Organic Brown Eggs
+71468,2,Sherry Cooking Wine
+64989,2,One Carb Reduced Sugar Tomato Ketchup
+57888,2,Apple Cider Vinegar
+1660948,2,Yellow Corn Meal
+36297,2,Broccoli Raab
+263386,2,Original Seasoned Rice Vinegar
+1477,2,Tenderloin Pork
+7036,2,Vegetable Shortening
+36727,2,Orange Tomatoes
+40821,2,Vital Wheat Gluten
+1956326,2,Liquid Egg Whites
+612886,2,PB2 Powdered Peanut Butter
+39386,2,Marshmallows
+35876,2,Olives (Jumbo-Super Colossal)
+568586,2,Golden Delicious Apples
+71488,2,Shredded Parmesan Cheese
+78281,2,White Button Mushrooms
+66548,2,Light Red Kidney Beans
+5719,2,Potato (with or Without Peel)
+4943532,2,Black Beans Reduced Sodium
+66545,2,Taco Seasoning
+37032,2,Dry Roasted Sunflower Seed Kernels (Without Salt)
+21699322,2,Almond Flour Blanched ja
+2149221,2,Blanched Almond Flour
+3640768,2,"Whole Kernel Sweet Corn (No Salt, No Sugar Added)"
+46247,1,Boneless Skinless Chicken Tenderloins
+7119323,1,Traditional Plain Greek Yogurt (Cup)
+234782,1,Vanilla Enriched Rice Milk
+4669344,1,Classic Coconut Milk
+52200,1,Organic Grape Nuts Cereal
+8150873,1,Russet Potatoes
+1786113,1,Corn Muffin Mix
+37736,1,Vodka (90 Proof)
+121893,1,Natural Apple Sauce
+36347,1,Collards
+57095,1,Organic Uncured Hardwood Smoked Bacon
+56095,1,Lean Smoked Turkey Sausage
+39330,1,Brown Rice Cakes
+3922846,1,Low Fat Cottage Cheese
+41049,1,Sweet Peas
+10372378,1,Organic Stevia Blend
+6754549,1,"Boneless, Skinless Chicken Breast"
+3338200,1,Sunflower Seed Kernels
+3426943,1,Pure Almond Milk - Unsweetened Vanilla
+19760581,1,Frozen Pineapple Chunks
+58701,1,Pretzel Sticks
+17914456,1,Dry Roasted Peanuts
+5659988,1,Organic Broccoli Florettes
+22088697,1,Old Fashioned Oats
+2127541,1,Baby Arugula Blend
+37733,1,"Alcoholic Beverage (80 Proof, Gin Rum Vodka Whiskey)"
+27315,1,Light Wheat Bread
+28153,1,Turkey Breast Tenderloins
+75353,1,Lasagna Noodles
+6069,1,Peas and Carrots
+112408,1,Organic Coconut Milk
+306120,1,Scoops! 100% White Corn Tortilla Chips
+4421,1,Chow Fun Rice Noodles
+39052,1,Wheat Dinner Rolls
+1297,1,Cream Cheese
+35942,1,Plantains
+842668,1,Tomatoes on The Vine
+37989,1,Eel (Mixed Species)
+5602,1,Pineapple Juice
+58735,1,Soup at Hand Cream of Mushroom
+110999,1,Lean Muscle Meal - Vanilla
+6426699,1,Garden Delight Tricolor Penne Rigate
+84840,1,Frozen Whole Kernel Golden Corn
+7259,1,Semi-Sweet Chocolate Morsel
+37085,1,Dry Roasted Pecan Nuts (Without Salt Added)
+6873993,1,Agave Nectar
+37814,1,"Coffee (Espresso Brewed, Decaffeinated)"
+1605470,1,Professional Strength Whey Protein Elite Series - Triple Chocolate
+1438533,1,Natural Finely Shredded Triple Cheddar Cheese
+69202,1,Fancy Shredded Mexican 4 Cheese Blend
+37838,1,Cranberry Juice Cocktail (Bottled)
+234773,1,Original Lactose Free Rice Drink
+821060,1,Plain Bread Crumbs
+55090,1,Bok Choy
+6949889,1,Natural Creamy Peanut Butter
+4136625,1,Coconut Milk
+42130,1,Reduced Fat Creamy Peanut Butter
+71615,1,Monterey Jack Cheese
+6267661,1,Unsweetened Baking Chocolate Bar
+1021126,1,Raw Shrimp
+52400,1,Healthy Request Condensed Cream of Mushroom Soup
+40459,1,"Beef Top Sirloin (Lean Only, Trimmed to 1/8"" Fat, Choice Grade)"
+112421,1,Organic Free Range Chicken Broth (Low Sodium)
+38933,1,Cheese Crackers
+32361,1,Light Italian Herb Flatbread
+1682790,1,Light Kidney Beans
+49832,1,Tomato Puree
+221944,1,Black Beans
+308709,1,Soup & Oyster Crackers
+42046,1,Vitamin D Whole Milk
+55688,1,Extra Virgin Olive Oil Signature Dressing
+49780,1,All Natural Chicken Stock
+98399,1,Ahi Tuna Sashimi
+67346,1,Grilled Chicken Strips
+3165213,1,Kale Greens
+173724,1,Lemon & Pepper Adobo Seasoning
+4298117,1,Cherry Peppers
+51878,1,Diet Coke (Can)
+534398,1,Semi-Sweet Chocolate Chips
+4290972,1,Mild Turkey Breakfast Sausage Lean
+74969,1,Matzos
+3374,1,Dry Roasted Unsalted Peanuts
+245737,1,Frozen Sweet Whole Kernel Corn
+87958,1,Fat Free Skim Milk
+14746190,1,All Purpose Flour
+66325,1,Avocado
+38316,1,Meatless Sausage
+4170803,1,Fat Free Milk
+74893,1,Organic Sugar
+53536,1,Light Margarine
+1979225,1,Original Sour Cream
+7264,1,Corn and Canola Oil
+6139,1,Green Tomatoes
+69623,1,Green Sushi Wraps
+1053374,1,Organic Low Sodium Chicken Broth
+3337562,1,Boneless Skinless Chicken Thighs
+36039,1,Pork Loin (Whole)
+5916,1,Cooked Kale (from Fresh)
+39725,1,"White Rice (Medium-Grain, Cooked)"
+114790,1,Seasoned Recipe Pinto Beans
+95711,1,Smoked Ham
+836087,1,Lean Turkey Sweet Italian Sausage
+49508,1,Panko Flakes
+155915,1,Greek Style Yogurt - Plain
+7799302,1,Organic Coconut Flour
+12037965,1,Gluten Free 1 to 1 Baking Flour
+277953,1,98% Fat Free Condensed Cream of Chicken Soup
+370128,1,Shedd's Spread Light Vegetable Oil
+657776,1,Boneless Skinless Chicken Breast
+271429,1,Pennsylvania Dutchman Sliced Mushrooms
+36743,1,"Lima Beans (Immature Seeds, No Salt Added, Solids and Liquids, Canned)"
+122697,1,Skinless Smoked Sausage
+127416,1,Yellow Bell Pepper Ring
+599725,1,Thin Crust Pizza
+34283,1,Chicken Fat
+52131,1,Roasted Red Peppers
+138278,1,Raw Pepitas
+93736,1,Light Raspberry & Walnut Dressing
+418819,1,Greek Vinaigrette Dressing
+33803,1,"Egg Whole (Dried, Stabilized, Glucose Reduced)"
+28982,1,Canned Chicken Breast in Water
+125753,1,Omega 3 Grade AA Large Eggs
+26505,1,Lite Sweet Vidalia Onion Salad Dressing
+33698,1,Edam Cheese
+370404,1,50/50 Omega-3 Butter Blend
+3628429,1,Tomato Ketchup
+44176,1,Old Fashioned Oats
+1647050,1,Strawberry Preserves
+39137,1,"Saltines Crackers (Low Sodium, Fat Free)"
+36592,1,Zucchini (Frozen)
+87804,1,Low Carb Wheat Wrap
+49829,1,Stewed Tomatoes
+2701266,1,Eggs
+39701,1,Yellow Bolted Self-Rising Cornmeal (Enriched)
+7180738,1,French-Style Normandy Vegetables
+6569,1,"Cooked Yellow and White Corn (from Canned, Fat Not Added in Cooking)"
+47734,1,Reduced Fat Mild Cheddar Shredded Cheese
+115580,1,Cashew Butter
+997061,1,Italian Bread Crumbs
+65509,1,Orzo
+89701,1,Steam 'n Eat Small Round Cheese Ravioli
+163419,1,Dessert Shells Shortcake
+2716629,1,Basil Pesto
+56357,1,Light Feta Cheese
+75716,1,Fried Apples
+33768,1,Canned Milk (Sweetened)
+198596,1,Big N Flaky Crescent Rolls
+4595348,1,Heavy Whipping Cream
+3370485,1,Chicken Seasoning
+39620,1,"Gelatin Desserts (Dry Mix, Reduced Calorie, with Aspartame, Added Phosphorus, Potassium, Sodium, Vitamin C)"
+4613511,1,Enriched Hamburger Buns
+3990524,1,Recipe Secrets - Onion Soup & Dip Mix
+31144,1,Balsamic Vinegar
+36794,1,"Chayote (Fruit, with Salt, Drained, Boiled, Cooked)"
+55105,1,Italian Parsley
+56344,1,Canned Chicken Breast Meat
+35448,1,Puffed Rice Cereal (Fortified)
+2317730,1,Sweet Mini Peppers
+67742,1,Hot Salsa
+118582,1,Frozen Mango Chunks
+2820464,1,GreenWise Organic Sunflower Seeds
+36495,1,"Russet Potatoes (Flesh and Skin, Baked)"
+4531828,1,Isofuel
+38222,1,Baked Beans with Pork (Canned)
+104924,1,Red Delicious Apple (Large)
+46224,1,96% Fat Free Cooked Ham
+1927,1,Deli Turkey or Chicken Breast Meat
+59824,1,Grape Tomatoes
+7393,1,Sweet or Dark Chocolate
+115154,1,Prime Extra Lean Ground Chicken
+88934,1,Manzanilla Olives Stuffed with Minced Pimento
+33864,1,Anise Seed
+37760,1,Club Soda
+6289058,1,Vanilla Whey Protein
+111885,1,Kaiser Rolls
+6454987,1,Fat Free Small Curd Cottage Cheese
+399122,1,Country Style Shredded Hash Brown Potatoes
+38208,1,Conch (Baked or Boiled)
+95904,1,Smoked Pork Hocks
+3026785,1,Gluten Free Bread Crumbs
+4405969,1,Sprouted Ground Flax
+69620,1,Wasabi Paste in Tubes
+20310990,1,A Hint of Madagascar Vanilla & Cinnamon
+70933,1,Shredded Sharp Cheddar Cheese
+101077,1,Ground Turkey 93/7
+46523,1,Kitchen Sliced Green Beans
+37753,1,Pinot Gris (Grigio) Wine
+106832,1,15 Bean Soup
+39718,1,"White Rice (Long-Grain, Enriched)"
+1916731,1,Ground Sirloin 90/10
+100646,1,Green Mexican Salsa (Medium)
+7053,1,Sesame Oil
+39787,1,"Spaghetti (Without Added Salt, Enriched, Cooked)"
+39784,1,Dry Somen Japanese Noodles
+34211,1,Coconut Vegetable Oil
+802661,1,Organic Cage-Free Large Brown Eggs
+2428574,1,Hon Dashi
+58992,1,Rice Chex Cereal
+51119,1,Baby Carrots
+26366,1,Omega PLUS Buttery Spread
+34492,1,"Chicken Wing Meat (Broilers or Fryers, Roasted, Cooked)"
+1244875,1,Mild Italian Sausage
+30520,1,Bacon Flavored Bits
+3297131,1,Shredded Romano Cheese
+16503416,1,Sustain
+38081,1,Bluefin Tuna (Fish)
+40702,1,Japanese Style Cabbage (Pickled)
+36473,1,"Peas and Carrots (Solids and Liquids, Canned)"
+6455,1,Cooked Mushrooms (Fat Not Added in Cooking)
+79200,1,Tomato Juice
+15253412,1,MCT Oil
+2268789,1,Teriyaki Sauce
+6753400,1,Whey Protein French Vanilla
+34333,1,"Margarine (Vegetable Oil Spread, 60% Fat, No Salt, Tub/Bottle)"
+98344,1,Corn Tostadas
+1173251,1,Light Brown Sugar
+99005,1,Fat Free Reduced Sodium Chicken Broth
+68387,1,Chipotle Pepper Sauce
+1951422,1,Persian Cucumber
+25871,1,Melba Toast
+498434,1,Garden Delight Rotini Pasta
+1429440,1,All Natural Mixed Vegetables
+3032,1,"Reduced Sodium Cream of Chicken or Turkey Soup (Canned, Undiluted)"
+3951670,1,Organic Tomato Paste
+5554926,1,Stevia in The Raw (Packet)
+37299,1,"Beef Tenderloin (Trimmed to 1/4"" Fat, Prime Grade)"
+110544,1,Whole Grain Brown Rice
+77922,1,Pizza Sauce
+6009,1,Cooked Broccoli (Fat Not Added in Cooking)
+61231,1,Rotini Pasta
+93288,1,Jumbo Pitted Black Ripe Olives
+73904,1,Xanthan Gum
+33826,1,Goats Cheese (Semisoft)
+56363,1,Buttery Spread
+40672,1,Sweet and Sour Salad Dressing
+17577719,1,Avocado Oil
+1134679,1,Baked Tostitos Scoops
+5139137,1,Organic White Quinoa
+36933,1,"White Sweet Corn (Kernels Cut Off Cob, Frozen)"
+739472,1,Maltitol Crystals
+343523,1,Natural Yogurt Spread
+110052,1,Brownulated Light Brown Sugar
+33757,1,Milk (1% Lowfat with Added Vitamin A and Protein)
+4198628,1,Chia Seeds
+1549726,1,Organic Almond Butter
+58926,1,Unsweetened Whole Frozen Strawberries
+2104782,1,Mashed Potatoes Flakes
+65322,1,Whipped Frosting - Cream Cheese
+1270309,1,Peanut Butter
+9859138,1,Coconut Oil
+262180,1,All Vegetable Shortening
+1285370,1,Organic Chicken Broth
+54472,1,Butter Buds Sprinkles
+498893,1,Shredded Swiss Cheese
+37346,1,"Corned Beef (Cured, Canned)"
+56240,1,Fat Free Italian Croutons
+233648,1,Sweetened Condensed Milk
+4184515,1,Fresh Mozzarella Cheese
+48656,1,0% Greek Style Yogurt
+99076,1,Organic Black Beans
+37710,1,"Beef Chuck (Shoulder Clod, Top Blade Steak, Lean Only, Trimmed to 0"" Fat, Choice Grade)"
+309523,1,Picante Medium Salsa
+7039,1,Hollandaise Sauce
+269519,1,Sliced Jalapeños
+2890636,1,Tortellini
+194831,1,Shredded Sharp Cheddar Cheese
+48827,1,Fresh Cut Whole Leaf Spinach
+83057,1,Portabella Mushroom Caps
+125796,1,Solid White Albacore Tuna in Water (2 oz)
+106190,1,Tri-Color Rotini Pasta
+65506,1,Organic Buttermilk Pancake & Waffle Mix
+1649132,1,Pure Sesame Oil
+7986558,1,Light & Fit Greek Yogurt - Vanilla (Cup)
+343635,1,Texas Hot Salsa
+1217152,1,Crunchy Flax Cereal
+89981,1,Real Bacon Bits
+5041058,1,Grapeseed Oil
+2039177,1,Tamari Gluten Free Soy Sauce
+25054,1,Organic Peanut Butter
+64606,1,Deli Pepperoni Slices
+6848170,1,Boneless & Skinless Chicken Breasts
+7394497,1,Hass Avocado
+2477591,1,Diced Tomatoes (No Salt Added)
+75443,1,Chili Garlic Sauce
+52531,1,Fat Free Blue Cheese Dressing
+38226,1,"Black Beans (Mature Seeds, Without Salt, Cooked, Boiled)"
+656954,1,Chopped Walnuts
+4105216,1,Chopped Pecans
+4871599,1,25% Less Sodium Taco Seasoning Mix
+69297,1,Won Ton Wrappers
+2453047,1,Psyllium Whole Husks
+7739045,1,Organic Raw Pumpkin Seeds
+39070,1,Plain Waffles
+1534889,1,Light House Italian Dressing
+39345,1,Butterscotch Candies
+34865,1,Fish Stock
+370832,1,Frozen Mixed Vegetables
+80320,1,Chicken Breast Tenderloins
+102765,1,Creamy Peanut Butter
+653718,1,Sea Shells Pasta
+37999,1,Smoked Haddock (Fish)
+362927,1,Petite Cut Diced Tomatoes with Zesty Jalapenos
+40929,1,Ground Chicken
+2251700,1,Peaches
+36248,1,"Asparagus (Solids and Liquids, Canned)"
+3190318,1,Red Seedless Grapes
+37044,1,Almond Nut Paste
+1902299,1,Spicy Tomato & Basil Pasta Sauce
+7732112,1,Shedd's Spread Simply Delicious
+7714869,1,Creamy Almond Butter
+28031,1,Sugar Free Low Calorie Maple Flavor Syrup
+1942072,1,Penne Rigate
+1254,1,Goat Cheese
+1646,1,Roasted Broiled or Baked Chicken Breast (Skin Not Eaten)
+2290171,1,Vegetable Base
+36930,1,"White Sweet Corn (Cream Style, No Salt Added, Canned)"
+1951657,1,Organic Regular Rolled Oats
+37286,1,"Beef Shank Crosscuts (Lean Only, Trimmed to 1/4"" Fat, Choice Grade)"
+47637,1,Organic Tomato Basil Marinara
+5172640,1,Passion Tea
+20110392,1,Boneless Skinless Chicken Breast
+38241,1,California Red Kidney Beans
+36998,1,Hungarian Peppers
+58609,1,Lemongrass
+1488,1,Fresh Ham
+1048589,1,2% Milk Shredded Mozzarella Cheese
+40445,1,"Beef Top Sirloin (Lean Only, Trimmed to 1/8"" Fat)"
+2494513,1,Red Lentils
+29387,1,Marinara Sauce
+48654,1,Short Grain Brown Rice
+1064104,1,Sliced Almonds
+51979,1,Roasted Red Chili Paste
+39346,1,Carob Candies
+1161537,1,Long Grain & Wild Rice
+38807,1,Oat Bran Bread (Reduced Calorie)
+2148,1,Crab
+4337306,1,Whey Protein Isolate
+36728,1,Yellow Tomatoes
+27140,1,Steamfresh Super Sweet Corn (90g)
+75445,1,Premium Oyster Sauce
+33775,1,Goats Milk
+6429,1,Low Sodium Green String Beans (Canned)
+76144,1,Vanilla Nonfat Yogurt
+52803,1,Whole Kernel Corn
+65599,1,Vegetarian Refried Beans
+2139177,1,Premium 100% Whole Wheat Flour
+36217,1,"Pork Trimmed Retail Cuts (Loin and Shoulder Blade, Lean Only)"
+133172,1,Elbow Macaroni
+808063,1,Pork & Venison Pecan Smoked Sausage
+208624,1,Double Acting Baking Powder
+81915,1,Chili Beans in Medium Sauce
+370432,1,Omega Light Buttery Spread made with Extra Virgin Olive Oil
+230196,1,Mango 100% Fruit Juice Blend
+38773,1,Plain or Buttermilk Biscuits (Commercial)
+37654,1,"Beef Tenderloin (Trimmed to 1/8"" Fat, Prime Grade)"
+255305,1,Xylitol
+370622,1,Cotija Queso Seco Part Skim Milk Cheese
+86860,1,Shredded Mild Cheddar Natural Cheese
+7660762,1,Agave Syrup
+5333,1,Dried Apricot
+194895,1,Traditional Hummus with Sesame Tahini
+3167263,1,Sea Scallops
+40776,1,"Baked Beans (No Salt Added, Canned)"
+34995,1,Beef Broth or Bouillon Soup (Made with Powder)
+26240,1,Lean Turkey Italian Sausage
+41755,1,Green Tea Super Anti-oxidant
+60750,1,Gorgonzola Cheese Crumbles
+4221463,1,Singles American Cheese
+4909766,1,Unsweetened Peanut Butter
+695543,1,Organic Buttery Spread - Original Whipped
+5660955,1,Carob Powder
+535321,1,Oven Roasted Turkey Breast Cold Cuts (Wallet Pack)
+65471,1,Sugar Free Maple Syrup
+41847,1,Sugar Free Fat Free Instant Chocolate Pudding Mix
+39536074,1,Organic Oatmeal
+148260,1,Organic Blue Agave Sweetener
+2196794,1,Boneless Skinless Chicken Breast
+615974,1,Breadcrumbs
+40597,1,Italian Salad Dressing (Reduced Calorie)
+37068,1,Coconut Milk or Cream (Liquid with Water)
+1633084,1,Crispy Cereal
+257963,1,White American Cheese Slices
+256138,1,Organic Baby Arugula
+244516,1,Almond Flour
+40413,1,"Ground Beef (75% Lean / 25% Fat, Patty, Cooked, Pan-Broiled)"
+38300,1,Dry Roasted Peanuts (with Salt)
+4863953,1,Petite Cut Diced Tomatoes
+49844,1,Reduced Fat Creamy Peanut Butter
+49253,1,Dried Blueberries
+99749,1,Spicy Jalapeño Chicken Sausage
+41694,1,Whole Natural Almonds
+39398,1,Pancake Syrup (Reduced Calorie)
+90360,1,Organic Harvest Medley Wild Rice
+13595240,1,Zucchini Noodles
+39690,1,"Buckwheat Groats (Cooked, Roasted)"
+38200,1,Rainbow Trout (Farmed)
+504044,1,"Roasted, Salted & Shelled Pistachios"
+71356,1,Grill Mates Montreal Chicken Seasoning
+7894429,1,Low Moisture Part-Skim Mozzarella Cheese
+50553,1,Authentic Greek Feta in Brine
+231448,1,Gluten Free All Purpose Baking Flour
+5928452,1,Ultra Thin Sharp Cheddar
+58591,1,Fiesta Won Ton Wrappers
+60705,1,Finely Diced Walnuts
+150546,1,Natural Vegetable Cooking Stock
+3958340,1,Cocoa Powder
+37119,1,"Roasted Pumpkin and Squash Seeds (Kernels, with Salt Added)"
+55858,1,"Diced Tomatoes with Basil, Garlic & Oregano"
+1101448,1,Steak Seasoning
+38029,1,Atlantic Pollock (Fish)
+142088,1,97% Fat Free Extra Lean Ground White Turkey
+815,1,1% Fat Buttermilk
+4840222,1,Coconut Milk Creamer - Original
+3332,1,Meatless Soyburger
+3852104,1,Shedd's Spread Original
+1294992,1,Turkey Smoked Sausage
+1255478,1,Omega Orange 100% Fruit Juice
+65611,1,Chocolate Syrup
+2368181,1,The Dark Chocolate Lover's Chocolate Bar
+39574,1,Butterscotch or Caramel Toppings
+5729,1,Boiled Potato
+90430,1,Cod Fillet
+5422,1,Grapes
+1037466,1,Whole Green Beans
+4964724,1,Organic Hemp Seed Raw Shelled
+3642734,1,Strawberry Banana Nonfat Yogurt
+57374,1,Low Fat Cheddar Cheese
+1537,1,Pig's Hocks
+3922563,1,2% Reduced Fat Milk
+274073,1,Organic Diced Tomatoes
+92389,1,Oriental Ramen Noodles
+5955,1,"Cooked Spinach (from Frozen, Fat Not Added in Cooking)"
+33822,1,Evaporated Milk (with Added Vitamin A)
+36107,1,Pork Spareribs (Whole)
+20046945,1,Cane Sugar Blend
+17700577,1,Dry Roasted Peanuts
+39735,1,Dark Rye Flour
+6387885,1,Red Enchilada Sauce
+127137,1,Finely Shredded Swiss Cheese
+30802,1,Organic Rice Milk
+6771271,1,Vegetable Broth
+1111565,1,Carbmaster Peach Yogurt
+3766126,1,Double Acting Baking Powder
+5478763,1,Roasted Salted Cashews
+39089,1,Chocolate Wafer Pie Crust
+94378,1,Large Eggs
+2143728,1,Unsweetened Carob Chips
+3203,1,"Cooked Pinto, Calico or Red Beans (Fat Not Added in Cooking)"
+36720,1,Potato Pancakes
+1895743,1,Nopalitos Tender Cactus
+39805,1,Yellow Masa Corn Flour (Enriched)
+276613,1,Canned Pumpkin
+248754,1,Fiesta Blend Vegetables
+33728,1,"American Cheese Spread (Without Di Sodium Phosphate, Pasteurized)"
+48181,1,Bananas & Cream Instant Oatmeal
+36244,1,"Artichokes (Globe or French, Unprepared, Frozen)"
+40798,1,"Tortilla Chips (Light, Baked with Less Oil)"
+12787932,1,Dry Roasted & Salted Peanuts
+1986487,1,Pineapple Chunks
+1722521,1,Organic Diced Tomatoes
+1480,1,Baked Tenderloin Pork
+4103797,1,Mayo
+6265,1,Banana Pepper
+40474,1,"Beef Bottom Sirloin (Tri-Tip Roast, Lean Only, Trimmed to 0"" Fat)"
+3913554,1,Coconut Milk Unsweetened
+370669,1,Finely Shredded Parmesan Blend Cheese
+38862,1,"White Cake (Dry Mix, Special Dietary, Includes Lemon Flavored)"
+47188,1,Blackeye Peas
+85134,1,Shredded Cheddar Cheese
+38106,1,Wild Crayfish (Crawfish)
+59959,1,Corn Grits Polenta
+142768,1,Young Sweet Tender Peas
+63809,1,Normandy-Style Vegetable Blend
+430891,1,Natural Finely Shredded Colby & Monterey Jack Cheese
+5369814,1,Fat Free Parmesan Ranch Croutons
+127968,1,Premium Dried Cherries
+40567,1,Yellow Cornmeal (Navajo)
+878792,1,Roasted Garlic Cloves
+243751,1,Walnut Halves
+690963,1,Chicken Thighs
+40263,1,Tortellini Pasta with Cheese Filling
+266273,1,Light Butter
+6037,1,Cooked Carrots
+35995,1,"Tangerines (Mandarin Oranges, Drained, Juice Pack, Canned)"
+40763,1,Shredded Bran Wheat Cereal (Salt and Sugar Free)
+35990,1,"Apricots (Drained, Heavy Syrup, Canned)"
+51118,1,Artichoke Hearts
+35021,1,"Tomato Soup (with Equal Volume Water, Canned)"
+3406,1,Roasted Unsalted Hulled Sunflower Seeds
+4304285,1,Pineapple Chunks
+144178,1,Canned Lentils
+518756,1,Whole Black Peppercorns
+1483096,1,Organic Super Sweet White Corn
+33813,1,Egg Substitute (Powder)
+82419,1,Grands! Reduced Fat Homestyle Buttermilk Biscuits
+2251320,1,Turkey Pepperoni Minis
+1268,1,Hard Parmesan Cheese
+34445,1,"Chicken Breast Meat and Skin (Broilers or Fryers, Roasted, Cooked)"
+1079521,1,Sweet Orange Marmalade
+5948,1,Spinach
+49386,1,Spicy Brown Mustard
+110082,1,Fat Free Half & Half
+91303,1,Ham Steak
+3789598,1,Egg White
+1690451,1,Imitation Crab Meat
+38951,1,Wheat Crackers
+624169,1,Oven Ready Lasagna
+36619,1,"Sweet Potato (Without Skin, Cooked, Boiled)"
+2972,1,"Low Sodium, Dry Beef Broth, Bouillon or Consomme,"
+6389369,1,Mango Nectar
+50132,1,Crispix Cereal
+522724,1,Oikos Organic Nonfat Vanilla Greek Yogurt (4 oz)
+274065,1,Mushrooms Pieces & Stems
+36606,1,"Spaghetti Winter Squash (Without Salt, Drained, Cooked, Boiled, Baked)"
+1085790,1,Premium Select Fancy White Crabmeat
+39315,1,Air Popped Popcorn
+40418,1,"Beef Top Sirloin (Lean Only, Trimmed to 1/8"" Fat, Select Grade)"
+4764864,1,Diced Onion
+36721,1,"Potato (Flesh and Skin, Without Salt, Baked)"
+23763376,1,Brown Sugar
+52658,1,Stewed Tomatoes
+101842,1,Large Grade AA Eggs
+35100,1,"Cream Of Mushroom Soup (Low Sodium, Canned)"
+61198,1,Broccoli Florets
+43303,1,Egg Noodles
+6841323,1,100% Cocoa
+65468,1,Pure Maple Syrup
+38091,1,Whitefish (Mixed Species)
+34245,1,French Salad Dressing
+988992,1,60% Cacao Bittersweet Chocolate Chips
+404819,1,Ground Beef (93% Lean / 7% Fat)
+59951,1,Roasted Sunflower Nuts (No Salt)
+47754,1,Pitted Dates
+5452,1,Frozen Peach
+36981,1,Sun-Dried Hot Chile Peppers
+1523033,1,Classic Alfredo Pasta Sauce
+93253,1,White Shoepeg Corn
+1693833,1,Pitted Kalamata Olives
+39043,1,"Pie Crust (Frozen, Baked)"
+415316,1,Parmesan & Romano Grated Cheese
+219590,1,Molasses
+678205,1,Sweetened Condensed Milk
+34340,1,"Margarine (Approx. 48% Fat, Tub)"
+4281827,1,Meatless & Soy-Free Grounds
+36594,1,Italian Style Zucchini (Canned)
+55997,1,All Natural Peanut Butter
+552056,1,Natural Buttery Spread - Soy Garden
+39684,1,Arrowroot Flour
+27304,1,Simply Smart Fat Free Half & Half
+52894,1,Traditional Fried Pork Skins
+57542,1,French Loaf
+1067722,1,Pecan Halves
+3148812,1,Extra Virgin Olive Oil
+2842904,1,Corn Tortillas (51g)
+251176,1,99% Fat Free Beef Broth
+1934130,1,100% Whey Protein Fuel - Chocolate Surge
+38041,1,Smoked Chinook Salmon
+121036,1,Frozen Tiger Shrimp
+2642823,1,Pinto Beans
+205811,1,100% Whole Wheat Sliced Bread
+63939,1,Boneless Skinless Chicken Thighs
+36561,1,Rutabagas
+347945,1,Hot Salsa
+2182,1,Dried Shrimp
+253129,1,Organic Low Sodium Free Range Chicken Broth
+6237551,1,100% Avocado Oil
+2305991,1,Gluten Free Pancake & Baking Mix
+228735,1,Gladiola Yellow Cornbread Mix
+4851879,1,Mango Curry Grilling Sauce
+2421972,1,Almond Breeze Unsweetened Chocolate Milk
+106254,1,15 Bean Soup Mix
+21676738,1,Total 5% Greek Yogurt (227g)
+158828,1,Light Vegetable Oil Spread
+242875,1,Pinto Beans
+75369,1,Grape Jelly
+7051,1,Olive Oil
+4743960,1,Bean Sprouts
+564941,1,Mushroom Pieces and Stems
+1815783,1,Authentic Pita
+39534,1,Vanilla Frozen Yogurts (Soft Serve)
+1671918,1,100% Stone Ground Whole Wheat Pastry Flour
+103139,1,Romano Shredded Cheese
+36757,1,"Green Snap Beans (No Salt Added, Drained Solids, Canned)"
+66490,1,100% Orange Juice with Calcium (Concentrate)
+35094,1,Immature Green Chili Hot Peppers (Canned)
+35423,1,"Oats Cereal (Instant, Prepared with Water, Fortified)"
+2767129,1,Instant White Rice
+427360,1,Pepper Jack Cheese
+33686,1,Brie Cheese
+40866,1,Raw Sunflower Seeds
+1887,1,Salami
+1144445,1,Swiss Cheese
+71259,1,Omega Blended Cooking Oil
+31100,1,Large Grade A Eggs (Hard Boiled)
+3103752,1,Swiss Cheese Deli Sliced
+53578,1,Baby Spinach
+6612,1,Cooked Summer Squash (from Fresh)
+89904,1,Valdosta Pecans
+2774026,1,1% Low Fat Milk
+32741,1,Calorie Wise Greek with Feta & Oregano Dressing
+6323379,1,Quick Oats
+11489775,1,Wild Caught Haddock
+309901,1,Crushed Garlic
+4975794,1,Organic Raw Honey
+58577,1,Dried Red Tomatoes (Chopped)
+7724,1,Brandy
+369406,1,Original Cooking Spray
+77218,1,Pure Clover Honey
+35109,1,Meat or Poultry Gravy (Low Sodium)
+899422,1,Dijon Mustard
+37097,1,Tahini Sesame Butter Seeds (From Roasted and Toasted Kernels)
+906667,1,Dried Apricots
+11367666,1,Dark Chocolate Macaroon Granola
+1439225,1,Reduced Fat Buttermilk
+55103,1,Iceberg Lettuce
+110415,1,Organic Free Range Chicken Broth
+17279240,1,Organic Beet Juice
+38436,1,"Lamb Leg (Whole (Shank and Sirloin) Lean Only, Trimmed to 1/4"" Fat, Choice Grade)"
+7295408,1,Organic Baby Arugula
+101399,1,Vegetable Bouillon
+200312,1,Fire Roasted Crushed Tomatoes
+268085,1,Pineapple Chunks in 100% Pineapple Juice
+883689,1,Tonkatsu Sauce
+1047021,1,Broccoli Slaw
+39058,1,Hard Rolls (Includes Kaiser)
+47867,1,Collard Greens
+7384991,1,Greek Style Nonfat Yogurt - Vanilla
+81097,1,Stroganoff Mix
+34808,1,"Cream Of Vegetable Soup (Dry, Dehydrated)"
+77513,1,Manicotti Pasta
+6734831,1,Fine White Wine Vinegar
+2330101,1,Lump Crab Meat
+71882,1,Rice Wine
+68939,1,Mascarpone Cheese
+109971,1,Reduced Fat Mayonnaise
+2276289,1,All Natural Golden Sweet Corn
+1632591,1,Muscle Gain Protein Shake - Chocolate
+263396,1,Apple Cider Vinegar
+856761,1,Grated Parmesan Cheese
+7702024,1,Boneless Skinless Chicken Breast
+27335,1,Canadian Back Bacon
+59053,1,Old World Style Traditional Pasta Sauce
+5430624,1,Perfect Pinch Salad Supreme
+2064,1,Canned Salmon
+1784160,1,Mushrooms Stems & Pieces
+583034,1,Fire Roasted Bell Peppers & Onions
+66054,1,Sliced Water Chestnuts
+62154,1,Organic Vanilla Soy Milk
+26072,1,Original Taco Sauce
+78531,1,Ground Venison
+27452,1,Natural Whole Grain Brown Rice (Container)
+3550163,1,Sliced Almonds
+47271,1,Condensed Tomato Soup
+4655,1,Granola
+58850,1,Extra Lean Ground Beef 96/4
+269518,1,Golden Sweet Whole Kernel Corn (No Salt Added)
+11484225,1,Almond Flour
+2144,1,Canned Clams
+486307,1,Bacon (2 Slices)
+7929133,1,Stevia Sweetener
+36479,1,"Green Hot Chili Peppers (Excluding Seeds, Solids and Liquids, Canned)"
+2283,1,Fish Sauce (Bagoong)
+1644,1,Roasted Broiled or Baked Chicken Breast
+82322,1,Roasted & Salted Pumpkin Seeds
+430926,1,Natural Finely Shredded Mexican Style Four Cheese
+62155,1,Vanilla Whey Protein Powder
+6513867,1,Wholly Guacamole Minis
+56959,1,Omega-3 Large Brown Eggs
+25491609,1,Keto Fat Bomb Peanut Butter Cup
+61631,1,Feta Cheese
+3848842,1,Light Mayonnaise
+39046,1,Phyllo Dough
+40695,1,Meatless Meatballs
+39064,1,Taco Shells (Baked)
+34210,1,Soybean Oil
+4271685,1,Angel Hair Pasta
+39440,1,"Gelatin Desserts (Dry Mix with Water, with Aspartame, Reduced Calorie)"
+79698,1,Spanish Olives
+36927,1,"White Sweet Corn (Whole Kernel, No Salt Added, Solids and Liquids, Canned)"
+31523490,1,Vegan Butter
+87761,1,Whole Wheat Low Carb High Fiber Tortillas
+2569765,1,Organic Beef Broth
+80153,1,French Style Green Beans
+29390,1,Fat Free Crumbled Feta
+41011,1,Part Skim Ricotta Cheese
+39535,1,Apple Fruit Butters
+370626,1,Queso Panela Whole Milk Cheese
+4676000,1,Pink Salmon
+118801,1,Low Moisture Part Skim Shredded Mozzarella Cheese
+95051,1,Amplified Wheybolic Extreme 60 - Chocolate
+30753,1,Cool Whip Lite
+37518,1,"Beef Eye Of Round (Lean Only, Trimmed to 1/2"" Fat, Prime Grade)"
+298616,1,Linguine
+1071192,1,Seasoned Diced Tomatoes
+2428262,1,Chopped Garlic
+50123,1,70% Bittersweet Chocolate Bar
+570035,1,Whole Wheat Pita Bread
+15845548,1,Coconut Flour
+61271,1,Green Olives with Pimento
+14269692,1,Organic Power Greens
+37016,1,Dried Chia Seeds
+9837518,1,Peanut Powder
+3797809,1,Pizza Sauce (Pizzeria Style)
+4086139,1,Alaskan Pink Salmon
+553374,1,Natural Buttery Spread made with Olive Oil
+2704756,1,Protein Revolution
+38010,1,Atlantic Mackerel
+6089,1,Cooked Pumpkin (from Canned)
+101367,1,Old-Fashioned Oats
+1840150,1,Finely Shredded Pizza Blend Cheese
+505951,1,Sweet & Sour Sauce
+111118,1,Low Fat 2% Small Curd Cottage Cheese
+5291,1,Lime Juice (Canned or Bottled)
+3649104,1,Masa Harina
+71233,1,Turkey Polska Kielbasa (2 oz)
+40696,1,Soy Burger
+3266279,1,Pure Lemon Juice
+2720805,1,Organic Whole Grain High Fiber Hot Cereal
+7010,1,About 40% Fat Reduced Calorie Salted made with Yogurt Margarine-Like Spread Tub
+37778,1,Muscat Wine
+39746,1,Hard White Wheat
+577711,1,Gold Standard 100% Casein - Creamy Vanilla
+4664253,1,Dark Brown Sugar
+39730,1,White Rice with Pasta (Dry)
+167331,1,All Natural Smooth Peanut Butter
+39399,1,Pancake Syrup
+40805,1,Mozzarella Cheese (Low Sodium)
+7571853,1,Ranch Dry Dips Mix
+442853,1,Fat Free Half & Half
+73030,1,Pumpkin Canned
+2727224,1,Boneless Skinless Chicken Breast
+39542,1,"Pectin (Dry Mix, Unsweetened)"
+3283308,1,Tri-Color Coleslaw
+1560016,1,Professional Strength Whey Protein Plus Elite Series - Vanilla Cream
+35316,1,"Turkey Breast (97% Fat Free, Lemon Pepper Flavor, Smoked)"
+518614,1,Chicken Base
+35314,1,"Pork and Beef Italian Salami (50% Less Sodium, Sliced, Dry)"
+39738,1,Semolina (Enriched)
+15830107,1,Organic Protein Plant Based Protein Powder Sweet Vanilla Bean
+6680,1,Cooked Sauerkraut
+6211629,1,Pure Isolate Whey Protein
+75977,1,Italian Salad Dressing
+11583321,1,Avocado Oil Mayo
+492000,1,PB2 Chocolate
+35953,1,"Prunes (Low-Moisture, Uncooked)"
+57199,1,Cannellini Beans
+6221242,1,Pinto Beans
+253137,1,Rachael Ray Stock-In-A-Box All Natural Chicken Flavored Stock
+66026,1,Canola Margarine
+36632,1,Green Tomatoes
+36860,1,"Potatoes (Flesh Without Skin, with Salt, Boiled)"
+1052713,1,Crisp Rice Cereal
+263139,1,Zesty Italian Dressing & Marinade
+3060772,1,25% Less Sodium Seasoned Salt
+399077,1,Sweet Corn Cream Style (No Salt Added)
+7149,1,Fat-Free Powder Butter Replacement
+107397,1,Chunky Garden Combination Pasta Sauce
+56958,1,Omega-3 Extra Large Brown Eggs
+36963,1,Hot Dog Pickle Relish
+5039563,1,Lemon Pepper Seasoning
+6287,1,Cooked Artichoke
+50304,1,Lowfat Plain Kefir
+71010,1,Fancy Sliced Water Chestnuts
+4945917,1,Tikka Masala Curry Simmer Sauce
+91352,1,AdvantEDGE Soy Protein Powder - Vanilla
+5222996,1,Bread Crumbs Italian Style
+48246,1,Extra Crunchy Super Chunk Peanut Butter
+40993,1,Soft Wheat Berries
+3805194,1,Fat Free Vanilla Yogurt
+305368,1,Craisins
+37007,1,Wasabi Root
+15244941,1,Chia Seeds
+35891,1,"Tangerines (Mandarin Oranges, Juice Pack, Canned)"
+6245,1,Eggplant
+277951,1,98% Fat Free Condensed Cream of Celery Soup
+66322,1,Organic Unsweetened Apple Sauce
+1658000,1,Vegetarian Egg Replacer
+516013,1,Adjustable Grinder Peppercorns
+36196,1,"Pork Loin (Country-Style Ribs, Lean Only)"
+83263,1,Light Maple Syrup
+48265,1,Medium Picante Sauce
+237049,1,Cozy Chamomile All Natural Caffeine Free Herb Tea Bags
+38273,1,"Cowpeas (Blackeyes, Crowder, Southern) (Mature Seeds)"
+38290,1,Mung Beans (Mature Seeds)
+406742,1,Rigatoni
+98734,1,Kalamata Olives
+6238,1,Cauliflower
+3826866,1,Dark Chocolate Morsels 53% Cacao
+2338667,1,Coconut Milk Beverage Unsweetened
+1985,1,Flounder
+2959555,1,Sprouted Rice & Quinoa Blend
+89785,1,Healthy Harvest Whole Wheat Blend Spaghetti Pasta
+33829,1,Mozzarella Cheese (Substitute)
+9250853,1,Manchego Cheese
+47776,1,Neufchatel Cheese
+147475,1,Ground Turkey
+3528333,1,Chia Seed
+5060225,1,Lite Balsamic Dressing
+370325,1,Buttery Spray with Olive Oil
+527988,1,Chevre Fresh Goat Cheese
+3121596,1,"Organic Traditional 9"" Pie Shells"
+291093,1,Diced Tomatoes
+1463689,1,Canadian Bacon
+3209674,1,100% Whole Grain Old Fashioned Oats
+244577,1,Organic Diced & Fire Roasted Tomatoes with Green Chiles
+62072,1,98% Fat Free Whole Wheat Tortillas
+59812,1,Dijon Mustard
+3761175,1,Great Northern Beans
+53879,1,Whole Grain Penne Pasta
+130876,1,Pasta Shells
+421864,1,Mild & Creamy Dijon Mustard
+1147521,1,Sliced Almonds
+33087,1,Navy Beans
+38048,1,"Pink Salmon (Solids with Bone and Liquid, Canned)"
+76359,1,Lite Reduced Fat Jarlsberg Cheese
+35107,1,"Barbeque Sauce (Low Sodium, Canned)"
+56662,1,Enriched Elbow Macaroni Pasta
+6923,1,Baby Food Carrots
+3119692,1,Chicken Base
+6224,1,Sprouts
+427977,1,Cheddar Shredded Cheese
+51987,1,Sweet Red Chili Sauce
+56857,1,Fajitas Spices & Seasonings
+262167,1,Extra Virgin Olive Oil
+54560,1,Ultra Light Beer
+147470,1,Broccoli Florets
+37122,1,Oil Roasted Sunflower Seeds (with Salt Added)
+98332,1,No Salt Added Tomato Sauce
+9802992,1,Dark Chocolate Baking Chips
+467809,1,Hot Sauce
+1894218,1,Organic Raw Pumpkin Seeds
+72884,1,Seasoned Black Beans
+5135307,1,Natural Coconut
+200858,1,Reduced Fat Super Chunk Peanut Butter
+38346,1,Falafel
+3171893,1,Organic Tricolor Quinoa
+35830,1,"Grapes (American Type, Slip Skin)"
+2618619,1,Unsweetened Vanilla Soymilk
+68954,1,Natural Crunchy Peanut Butter
+56053,1,Norwegian Mushy Peas
+40392,1,"Ground Beef (95% Lean / 5% Fat, Patty, Cooked, Broiled)"
+55233,1,Coconut Milk (Regular)
+28956,1,The Amazing Egg - Cholesterol & Fat Free
+51746,1,Light Sour Cream (5%)
+941642,1,Hard Boiled Egg Whites
+70518,1,Sugar Snap Peas
+135361,1,Grapeseed Oil
+39783,1,Cooked Soba Japanese Noodles
+1745592,1,Premium Pork Hot Sausage
+7199777,1,Splenda Granular
+114635,1,Chili Beans
+2001794,1,Reduced Sodium Dark Red Kidney Beans
+46117,1,Pepper Stir Fry
+55196,1,Ahi Tuna
+98247,1,Potatoes
+1395,1,Corned Beef
+599786,1,Uncured Hickory Smoked Bacon
+395325,1,All-Bran Buds
+599849,1,Organic Sun-dried Tomato & Basil Chicken Sausage
+28696,1,Fat Free Italian Dressing
+34398,1,"Chicken Meat (Broilers or Fryers, Roasted)"
+20577718,1,Pure Peppermint Extract
+20061660,1,Super Fine Almond Flour
+1059948,1,Organic Frozen Blueberries
+257686,1,Organic Peanut Oil
+4843844,1,Extra Firm Tofu
+91020,1,Mild Shiro Miso Soy Bean Paste
+36646,1,Tomato Sauce with Herbs and Cheese (Canned)
+1212953,1,Dried Pitted Dates
+608186,1,Seasoned Corn Bread Stuffin'
+4267713,1,Extra Sharp Cheddar Cheese
+74191,1,Asian Stir Fry
+53560,1,Light Margarine Sticks
+94166,1,99% Fat Free Boneless Skinless Chicken Breasts
+2574191,1,Organic Whole Wheat Fusilli Pasta
+200323,1,Whole Peeled Plum Tomatoes
+85962,1,Diced Peeled Tomatoes in Juice
+4571164,1,Canned Chicken Breast
+50131,1,Firm Tofu
+3314462,1,Oven Roasted Shaved Turkey Breast
+33836,1,Cheddar or Colby Cheese (Low Sodium)
+37096,1,Without Salt Roasted Whole Pumpkin and Squash Seeds
+40635,1,"Turkey Pork and Beef Sausage (Reduced Fat, Smoked)"
+1564135,1,Dried Cherries
+1623262,1,Light Mozzarella String Cheese
+235763,1,Sugar Free Fruit Juicy Red Drink Mix
+277934,1,Cream of Celery Soup
+78699,1,Instant Rice
+48783,1,Canola Oil
+53194,1,"Flax, Oat Bran & Whole Wheat Lavash Flat Bread"
+34262,1,Cottonseed Vegetable Oil
+71453,1,Baby Dutch Yellow Potatoes
+34425,1,"Chicken Light Meat (Broilers or Fryers, Fried, Cooked)"
+30882,1,Real Bacon Bits 50% Less Fat
+35751,1,"Apricot Nectar (Without Added Ascorbic Acid, Canned)"
+80118,1,Fat Free Shredded Mozzarella Cheese
+70188,1,Bay Scallops
+36237,1,Alfalfa Seeds (Sprouted)
+46732,1,Buttery Burst Spray
+2970,1,"Low Sodium Beef Broth, Bouillon or Consomme (Canned)"
+229776,1,Hispanic Chicken Flavored Granulated Bouillon
+1502051,1,Sliced Crimini Mushrooms
+35181,1,Turkey Salami (Cooked)
+769937,1,Roasted Pine Nut Hummus
+719850,1,Diet Cranberry Pomegranate Juice
+1864770,1,Mini Sweet Peppers
+2460676,1,Pizza Sauce
+39806,1,White Whole Grain Cornmeal
+5406437,1,Almond Breeze Original Unsweetened Almond Milk
+93533,1,All Whites 100% Liquid Egg Whites
+2445491,1,Mexican Cheese
+1410100,1,Marble Cheese
+4302,1,Rice Paper
+3876791,1,Fat Free Skim Milk
+31780,1,White Corn Tortilla
+5295822,1,Organic Vegetarian Chili
+930294,1,Craisins Pomegranate Juice Infused Dried Cranberries
+1880,1,Pork Sausage Patty or Link
+109585,1,Semi-Sweet Chocolate Chips
+37611,1,"Beef Eye Of Round (Trimmed to 1/8"" Fat, Choice Grade)"
+36137,1,"Bacon (Cured, Broiled, Pan-Fried or Roasted, Cooked)"
+119956,1,Finely Shredded Mexican Style Cheese
+36620,1,"Sweet Potato (Vacuum Pack, Canned)"
+2154439,1,Vanilla Soy Milk
+3725608,1,Lean Turkey Breakfast Sausage Links
+1166744,1,Unsalted Butter
+3478420,1,Matchstick Carrots
+36296,1,"Broccoli (Spears, Without Salt, Frozen, Drained, Cooked, Boiled)"
+8570751,1,Light Butter
+1190866,1,Original Soymilk
+39797,1,Oat Flour (Partially Debranned)
+56688,1,Whole Wheat Pasta
+38985,1,Whole Wheat English Muffins
+13143382,1,L-Carnitine
+71469,1,Marsala Cooking Wine
+40398,1,"Ground Beef (90% Lean / 10% Fat, Patty, Cooked, Pan-Broiled)"
+35892,1,"Tangerines (Mandarin Oranges, Light Syrup Pack, Canned)"
+262193,1,All Natural Pure Vegetable Oil
+127875,1,Organic Balsamic Vinegar
+10397215,1,Natural Whey Protein - French Vanilla
+265496,1,Brown Sugar
+1212567,1,Organic Almond Milk
+4054156,1,Reduced Fat Mayo with Olive Oil
+31577,1,Low Carb Whole Wheat Tortilla
+5001855,1,Soy Protein Powder
+518722,1,Italian Seasoning (No Salt No MSG)
+436883,1,Part-Skim Ricotta Cheese
+3905486,1,Whole Grains Double Fiber Bread
+99050,1,Calorie Wise Miracle Whip
+93796,1,Whole Kernel Sweet Corn
+1187544,1,Asian Stir Fry Veggies
+36777,1,Common Cabbage (Freshly Harvest)
+201997,1,Sugar Free Peach Gelatin Dessert
+68819,1,Seasoned Bread Crumbs
+515812,1,Grill Creations Smokey Mesquite Seasoning
+53576,1,Lettuce Trio
+38219,1,Plain or Vegetarian Baked Beans (Canned)
+77510,1,Farfalle Pasta
+857843,1,Organic Coconut Flour
+2430580,1,Ready-Cut Italian Recipe Tomatoes
+1918463,1,Organic Cut Corn
+33756,1,Milk (1% Lowfat with Added Vitamin A and Nonfat Solids)
+4743995,1,Minced Garlic
+872009,1,Fresh Mushrooms
+80701,1,Healthy Harvest Whole Wheat Lasagna Noodles
+63889,1,Spreadable Regular Soft Margarine
+31972,1,Ezekiel 4:9 Sprouted Grain Tortillas
+1624102,1,Boneless Skinless Chicken Thighs
+5897,1,"Endive, Chicory, Escarole or Romaine Lettuce"
+35890,1,Tangerines (Mandarin Oranges)
+212259,1,Capocollo
+110995,1,Quick Farina Hot Cereal
+31913,1,Healthy Harvest Whole Wheat Blend Thin Spaghetti Pasta
+3332736,1,Fat Free Evaporated Milk
+18227906,1,Frozen Berry Medley
+518759,1,Buttermilk Ranch Dressing Mix
+35963,1,Raisins (Seeded)
+56983,1,Simply Smart Fat Free Milk
+6662,1,Dehydrated Onion
+2658802,1,Red Wine Vinegar
+1562879,1,Red Lentils
+104499,1,Crab Select
+39837,1,"White Wheat Flour (All-Purpose, Unbleached, Enriched)"
+27522,1,Cherry Tomatoes
+40481,1,"Beef Tip Round (Lean Only, Trimmed to 0"" Fat, Select Grade)"
+42183,1,Quick Oats
+14540501,1,Raw Pumpkin Seeds
+430233,1,Grated Parmesan Cheese
+1646064,1,Organic Southwestern Blend
+1748429,1,Original Ranch Seasoning & Salad Dressing Mix
+893623,1,Organic Mayonnaise with Olive Oil
+56914,1,Neufchatel CHeese
+516012,1,Malabar Black Pepper
+1851,1,Beef Sausage Patty or Link
+55036,1,Authentico Vegetable & Rice Stir Fry
+59883,1,Tomato Paste
+1494,1,Low Sodium Smoked or Cured Ham
+8806321,1,Marinara Sauce
+40645,1,Oil Popped Popcorn (Low Fat)
+36423,1,White Mushrooms (Stir-Fried)
+37702,1,"Beef Outside Skirt Steak (Lean Only, Trimmed to 1/4"" Fat)"
+537348,1,Traditional Pasta Sauce
+1491,1,Smoked or Cured Ham
+1864750,1,Chopped Romaine
+59752,1,Vegetable Stir Fry
+1655,1,Baked or Fried Coated Chicken Breast with Skin (Skin/Coating Not Eaten)
+528591,1,Spinach
+38979,1,Mixed Grain English Muffins (Includes Granola)
+107372,1,Red Taco Sauce - Mild
+153644,1,Medium Black Olives
+2616433,1,Sun Dried Tomatoes Halves
+637552,1,Whole Wheat Rotini
+3179834,1,Dried Cranberries
+56106,1,Savory-Seasoned Turkey Burgers
+11185991,1,Shredded Cheddar Jack Cheese
+141755,1,Creamy Peanut Butter
+6549,1,Cooked Mushrooms (from Fresh)
+71479,1,Original Soy Milk (Enriched)
+125312,1,Refried Black Beans
+36234,1,"Bacon (Cured, Pan-Fried, Cooked)"
+92139,1,Light Parmesan Alfredo Cheese Creations Sauce
+1694613,1,Hot Pork Sausage
+27379,1,Fat Free Crumbled Feta
+5462815,1,Tomato Soup
+14972285,1,Green Onions
+66349,1,Chicken Bouillon Cube
+291099,1,Southwestern Ranchero Beans in Tex Mex Sauce
+2503599,1,Unsweetened Organic Coconut Flakes
+70731,1,Salted Mixed Nuts with Peanuts
+4889644,1,Whey Protein Isolate
+751998,1,Grated Parmesan & Romano Cheese
+38265,1,"Broadbeans (Fava Beans) (Mature Seeds, Canned)"
+2101728,1,Unsweetened Coconut Flake
+5711887,1,Frozen Blueberries
+13747572,1,Organic Cream Cheese
+4230595,1,Calorie Free Caesar Dressing
+1310458,1,Uncured Center Cut Reduced Sodium Bacon
+6114114,1,Light Shredded Mozzarella Cheese
+262177,1,Imported 100% Extra Virgin Olive Oil
+34306,1,Mustard Vegetable Oil
+61459,1,Pancetta
+6149,1,Stewed Tomatoes
+229816,1,Seasoning Salt
+665884,1,Beef Polska Kielbasa
+57573,1,Medium Salsa
+7247000,1,Tandoori Naan
+351325,1,Yellow Corn Taco Shells
+71888,1,Golden Greek Deli Sliced Peperoncini
+61410,1,Cream of Chicken Soup
+33790,1,"Fruit Yogurt (Lowfat, 10g Protein Per 8oz)"
+261848,1,Real Mayonnaise
+1763079,1,Dark Rye Crackers
+26602,1,Seasoned Bread Crumbs
+45994,1,Light Fat Free Yogurt - Very Cherry
+307861,1,Chicken Sausage
+79905,1,Jerk Seasoning
+262265,1,Pure Peanut Oil
+76951,1,Butterscotch Baking Chips
+5996621,1,Baby Bella Mushrooms
+251183,1,Fat Free & Lower Sodium Beef Broth
+448687,1,Organic Whole Wheat Gemelli
+65714,1,Diced Tomatoes with Zesty Mild Green Chilies
+313582,1,Garden Vegetable Broth
+257117,1,Unsalted Butter
+40376,1,"Beef Inside Skirt Steak (Trimmed to 1/4"" Fat)"
+4618,1,Corn Chex
+49068,1,100% Whole Wheat Pizza Dough
+34530,1,Wild Duck Breast Meat
+6178,1,Meatless Spaghetti Sauce
+1361699,1,Minced Garlic
+1046465,1,Artichoke Hearts in Water
+5896790,1,Total Crunchy Whole Grain Wheat Flakes Cereal
+38411,1,"Soy Meal (Defatted, Crude Protein Basis)"
+2833266,1,Organic Oat Flour
+89216,1,Healthy Harvest Whole Wheat Blend Pasta Penne Rigate
+6848390,1,100% Natural Beef Broth
+87752,1,Trimmed Chinese Snow Peas
+74141,1,Italian Style Bread Crumbs
+316821,1,Basil Pesto
+12277309,1,Zucchini
+445637,1,Mild Enchilada Sauce
+36575,1,"Soybeans (Mature Seeds, Steamed, Cooked)"
+98256,1,Organic Extra Virgin Olive Oil
+6223,1,Raw Vegetable
+94109,1,Organic Broccoli Florets
+122021,1,Tomato Juice
+4352576,1,Spam Classic
+53446,1,Quick Oats
+253493,1,Chex Oven Toasted Corn Cereal
+229871,1,Salt Free Garlic & Herb Seasoning
+59251,1,Dried Cherries
+42113,1,Fat Free Sugar Free Vanilla Pudding
+4793134,1,Natural Almond Butter - Chocolate
+29703,1,96% Lean Ground Beef
+3350,1,Brazil Nuts
+370490,1,Shredded Gouda Cheese
+44508,1,No Yolks Egg Noodles
+2400858,1,Red Enchilada Sauce
+128960,1,French Style Cut Green Beans
+641107,1,Seasoned Shredded Beef
+39831,1,Dry Macaroni
+88460,1,Pine Nuts
+34843,1,Sofrito Sauce
+624194,1,Wide Egg Noodles
+164085,1,Medium Cheddar Cheese
+478472,1,All Natural Chicken Broth
+38998,1,Corn Muffins (Dry Mix)
+436826,1,Classic Sharp Cheddar Cheese
+28953,1,Low Fat Pancake & Baking Mix
+2637858,1,100% Pure Pumpkin
+30245,1,Light Garlic & Herb Cheese Wedges
+369401,1,Organic Ghee Clarified Butter
+74747,1,Skim Milk
+56777,1,Organic Brown Eggs (Large)
+2841370,1,Snap Peas
+66873,1,Egg Whites
+36258,1,"Bamboo Shoots (Drained Solids, Canned)"
+2526748,1,Smart & Delicious Low Carb High Fiber Original Tortillas
+523629,1,Liquid Sucralose
+4302203,1,Light Ranch Salad Dressing
+95302,1,Shredded Mozzarella Cheese
+2573716,1,Heavy Cream
+1211994,1,Gold Standard 100% Whey - Double Rich Chocolate
+106686,1,Colby Jack Deli-slices
+259830,1,Original Cereal
+29307,1,Meatless Ground Burger
+2223455,1,Whey Protein Powder
+95870,1,Reduced Fat Mozzarella String Cheese
+42985,1,Light Catalina Reduced Fat Dressing
+832518,1,Raw Vegan Chocolate Protein
+2161983,1,Grade A Large Egg
+38242,1,"California Red Kidney Beans (Without Salt, Cooked, Boiled)"
+38283,1,"Large Lima Beans (Mature Seeds, Canned)"
+76819,1,Fresh Basil Pesto
+30513,1,Reduced Fat Breakfast Sausage
+47260,1,Jalapeno Slices
+1283627,1,English Cucumber
+41834,1,Sugar Free Chocolate Fudge Pudding Mix
+37796,1,Gamay Wine
+21447679,1,Chopped Pecans
+40709,1,Meatless Bacon Bits
+2792303,1,Natural Crunchy Peanut Butter
+427667,1,Natural Shredded Reduced Fat made with 2% Milk Mild Cheddar Cheese
+62683,1,Extra Virgin Olive Oil
+369347,1,Enchilada Sauce
+17057035,1,Confectioners Sugar
+94880,1,Canned Black Beans
+235638,1,Kitchen Ready Tomatoes
+1104370,1,Russet Potatoes
+36382,1,Endive
+2370642,1,Rice Vinegar
+82321,1,100% Premium Chocolate Whey Protein
+1211867,1,Lightly Salted Almonds
+53274,1,Fat Free Crab Delights
+121684,1,Jalapeno Peppers
+37552,1,"Beef Chuck (Arm Pot Roast, Trimmed to 1/8"" Fat, Select Grade)"
+783273,1,Light Coconut Milk
+4534,1,Instant Brown Rice
+35302,1,Hot Turkey Sausage (Smoked)
+3741917,1,White Zinfandel
+119529,1,Whole Wheat Tortillas
+4479770,1,Protizyme - Vanilla Cake
+329402,1,Farmer's Cheese
+262339,1,Butter Flavored Cooking Spray
+101228,1,Traditional Salsa (Medium)
+81306,1,Heavy Whipping Cream
+24281,1,Light Swiss Original Cheese Wedges
+637546,1,Whole Wheat Linguine
+4951495,1,Tomato Sauce (No Salt Added)
+1599666,1,Tomato Sauce
+79521,1,Grands! Homestyle Buttermilk Biscuits
+4504,1,Instant White Rice
+971637,1,No Calorie Sweetener (Made with Sucralose)
+263373,1,Aged Balsamic Vinegar
+5673332,1,Chicken Breast
+36600,1,Butternut Winter Squash (Frozen)
+490142,1,Finely Ground Tapioca Flour
+37790,1,Burgundy Wine
+1094943,1,Beef Bacon
+251159,1,96% Fat Free Chunk White & Dark Chicken in Water
+38251,1,Pink Beans (Mature Seeds)
+233559,1,Almond Breeze Original Unsweetened Non-Dairy Beverage
+96763,1,Aged Balsamic Vinegar
+86858,1,Fat Free Skim Milk
+152566,1,Sweet Gherkin Pickles
+58366,1,Kaiser Rolls
+68327,1,Roasted Salted Cashews
+309522,1,Chunky Mild Salsa
+5778,1,Mashed Potato made with Milk (from Fresh)
+5446738,1,Natural Applesauce (Container)
+163854,1,Dark Red Kidney Beans
+36669,1,Watercress
+4048201,1,Frozen Mixed Fruit
+214811,1,Reduced Fat Colby & Monterey Jack Fancy Shredded Cheese
+100556,1,Cole Slaw Mix
+547041,1,Organic Bananas
+6236,1,Red Cabbage
+11030357,1,Unsweetened Dark Chocolate Baking Chips
+14982671,1,Diced Ham
+630689,1,French Green Lentils
+25711,1,Traditional Bacon
+654579,1,"Tomato Paste with Basil, Garlic and Oregano"
+62306,1,Yellow Corn Meal
+164574,1,Salted Butter
+814,1,Nonfat Buttermilk
+36043,1,"Pork Loin (Whole, Lean Only)"
+61630,1,Pizza Sauce
+2977631,1,Ground Turkey 93/7
+96744,1,Extra Virgin Olive Oil
+309378,1,Baked or Boiled Polenta
+54984,1,Yellow Mustard
+33839,1,Egg White (Dried)
+1300782,1,Dry Roasted Peanuts
+23085,1,Flax Seed Milled
+46539,1,Deli Swiss Cheese Slices
+164600,1,Italian Style Seasoned Lean Ground Turkey
+36405,1,Portabella Mushrooms (Grilled)
+15488730,1,Pro Granola Vanilla Cinnamon Cluster
+262302,1,Naturals Organic Coconut Oil
+598031,1,Frozen Red Raspberries
+4923760,1,Organic Tomatoes Diced & No Salt Added
+200296,1,Tomato Sauce
+88054,1,Finely Shredded Mexican Blend Cheese
+18383339,1,Ketchup No Sugar Added
+39326,1,Hard Salted Pretzels
+3742555,1,Real Mayonnaise
+5977303,1,All Natural Dijon Mustard
+101923,1,"Italian Diced Tomatoes with Basil, Garlic & Oregano"
+38827,1,Toasted Whole Wheat Bread
+75271,1,Frozen Mixed Vegetables
+200287,1,Chunky Tomato Sauce
+2012389,1,Fat Free Cottage Cheese
+31863,1,Flaked Light Tuna in Water
+1578833,1,Reduced Sodium Cream of Mushroom Condensed Soup
+93282,1,Sliced Smoked Beef
+753260,1,Cheesy Rice & Broccoli
+973623,1,Rice & vermicelli
+214917,1,Garbanzo Beans
+6175,1,Low Sodium Tomato Sauce
+378166,1,A1 Steak Sauce
+5493,1,Blackberries
+8286063,1,Unsalted Butter
+823,1,Evaporated Milk
+4407306,1,Balsamic Reduction
+3889898,1,Tilapia Fillets
+40658,1,Muenster Cheese (Low Fat)
+2055515,1,Pecan Chips
+126307,1,Sliced Sharp Cheddar Cheese
+15723626,1,Chicken Bone Broth
+354050,1,Artichoke Hearts in Oil
+5195739,1,Syntha-6 Chocolate Cake Batter Protein Shake
+36037,1,"Pork Leg (Shank Half, Lean Only)"
+541591,1,Lemon Juice
+27990,1,2% Milk Mozzarella Cheese
+37662,1,"Beef Top Sirloin (Trimmed to 1/8"" Fat, Select Grade)"
+42834,1,Low Fat Sesame Ginger Dressing
+2197027,1,Penne Rigate Pasta
+48956,1,Organic Creamy Peanut Butter
+78707,1,White Pearl Onions
+247492,1,Pure Canola Oil
+2192791,1,Nonfat Plain Greek Yogurt
+8229918,1,Mild Pork Sausage
+57200,1,Chick Peas
+55670,1,Unsalted Cultured Butter
+3231332,1,Peppercorn Ranch Dressing & Dip
+291091,1,Dark Red Kidney Beans
+2155,1,Lobster
+37048,1,Dry Roasted Cashew Nuts (Without Salt Added)
+67623,1,Shredded Hash Browns
+6889541,1,Blueberries
+91167,1,Curried Mango Grille Sauce
+26294,1,Medium Firm Tofu
+1947091,1,Efagold Coconut Oil
+2620649,1,Ham Steak
+2767226,1,Beef Bouillon Cube
+38643,1,Ground Lamb
+4323,1,Tortilla Corn Chips
+42811,1,Water
+57144,1,Stir-fry Vegetables
+40297,1,"Beef Chuck (Shoulder Clod, Top and Center Steaks, Lean Only, Trimmed to 0"" Fat)"
+7150,1,Animal Fat or Drippings
+1352568,1,Light Caesar Dressing
+35968,1,Rhubarb
+101554,1,Salmon Fillets
+2279304,1,Triple Sec
+58876,1,Diced Green Bell Peppers
+35884,1,"Orange Juice (Unsweetened, Canned)"
+563307,1,Whole Wheat Thin Spaghetti
+80176,1,Thick 'N Chunky Salsa - Medium
+2479579,1,Stir-Fry Teriyaki Vegetables with Sweet Soy Sauce Glaze
+115147,1,2% Milk Shredded Cheddar Cheese
+1734869,1,Crinkle Cut Carrots
+43043,1,100% White Corn Bite Size Tortilla Chips
+655956,1,Meatless Ground Crumbles
+11028935,1,Chia Seeds
+55118,1,Snow Peas
+47704,1,Semi-Sweet Chocolate Chips
+2829824,1,3 Pepper Cheese
+36155,1,"Ham (Whole, Cured, Roasted)"
+3660283,1,Shredded Colby & Monterey Jack Cheese
+39693,1,Bulgur (Cooked)
+1086753,1,Organic Cane Sugar
+305929,1,Tequila
+290888,1,Italian Salad Dressing & Recipe Mix
+2999064,1,Mexican Blend Cheese
+39486,1,Tapioca Puddings (Fat Free)
+4610949,1,Mustard Greens
+43071,1,Ready to Serve Brown Rice
+38767,1,"Bagels (Includes Onion, Poppy, Sesame) (Enriched with Calcium Propionate)"
+47008,1,Creamy Alfredo Sauce
+51977,1,Green Curry Paste
+3686230,1,Polska Kielbasa (2 oz)
+5289583,1,White Wine Vinegar
+6366391,1,Light Original Soymilk
+40329,1,"Beef Knuckle (Tip Side, Steak, Trimmed to 0"" Fat)"
+262240,1,Grapeseed Oil
+57890,1,Sweet Pickle Relish
+108795,1,Garbanzo Bean Flour
+7701488,1,2% Reduced Fat Ultra-Filtered Milk
+1854552,1,100% Pro Whey Standard
+13075124,1,Cauliflower Pearls
+2881960,1,Whole Milk
+3149455,1,Caramel Almond Spread
+50711,1,Golden Toasted Plain Bread Crumbs
+33742,1,Cream Substitute (Powdered)
+229036,1,Iodized Salt Seasoning
+96370,1,Whipped Chive Cream Cheese
+332782,1,Pizza Sauce
+31246,1,Dried Cherries
+1408,1,Lean Ground Beef
+6205,1,Tomato Soup
+1644005,1,"Diced Tomatoes with Basil, Garlic & Oregano (No Salt Added)"
+3359490,1,Wheat Chex Cereal
+5811413,1,Almond Butter
+6493835,1,Arnold Iron Whey
+309300,1,Goldfish Baby Cheddar Snack Crackers
+37584,1,"Beef Ribs (Small End, Trimmed to 1/8"" Fat)"
+31325,1,Fat Free Vanilla Yogurt
+61211,1,Walnut Halves & Pieces
+144843,1,Italian Salad Dressing
+2865023,1,Grilled & Ready Chicken Breast Chunks
+58872,1,Chopped Frozen Spinach
+98459,1,Organic Dark Brown Sugar
+48932,1,Organic Vegetable Broth
+92595,1,Diced Tomatoes
+65715,1,Original Chili Seasoning Mix
+599645,1,Dry Roasted Edamame - Lightly Salted
+3395,1,Coconut Milk (with Water)
+38948,1,Crackers
+36153,1,"Ham Steak (Boneless, Extra Lean, Cured)"
+34552,1,Turkey Meat
+36446,1,Yellow Onions (Sauteed)
+34499,1,"Chicken Meat (Roasting, Roasted, Cooked)"
+4567914,1,California Pitted Prunes
+39290,1,Plain Corn Chips
+1282,1,Queso Fresco
+33682,1,Butter Whipped (Salted)
+46740,1,Tilapia Fillets (Frozen)
+44150,1,Mushrooms
+33824,1,"Milk (Nonfat, Dry, Instant)"
+5281360,1,Pepperoni
+6730,1,Pimiento
+87451,1,Flaxseed Oil
+65428,1,Sugar Free Chocolate Syrup
+35735,1,"Applesauce (Without Salt, Sweetened, Canned)"
+34331,1,"Margarine (Regular, 80% Fat, Stick)"
+2138,1,Clams
+69567,1,Sun-dried Tomatoes in Olive Oil
+58810,1,Soya Sauce
+5871,1,Cooked Collards
+6288,1,Cooked Artichoke (Canned)
+6387453,1,Organic Extra Virgin Olive Oil
+260624,1,Quick Oats
+436834,1,Deli Style Sliced Aged Swiss Cheese
+104478,1,Fettuccine Pasta
+88680,1,Corn on the Cob
+38812,1,White Bread (Reduced Calorie)
+430847,1,Sharp Cheddar Cheese
+169040,1,Whole Berry Cranberry Sauce
+1877,1,Polish Sausage
+82546,1,Healthy Request Cream of Celery Soup
+16890730,1,Toasted Flake Coconut
+5910397,1,Mozzarella Shredded Cheese
+33884,1,Mace (Ground)
+128851,1,Russet Burbank Idaho Potatoes
+2684406,1,Whole Grain Oatmeal
+34806,1,"Tomato Vegetable Soup Mix (Dry, Dehydrated)"
+6540,1,Cooked Cauliflower (from Frozen)
+6464468,1,Greek 100 Yogurt - Strawberry Banana
+45118,1,Chopped Pecans
+301225,1,Mahi Mahi
+248921,1,Bits 'O Brickle Toffee Bits
+37735,1,Rum (90 Proof)
+34249,1,Margarine (Regular with Salt)
+34426,1,"Chicken Light Meat (Broilers or Fryers, Roasted, Cooked)"
+35108,1,Spaghetti Sauce (Low Sodium)
+58583,1,Dried Wood Ear Mushrooms
+6231,1,Beets
+3184806,1,Mild Cheddar Shredded Cheese
+11419660,1,Platinum 100% Iso-Whey Vanilla Ice Cream
+503741,1,Lean Ground Turkey
+36665,1,"Mixed Vegetables (Without Salt, Frozen, Drained, Cooked, Boiled)"
+94910,1,Sour Cream
+37495,1,"Beef Chuck (Shoulder Tender Medallion, Lean Only, Trimmed to 0"" Fat, Select Grade)"
+1889,1,Dry or Hard Salami
+33747,1,Imitation Sour Cream (Cultured)
+35944,1,Plums
+3246580,1,Total 2% Greek Yogurt (227g)
+36969,1,Enoki Mushrooms
+24545445,1,Shredded Mozzarella
+67288,1,Potato Hamburger Rolls
+29057,1,Fat Free Sour Cream
+129232,1,Canned Black-Eyed Peas
+2042734,1,Cheesy Double Cheddar
+36501,1,"Potatoes (Flesh, Without Salt, Baked)"
+49807,1,Diced Tomatoes in Sauce
+36400,1,Kale (Frozen)
+29049,1,Pieces & Stems Mushrooms (No Salt Added)
+442902,1,Sugar Free French Vanilla Liquid Coffee Creamer
+5518,1,Red Raspberries
+83372,1,Lactose Free Skim Milk
+29000,1,Ezekiel 4:9 Sprouted 100% Whole Grain Bread
+86967,1,Reduced Sodium Chicken Broth
+14456874,1,Organic Protein Plant Based Protein Powder Creamy Chocolate Fudge
+11666188,1,Greek Yogurt Dressing Cucumber Dill
+2635865,1,Boneless Pork Chops
+150362,1,"Melange A Trois Red, Yellow & Green Peppers"
+63026,1,Seasoned Stuffing Mix
+35092,1,Alfredo Mix Sauce
+5037744,1,Organic Unsweetened Almond Milk
+194154,1,Shredded 2% Milk Reduced Fat Mozzarella Cheese
+251174,1,Better than Bouillon Chicken Base made from Chicken Meat with Natural Juices
+1265516,1,Romaine Lettuce
+235775,1,Boneless Skinless Chicken Thighs
+1969131,1,Healthy Grains Multi-Grain with Flax Flatbread
+44580,1,Penne Wheat Pasta
+39069,1,Plain Waffles (Frozen)
+13304016,1,Green Onion
+719129,1,San Marzano Peeled Tomatoes
+100903,1,Shredded Mexican Four Cheese Blend
+3358,1,Sweetened Dried Coconut Meat
+53282,1,Extra Virgin Coconut Oil
+3075381,1,Skim Milk Powder
+35885,1,"Orange Juice (Chilled, Includes From Concentrate)"
+38036,1,Roe (Fish) (Mixed Species)
+2061826,1,Tofu Shirataki Spaghetti
+7107,1,Sugar
+38825,1,Toasted Whole Wheat Bread (Commercial)
+1462170,1,Fully Cooked Real Bacon Bits
+2352458,1,Extra Virgin Olive Oil
+112234,1,Jumbo Shells Pasta
+61263,1,Dried Cranberries
+234577,1,Skim Milk
+35740,1,"Apricots (Solids and Liquids with Skin, Extra Light Syrup Pack, Canned)"
+60796,1,Hearty Grains 100% Whole Wheat English Muffins
+56854,1,Enchilada Sauce Spices & Seasonings
+124088,1,Elbow Macaroni
+93685,1,30% Less Sodium Taco Seasoning Mix
+3509164,1,Red Onion
+798,1,Skim or Nonfat Milk (Calcium Fortified)
+3361,1,Roasted Macadamia Nuts
+268091,1,Pineapple Chunks in its Own Juice
+7325,1,"Sugar Substitute (Herbal Extract Sweetener, Powder)"
+33797,1,Fried Egg
+52846,1,Beef Franks
+86512,1,Original Applesauce
+29051,1,Soy Sauce Tamari
+5924533,1,Flax Seed Meal
+515550,1,Sugar Substitute
+50235,1,50% Light Cheddar Shredded Cheese
+40700,1,Vegetarian Meatloaf or Patties
+83641,1,Fresh Cranberries
+39333,1,Tortilla Chips (White Corn)
+83051,1,Rosemary Herb Seasoning Mix
+1027717,1,Chick Peas
+5416,1,Currants
+1585608,1,Organic Frozen Blueberries
+36668,1,"Waterchestnuts (Solids and Liquids, Canned)"
+77851,1,Flour Tortillas
+1286,1,Ricotta Cheese
+279052,1,Onion Recipe Soup & Dip Mix
+3426364,1,Roma Style Tomato Sauce
+43734,1,Mozzarella Fat Free Cheese
+13511029,1,Riced Broccoli
+3344,1,Almonds
+7554,1,Espresso Coffee
+288337,1,Reduced Fat American Cheese
+2085205,1,Fresh Sweet Italian Turkey Sausage
+1850,1,Smoked Beef Sausage
+3411,1,Sesame Paste (Sesame Butter Made From Whole Seeds)
+39632,1,Air Popped White Popcorn
+6427,1,"Cooked Asparagus (from Fresh, Fat Not Added in Cooking)"
+34974,1,"Cream Of Mushroom Soup (with Equal Volume Water, Canned)"
+36987,1,Chinese Broccoli (Cooked)
+39627,1,Apricot Jams and Preserves
+36825,1,"Shiitake Mushrooms (with Salt, Cooked)"
+66432,1,Goat Cheese with Garlic & Herbs
+6251,1,Boston Lettuce
+5317086,1,Chili Beans in Mild Sauce
+1629009,1,Diced Green Chiles
+83211,1,Organic Vegetable Broth
+7227904,1,Organic Frozen Wild Blueberries
+36931,1,"White Sweet Corn (Vacuum Pack, Canned)"
+5517,1,Black Raspberries
+3838530,1,Cream Cheese
+1482821,1,Broccoli Florets
+87274,1,Chives & Onion Cream Cheese
+486506,1,Organic Vegetable Broth
+56614,1,Dijon Mustard
+34990,1,"Vegetable Soup (with Equal Volume Water, Canned)"
+4839863,1,Quick 1-Minute Oats
+50609,1,2% Milk Extra Sharp Cheddar Cheese
+1368399,1,Louisiana Hot Sauce
+64618,1,London Broil
+39464,1,Vanilla Puddings (Dry Mix)
+25598,1,Light English Muffin
+33783,1,"Whey (Sweet, Fluid)"
+94892,1,Excellence Extra Fine Dark Chocolate 85% Cocoa
+6536434,1,99% Lean Ground Turkey
+3728,1,Cornbread Stuffing
+29342,1,Triscuit Reduced Fat Crackers (29g)
+30390,1,Fat Free Ricotta Cheese
+54697,1,Unsweetened Baking Chocolate Squares
+6739761,1,Organic Vegetable Broth
+45950,1,Yellow Squash
+36750,1,Yellow Snap Beans
+62577,1,Whole Wheat Angel Hair Pasta
+49506,1,Egg Replacer
+1403,1,Ground Beef
+116322,1,PLUS Whole Wheat Pasta
+274055,1,Cream Style Sweet Corn
+229810,1,Curry Powder
+66437,1,100% Natural Creamy Peanut Butter
+6179660,1,Garden Delight Trio Italiano
+5110191,1,Organic Tamari
+3382482,1,No Calorie Sweetener with Fiber
+58424,1,Baby Zucchini
+36250,1,"Asparagus (Unprepared, Frozen)"
+100833,1,Yellow Corn Meal
+2121920,1,Japanese Style Panko Bread Crumbs
+260196,1,Garbanzo Beans (50% Less Sodium)
+370206,1,Salted Sweet Cream Butter Sticks
+150707,1,Cut Leaf Spinach
+33142,1,Original Vegan Meatless Burgers
+7624276,1,Minced Onions
+34828,1,"Onion Gravy (Dry, Dehydrated)"
+37106,1,"Dried Coconut (Shredded, Sweetened)"
+95739,1,Extra Virgin Olive Oil
+75681,1,Fire Roasted Diced Tomatoes
+1813823,1,Vanilla Protein Powder
+26736,1,Vegetable Oil Spread made with Olive Oil
+7160824,1,Organic Walnuts
+4615969,1,Black Soybean Tofuplus
+1685648,1,Organic Brown Rice Syrup
+828681,1,Whey Protein - Creamy Vanilla
+11475030,1,Himalayan Pink Salt
+7142,1,Salted Whipped Light Butter Tub
+437263,1,Aged Asiago Cheese
+77511,1,Jumbo Shells Pasta
+184726,1,Cooked Shrimp
+779223,1,Baking Powder (Aluminum-Free)
+33616,1,Large Butter Beans
+1989119,1,Jumbo Cooked Shrimp
+52528,1,100% Whole Wheat Extra Thin Pockets
+6525128,1,Black Chia Seeds
+518700,1,Curry Powder (No MSG)
+13884700,1,Organic Green Lentils
+4709954,1,Crushed Tomatoes
+4543211,1,No Salt Added Tomato Sauce
+4495767,1,Creatine Monohydrate
+1901688,1,Natural Provolone Cheese
+75848,1,Ice Cubes
+2976471,1,Organic Marinara Pasta Sauce
+33759,1,Milk (Nonfat with Added Vitamin A and Nonfat Solids)
+774208,1,Ground Mild Italian Sausage
+280872,1,Sweet Ground Italian Sausage
+659268,1,Lasagne Pasta
+40616,1,"Chocolate Frozen Yogurt (Nonfat Milk, Sweetened Without Sugar )"
+36193,1,Pork Loin (Country-Style Ribs)
+178274,1,Frozen Whole Kernel Golden Corn
+37965,1,Anchovy
+76942,1,Fajita Seasoning
+38345,1,Hummus
+103479,1,Fancy Shredded Mexican Blend Cheese
+83026,1,Sourdough Deli Bread
+263397,1,White Distilled Vinegar
+659314,1,Garden Rotini Pasta
+7414873,1,1% Low Fat Cottage Cheese
+61467,1,Pepperoni Stick
+262298,1,Rachael Ray EVOO Extra Virgin Olive Oil
+34975,1,"Mushroom with Beef Stock Soup (with Equal Volume Water, Canned)"
+38315,1,Meat Extender
+5931,1,Mustard Greens
+29374,1,Panko Bread Crumbs - Italian Style
+2984643,1,Turkey Jerky
+107593,1,Light Cream Cheese
+782504,1,Italian Seasoned Bread Crumbs
+2473930,1,Greek Vinaigrette Dressing
+50296,1,Organic Tomato Ketchup
+5347189,1,Optifiber
+2107,1,Canned Tuna
+205004,1,Organic Baked Teriyaki Tofu
+1925564,1,Chipotles Molidos
+2707297,1,Uncooked Jumbo Shrimp
+227233,1,Corn De Maiz Blanco Tortillas
+38932,1,Vanilla Wafers (Higher Fat)
+2338322,1,Blackstrap Molasses
+26553,1,Jet-Puffed Miniature Marshmallows
+37125,1,Dry Roasted Almonds (with Salt Added)
+3880217,1,Equal
+34875,1,Teriyaki Sauce (Reduced Sodium)
+3212604,1,Dates Pitted
+101574,1,Clamato Picante
+3082730,1,Traditional Style Plain Yogurt
+1343,1,Cheddar Cheese Soup
+34485,1,Chicken Wing Meat and Skin (Broilers or Fryers)
+52617,1,Cannellini Beans
+1957291,1,Raw Scallops
+1254269,1,Fat Free Mozzarella Cheese
+36799,1,"Yellow Sweet Corn (No Salt Added, Solids and Liquids, Canned)"
+374615,1,Vanilla Nonfat Yogurt (Cup)
+273702,1,Broccoli Coleslaw Mix
+6855491,1,Raw Chia Seeds
+5596626,1,Original Beef Cooking Stock
+9211073,1,Vanilla Milkshake Protein Powder
+2168918,1,Frozen Diced Onions
+40649,1,Meat and Poultry Frankfurter (Low Fat)
+12900417,1,Organic Eggs
+35732,1,Apple Juice (Frozen Concentrate)
+436872,1,Reduced Fat 4 Cheese Mexican Cheese
+11154869,1,Almond Flour
+5043,1,Cheese Filled Tortellini
+4851941,1,Ricotta Cheese
+34430,1,"Chicken Dark Meat (Broilers or Fryers, Roasted, Cooked)"
+262250,1,Aji-Mirin Sweet Cooking Rice Wine Seasoning
+128999,1,Sour Apple Pucker Schnapps
+34732,1,"Cheese Soup (Canned, Condensed)"
+227775,1,Reduced Fat Low Moisture Park Skim Mozzarella Cheese
+604391,1,Natural Whey Protein
+1398498,1,Italian Herb Seasoning Grinder
+39727,1,"White Rice (Short-Grain, Cooked)"
+56741,1,Organics Eggs (Large)
+4634776,1,Raw Coconut Flour
+73899,1,Dry Roasted Peanuts
+1596,1,Domestic Rabbit
+1677539,1,Purified Drinking Water
+81032,1,Grade A Cultured Low Fat Buttermilk
+120130,1,Smoked Mozzarella
+37175,1,"Beef Chuck (Blade Roast, Lean Only, Trimmed to 1/4"" Fat)"
+7031950,1,Fat Free Feta Cheese
+3566,1,100% Whole Wheat Bread
+3162147,1,Roasted Red Peppers
+269516,1,Diced Tomatoes (No Salt Added)
+43616,1,Traditional Tomato Sauce
+34833,1,"Chicken Noodle Soup Mix (Dry, Dehydrated)"
+112917,1,Reduced Fat Sour Cream
+34580,1,Turkey Wing Meat and Skin
+4479,1,Quick or Instant Oatmeal
+13673229,1,Mild Country Sausage
+3796304,1,21 Seasoning Salute
+37006,1,"Straw Mushrooms (Drained Solids, Canned)"
+30446,1,Traditional Spaghetti Sauce
+25876,1,Natural Walnuts
+72211,1,Pizza Sauce
+34662,1,"Chicken Meat (with Broth, Canned)"
+6993294,1,Fancy Shredded Reduced Fat Mild Cheddar Cheese
+35833,1,"Thompson Seedless Grapes (Solids and Liquids, Heavy Syrup Pack, Canned)"
+3036472,1,Steak Seasoning
+26577,1,All Natural Chopped Spinach
+152227,1,Sliced Ripe Black Olives
+38542,1,"Veal Shoulder Whole (Arm and Blade, Lean Only)"
+6010,1,"Cooked Broccoli (from Fresh, Fat Not Added in Cooking)"
+88921,1,Grands! Buttermilk Biscuits
+35324,1,Beef Sausage (Pre-Cooked)
+101245,1,Stewed Tomatoes Mexican Recipe
+89534,1,Soft Ripened Brie Cheese
+1661318,1,Cooking Creme - Italian Cheese & Herb
+152230,1,Pearled Barley
+1289070,1,Whole Natural Almonds
+993085,1,Sugar Free Chocolate Chips
+38088,1,Yellowfin Tuna (Fish)
+38939,1,Melba Toast
+60511,1,Medium Cheddar Cheese
+35317,1,White Turkey (Deli Cut Rotisserie)
+30879,1,Wild Salmon
+2507702,1,Original Applesauce (Container)
+35089,1,"Brown Gravy (Dry, Instant)"
+12458709,1,Beef Bone Broth
+624184,1,Tortillas
+7348872,1,Monk Fruit Extract
+25875,1,Natural Almonds
+62943,1,Organic Mixed Baby Greens Salad
+2969,1,"Beef Broth, Bouillon or Consomme"
+2435374,1,Chicken Bouillon
+5582425,1,Reduced Sodium Chicken Broth
+7277114,1,Shredded Mozzarella
+6255,1,Mushrooms
+8293040,1,Gluten Free All Purpose Flour
+176073,1,Nacho & Taco Shredded Cheese
+1310523,1,Ground Pork
+40384,1,"Beef Chuck (Top Blade, Trimmed to 1/4"" Fat)"
+6173,1,Green Tomato Chile Sauce (Salsa Verde)
+38097,1,Alaska King Crab
+36294,1,"Broccoli (Chopped, Without Salt, Frozen, Drained, Cooked, Boiled)"
+1299015,1,Baby Spinach
+25531,1,Romaine Lettuce
+38417,1,Firm Tofu (with Calcium Sulfate)
+196225,1,SuperMoist Carrot Cake Mix
+34248,1,Margarine (Regular)
+33765,1,"Milk (Nonfat with Added Vitamin A, Instant)"
+1888544,1,Ready Rice - Natural Whole Grain Brown
+2078719,1,Fat Free Blueberry Yogurt
+255396,1,Black Bean Dip
+386430,1,Butter Beans
+69580,1,Fancy Whole Baby Corn (Small)
+62213,1,Natural Pancetta
+143216,1,Shredded Six Cheese Italian Blend
+1397977,1,Light & Fit Yogurt - Strawberry Banana (170g)
+49845,1,Whipped Creamy Peanut Butter
+684362,1,Boneless Skinless Chicken Breast Fillets with Rib Meat
+60592,1,Organic Mayonnaise
+5605,1,Prune Juice
+2357508,1,Low Sodium Original 100% Vegetable Juice
+233562,1,Almond Breeze Vanilla Unsweetened Non-Dairy Beverage
+38320,1,Dry Roasted Soybeans (Mature Seeds)
+1261,1,Whole Milk Mozzarella Cheese
+39740,1,Dry Pearl Tapioca
+35311,1,Smoked Honey Ham (Cooked)
+3219230,1,Pecan Halves
+39316,1,Oil Popped Popcorn (Microwaved)
+96649,1,Chicken Bouillon Cubes
+3138920,1,Original Soft Spread
+959000,1,Boneless Skinless Chicken Breast
+436980,1,Freshly Shredded Parmesan Cheese
+34514,1,Chicken Light Meat (Stewing)
+3898967,1,Puffed Rice
+309939,1,Sliced Hard Salami
+39813,1,"White Rice (Long-Grain, with Salt, Enriched, Cooked)"
+264426,1,Coleslaw Mix
+690966,1,"Freshly Shredded 3 Cheese Italian (Parmesan, Asiago & Romano)"
+1336833,1,Organic Almond Butter
+1132848,1,Better Than Sour Cream
+36287,1,Beet Greens
+1959257,1,Butter Croissant
+55856,1,Diced Tomatoes with Garlic & Onion
+113679,1,Marinara with Imported Olive Oil Pasta Sauce
+34869,1,Salsa
+1078509,1,Ground Chicken Breast
+69078,1,Manjo Aji-Mirin
+34737,1,"Chicken Gumbo Soup (Canned, Condensed)"
+98482,1,Kidney Beans
+38194,1,Channel Catfish (Farmed)
+13951882,1,Unsweetened Organic Acai Puree Packets
+18745369,1,Whole Peeled Plum Tomatoes
+63202,1,"Tender & Tasty Boneless, Skinless Chicken Breasts"
+90326,1,Green Beans
+39792,1,Dry Spinach Pasta
+34496,1,Chicken Meat and Skin (Roasting)
+36378,1,Dandelion Greens
+3247297,1,Ground Turkey 93/7
+146774,1,Shredded Colby Jack Cheese
+3642507,1,Cream Cheese
+13525349,1,Slow Roasted Creamy Almond Butter
+67746,1,Fire Roasted Chile Salsa
+32905,1,Chili Ready Tomatoes
+17295847,1,Organic Baby Spinach & Kale
+60810,1,Angel Hair Pasta
+75095,1,Pineapple Tidbits in 100% Pineapple Juice
+317669,1,Fully Cooked Bacon
+40437,1,"Beef Chuck (Arm Pot Roast, Lean Only, Trimmed to 1/8"" Fat)"
+82397,1,Light Original Flatbread
+1193566,1,Smoked Turkey Chicken Sausage
+89354,1,Deli-style Smoked Turkey Luncheon Meat
+58010,1,Indian Korma Curry Paste
+71345,1,Light Mild Cheddar Cheese
+299838,1,Ready Cut Diced Tomatoes
+55260,1,Sweet Red Chili Sauce
+852712,1,Spanish Rice
+36497,1,"Red Potatoes (Flesh and Skin, Baked)"
+1813339,1,Pure Coconut Coconut Milk - Vanilla
+63381,1,Ahi Tuna Steaks
+1577020,1,Honey Grahams
+55087,1,Baby Arugula
+248817,1,Dark Collection Chocolate Squares
+106789,1,Organic Raw Cashews
+109073,1,98% Fat Free Cream of Celery Soup
+40393,1,"Ground Beef (95% Lean / 5% Fat, Patty, Cooked, Pan-Broiled)"
+103856,1,Fat Free Milk
+28665,1,Apple Sauce
+91277,1,Organic Tomato Sauce
+2870538,1,Large Grade A Eggs
+36580,1,"Spinach (Drained Solids, Canned)"
+710327,1,Chile Powder
+39688,1,Buckwheat
+77509,1,Elbow Macaroni Pasta
+72490,1,Boneless Skinless Split Chicken Breasts
+120340,1,Fresh White Grade A Large Eggs
+53696,1,Creamy Peanut Butter
+659331,1,Organic Sucanat
+28673,1,Pizza Sauce
+25518,1,US Grade A Pure Honey
+2391498,1,Light Brown Sugar
+38238,1,Kidney Beans
+39585,1,Banana Chips
+213430,1,Organic Baby Arugula
+85036,1,YoPlus - Blackberry Pomegranate
+77588,1,Stone Ground 100% Whole Wheat Bread
+37066,1,Coconut Milk or Cream (Liquid)
+39308,1,"Oats, Fruit and Nut Granola Bars"
+2144469,1,Chicken Base
+46766,1,Crushed Pineapple in 100% Pineapple Juice
+39803,1,White Corn
+442715,1,Mini Fillo Shells
+4986236,1,Hardwood Smoked Thick Cut Sugar Cured Bacon
+108771,1,Sugar Snap Peas
+39095,1,"Bagels (Includes Onion, Poppy, Sesame) (Without Calcium Propionate, Enriched)"
+436262,1,100% Lactose Free Lowfat Small Curd Cottage Cheese
+3117550,1,North America Superfruit Spread
+34483,1,"Chicken Thigh Meat (Broilers or Fryers, Roasted, Cooked)"
+7589,1,Carbonated Water Unsweetened
+2217119,1,Organic Oat Bran
+35141,1,Chopped Ham (Canned)
+7769989,1,Organic Coconut Flour
+69971,1,Whole Wheat Tortillas de Harina Integral
+62303,1,White Corn Meal
+69518,1,Oven Roasted Diced Chicken Breast
+7043519,1,Sweetener
+28184,1,Haricot Vert Green Beans
+424409,1,Crispy Brown Rice 100% Whole Grain Cereal
+7445223,1,Premium Pork Sausage (Regular)
+23192211,1,Premium Organic Coconut Flour
+4771860,1,Seitan
+98270,1,97% Fat Free Fully Cooked Canadian Bacon
+83813,1,All Natural Ground Turkey
+5582493,1,All Natural Little Pork Sausages (2)
+45450,1,Pizza Dough
+39026,1,"Coconut Creme Pie (Mix, No-Bake Type)"
+6508,1,Cooked Celery (Fat Not Added in Cooking)
+2718343,1,Organic Extra Virgin Olive Oil
+61519,1,Kalamata Olives
+42462,1,Wild Pacific Salmon Fillets
+13382291,1,Organic Unsweetened Coconut Flakes
+26082,1,Extra Lean Turkey Bacon
+117544,1,Simple Creations Fiesta Salsa Mix
+3716992,1,Fajitas Seasoning Mix
+522565,1,All Natural Nonfat Plain Greek Yogurt
+370098,1,Sweet Cream & Salted Whipped Butter
+2534340,1,Nutritional Food Yeast
+40292,1,"Beef Outside Round (Steak, Lean Only, Trimmed to 0"" Fat, Select Grade)"
+82045,1,Premium Light Tuna in Water (Pouch)
+3458334,1,Mozzarella Part Skim Low Moisture Cheese
+39562,1,Maple Sugar
+3351169,1,Frozen Mango Chunks
+47574,1,Jasmine Long Grain Rice
+102292,1,Beef Broth
+4908166,1,Hearty Turkey Sausage Crumbles
+1497,1,Prosciutto
+34220,1,"Margarine (Soybean, Hydrogenated)"
+37446,1,"Beef Porterhouse Steak (Lean Only, Trimmed to 1/4"" Fat)"
+29790,1,Chocolate Protein Shake
+5915,1,Kale (Cooked)
+129738,1,Gandules Verdes
+7475293,1,Oven Toasted Old Fashioned Organic Oats
+93805,1,Naturally Fat Free Real Egg Product
+261831,1,All Natural Spicy Brown Mustard
+2681351,1,Whole Wheat Thin Spaghetti
+37708,1,"Beef Chuck (Shoulder Top and Center Steaks, Lean Only, Trimmed to 0"" Fat, Select Grade)"
+36648,1,Tomato Sauce with Tomato Tidbits (Canned)
+36266,1,"Baby Lima Beans (Immature Seeds, Frozen)"
+840,1,Sweetened Condensed Milk (Diluted)
+31553,1,Healthy Harvest Whole Wheat Blend Pasta Linguine
+2968075,1,Natural Creamy Peanut Butter
+5058585,1,Large Egg
+2716179,1,Canned Corn
+47981,1,Light No Sugar Added Tomato & Basil Pasta Sauce
+37979,1,Atlantic Cod
+262279,1,White Truffle Flavored Extra Virgin Olive Oil
+34811,1,"Curry Sauce (Dry, Dehydrated)"
+38018,1,Monkfish
+827987,1,Pesto Sauce
+33701,1,Gjetost Cheese
+34762,1,"Onion Soup (Canned, Condensed)"
+36023,1,Pork Backfat
+36911,1,"Tomato Puree (with Salt Added, Canned)"
+37067,1,"Coconut Milk or Cream (Liquid, Canned)"
+1952,1,Canned Anchovy
+7114596,1,Minced California Garlic
+66186,1,Vegetable Skallops
+43257,1,Mayonnaise Lite
+4657,1,Kellogg's Lowfat Granola
+586259,1,Vegetable Broth
+18209010,1,Organic Coconut Flour
+25852,1,1% Low Fat Cottage Cheese
+2846266,1,Whole Hull-Less Barley
+6514169,1,Golden Sweet Whole Kernel Corn
+4842110,1,93% Lean Ground Beef
+343272,1,Hot Chipotle Roasted Tomatillo & Garlic Gourmet Mexican Salsa
+38774,1,Plain or Buttermilk Biscuits (Dry Mix)
+2478948,1,Green Chile Enchilada Sauce
+576310,1,Pork Sirloin Tip Roast
+38104,1,Dungeness Crab
+34663,1,"Goose Liver Pate (Pate De Foie Gras, Smoked Canned)"
+68813,1,Great Northern Beans
+106734,1,Real Mayonnaise
+14636501,1,Almond Flour
+88613,1,Life Balance Whole Wheat Tortillas Plus! (Medium)
+5684597,1,Black Beans
+4254776,1,Organic Extra Firm Tofu
+1907860,1,Whole Kernel Corn
+2328062,1,Natural Choice Uncured Bacon
+2056281,1,Angel Hair Shirataki Pasta
+11376318,1,Stevia Baking Blend
+16406398,1,Organic Raw Honey
+137468,1,Baby Clams Fancy Whole
+3499829,1,Boneless Skinless Chicken Breast
+37123,1,Toasted Sunflower Seeds (with Salt Added)
+1945411,1,Organic Coconut Milk
+51974,1,Premium Coconut Milk
+1421,1,Pork
+113020,1,100% Liquid Egg Whites
+34488,1,"Chicken Wing Meat and Skin (Broilers or Fryers, Roasted, Cooked)"
+80347,1,100% White Corn Crispy Round Tortilla Chips
+39487,1,Chocolate Puddings (Fat Free)
+37682,1,"Beef Bottom Sirloin (Tri-Tip Roast, Trimmed to 0"" Fat)"
+1011326,1,Whey & Casein Blend Elite Gourmet - Chocolate Peanut Butter
+1530243,1,Chuck Tender Steak
+109596,1,BBQ Shredded Chicken
+2649898,1,Reduced Fat Sour Cream
+254403,1,Oven-Toasted Old Fashioned Oats
+38248,1,Navy Beans (Mature Seeds)
+3352,1,Roasted Salted Cashew Nuts
+154846,1,Balsamic Vinegar of Modena
+7015956,1,Beefless Ground
+56902,1,Organic Buttermilk Blend Powder
+229905,1,Salted Peanuts
+828803,1,2% Reduced Fat Finely Shredded Mozzarella Cheese
+6533521,1,Chardonnay Wine
+91686,1,Original Crescent Rolls
+4304,1,Saltine Crackers
+1446538,1,Fancy Whole Water Chestnuts
+67854,1,Strawberry-Orange-Banana Drink Mix
+61983,1,Classic Style Pretzel Sticks
+41937,1,Halved Pecans
+117541,1,Simple Creations Hot Chipotle Salsa Mix
+3732207,1,Portobello Mushroom Caps
+36188,1,"Pork Chops or Roasts (Center Rib, Boneless, Lean Only)"
+261869,1,Low Fat Mayonnaise Dressing
+307205,1,Bourbon
+35431,1,"Oats Cereal with Raisins and Spice (Instant, Prepared with Water, Fortified)"
+3094948,1,Wheat Bread
+37631,1,"Beef Top Round (Trimmed to 1/8"" Fat, Prime Grade)"
+1364286,1,Ravioli Mushroom
+5326,1,Dried Fruit Mixture
+95809,1,Canned Sweet White Whole Kernel Corn
+74322,1,Canilla Extra Long Grain Rice
+5455657,1,Old Fashioned Oats
+33800,1,Poached Egg
+7069,1,Tabasco Sauce
+36939,1,"Sweet Red Peppers (Solids and Liquids, Canned)"
+39687,1,Pearled Barley (Cooked)
+518594,1,Beef Bouillon Cubes
+226940,1,100% Natural Traditional Italian Sauce
+5842997,1,Mostaccioli
+1202279,1,Virgin Coconut Oil
+4417,1,Chow Mein Noodles
+27653,1,Whole Artichoke Hearts
+231092,1,100% Natural Strength Lemon Juice from Concentrate
+37347,1,Dried Beef (Cured)
+122830,1,Pork Polska Kielbasa
+35185,1,Pork Link Sausage (Smoked)
+12890251,1,Large White Grade A Eggs
+76161,1,Canned Pieces & Stems Mushrooms
+106761,1,Honey Dijon Mustard
+72008,1,Chicken Flavor Stuffing Mix
+37847,1,Orange Flavor Gelatin Powder
+93246,1,"8"" Flour Soft Taco (10 ct)"
+5496639,1,Cream Cheese & Greek Yogurt
+612615,1,Lump Crab Meat
+2853684,1,Sliced Strawberries
+4245344,1,Sliced Carrots
+1484091,1,Pitted Dates
+2958207,1,Chopped Dates
+45735,1,Flour Tortillas Soft Taco Size
+36959,1,Sweet Cucumber Pickle
+2861662,1,Organic Unsweetened Apple Sauce
+10358854,1,Beef Protein Isolate
+78089,1,Perfect Portions Boneless Skinless Chicken Breasts - Teriyaki
+36220,1,"Ground Pork (Frozen, Cooked)"
+8904573,1,Diced Hash Brown Potatoes
+917995,1,100% Natural Diced Tomatoes
+1812025,1,Organic Frozen Strawberries
+2747720,1,Velveeta Cheese
+126830,1,Multigrain Ciabatta Bun
+2158990,1,Greek Yogurt - Plain
+654570,1,Organic Red Quinoa
+648088,1,Extra Lean Ground Beef 96/4
+9740996,1,Unsweetened Almond Milk Original
+133962,1,Fancy Shredded Mozzarella Cheese
+33617,1,Tomato Puree Sauce
+35388,1,Wheat Germ Cereal (Toasted)
+54205,1,Gimme Lean Ground Sausage Style Veggie Protein
+164958,1,Small Pasta Shells
+122613,1,Frozen Sweet Peas
+38326,1,Defatted Soy Flour
+39822,1,"White Rice (Long-Grain, Without Salt, Cooked)"
+436196,1,Dipping Chocolate Real Dark Semi-Sweet Chocolate
+44175,1,Natural Applesauce
+122290,1,All Natural 93% Fat Free Ground Turkey
+209447,1,Pecorino Romano
+2712416,1,Brown Sugar
+35845,1,Chinese Gooseberries (Kiwi Fruit)
+392435,1,Premium Green & Red Peppers & Onion Strips
+4384700,1,Fat Free Sour Cream
+38696,1,Veal Shank (Lean Only)
+430970,1,Velveeta with 2% Milk Cheese
+1048943,1,Mixed Green Salad
+34286,1,"Sunflower Vegetable Oil (Hydrogenated, Linoleic)"
+663543,1,Organic Texmati Brown Rice Long Grain American Basmati
+1079,1,Fat Free Half and Half Cream
+31734,1,Egg Substitute
+2056322,1,All Natural Clam Juice
+58643,1,Snow Peas
+2701671,1,Buttery Spread
+47018,1,Fat Free Spread
+6585,1,Cooked Red Peppers (Fat Not Added in Cooking)
+51257,1,Light Smooth Peanut Butter
+123180,1,Frozen Peas & Carrots
+70997,1,Bean Sprouts
+5227335,1,Pure Sesame Seed Oil
+70471,1,Ramen Noodles with Chicken Flavor (35% Less Sodium)
+3766995,1,Extra Virgin Olive Oil
+42440,1,Frozen Artichoke Hearts
+1325538,1,Roasted No Salt Sunflower Nuts
+39395,1,Chocolate Flavor Hazelnut Spread
+15331243,1,Heavy Whipping Cream
+4472520,1,Super Advanced Whey Protein - Vanilla (33g)
+793278,1,Natural Cane Turbinado Sugar
+53651,1,Frozen Chicken Breast
+1429628,1,Whole Wheat Pizza Crust
+39099,1,White Pita Bread
+529595,1,Chocolate Chips
+552808,1,Real Mayonnaise
+39768,1,"Pasta (Made Without Egg, Cooked)"
+17706594,1,Mexican Style Blend Cheese
+150980,1,Kidney Beans (50% Less Sodium)
+81283,1,100% Natural Solid Pack Pumpkin
+109644,1,Spelt
+60470,1,Organic Frozen Raspberries
+71449,1,Dried Cranberries
+40484,1,"Beef Flank (Lean Only, Trimmed to 0"" Fat)"
+3741,1,Corn Tortilla
+5992089,1,Diced Canned Tomatoes
+71877,1,Chinese Style Hot Mustard
+2153959,1,Organic Extra Virgin Coconut Oil
+4539219,1,Brewer's Yeast
+106829,1,Easy Pumpkin Pie Mix
+7189,1,Molasses
+67104,1,Splenda Minis
+87065,1,Hoisin Sauce
+111279,1,Italian Style Shredded Cheese
+34503,1,"Chicken Light Meat (Roasting, Roasted, Cooked)"
+34813,1,"Spaghetti Sauce (Dry, Dehydrated)"
+2021894,1,Carbalose Flour
+38052,1,"Atlantic Sardine (Drained Solids with Bone In Oil, Canned)"
+3106134,1,Texas Original Taco Skillet Sauce
+10193036,1,Nonfat Greek Yogurt Plain
+267424,1,Sprouted Mung Beans
+38198,1,Coho Salmon (Farmed)
+3451665,1,92% Lean Ground Beef
+1728680,1,Granulated Sugar
+3346,1,Roasted Almonds
+49756,1,Gourmet Pizza Sauce
+1146892,1,Low Sodium Soy Sauce
+277902,1,Cream of Chicken Soup (Family Size)
+5268269,1,Organic Spring Mix
+311432,1,Natural Cane Sugar
+49833,1,Whole Tomatoes
+99659,1,Pork Rinds
+33252,1,Zesty Italian Meatless Veggie Brats
+284119,1,Green Tea
+110268,1,Soy Protein Powder
+2114694,1,Premium Matchstix Carrots
+38014,1,Pacific and Jack Mackerel (Mixed Species)
+54907,1,Baby Kosher Dills
+130208,1,Sunflower Seeds
+75422,1,Spaghetti Noodles
+1222551,1,Red Wine Vinegar
+77936,1,Natural Almond Butter - Classic
+1948660,1,Coconut Milk (Leche de Coco)
+5423,1,European Type Grapes
+152076,1,Pesto Alla Genovese - Basil Pesto
+40685,1,Cherry Pie Fillings (Low Calorie)
+69562,1,Artichoke Bottoms
+38135,1,Squid (Mixed Species)
+38363,1,Chocolate Soy Milk
+4058904,1,Whole Wheat Pita Bread
+437262,1,Fresh Asiago Cheese
+100997,1,Yellow Corn Tortillas
+70516,1,Steaks for Sandwiches 100% Pure Beef Thin Slices
+697243,1,All Natural Chopped Onions
+37739,1,Table Wine
+58865,1,Mayonnaise Dressing with Extra Virgin Olive Oil
+40443,1,"Beef Top Round (Lean Only, Trimmed to 1/8"" Fat, All Grades)"
+1282441,1,Marinara Pasta Sauce
+427722,1,Regular Cream Cheese
+392690,1,Fresh Cut Sweet Peas
+1684194,1,Brown Rice
+5503,1,Frozen Blueberries
+1637408,1,Diced Tomatoes Italian Style
+39764,1,Fresh Pasta (Cooked)
+3642,1,Whole Wheat Roll
+15443172,1,Matcha Green Tea
+33127,1,Fiber Supplement
+35191,1,Turkey Ham Thigh Meat (Cured)
+51611,1,Break-Free Real Egg Product
+1277,1,Lowfat Cheddar or Colby Cheese
+1828470,1,Imitation Crab Flakes
+62807,1,Monterey Jack Cheese
+6403,1,Cooked Cauliflower (from Fresh)
+555939,1,Organic Grass Fed Ground Beef (93% Lean / 7% Fat)
+38687,1,"Bison Shoulder Clod (Lean Only, Trimmed to 0"" Fat)"
+862954,1,Hulled Hemp Seed
+59052,1,Basil Pesto Sauce
+40768,1,Swiss Cheese (Low Sodium)
+6536,1,Cooked Green Cabbage
+5341,1,Date
+1046073,1,Stove Top Stuffing Mix For Turkey
+41949,1,Whole Eggs (Medium)
+154872,1,Black Beans (Frijoles Negros)
+1893927,1,Light Vegetable Oil Spread
+69409,1,Light Fat Free Yogurt - Harvest Peach
+92096,1,Altern No Calorie Sweetener
+2007213,1,Shirataki Yam Noodles
+29997,1,Crab Classic Leg Style (Imitation Crab Meat)
+551866,1,Cooked Salad Shrimp
+105050,1,Extra Lean Ground Pork
+37022,1,Roasted Pumpkin and Squash Seed Kernels (Without Salt)
+55023,1,Fancy Colby & Monterey Jack Cheese Shredded
+7514552,1,Apple Pie Spice
+2187,1,Homemade-Style Spaghetti Sauce with Beef or Meat
+3624988,1,Sweet Cream Salted Butter
+188651,1,Raw Sunflower Seeds
+5094071,1,Oat Fiber 500
+53579,1,Baby Spinach (Family Size)
+4907584,1,Mixed Berries
+1245672,1,Organic Marinara Sauce
+53559,1,Regular Margarine Sticks
+60248,1,Boneless Skinless Chicken Breast Tenders
+263637,1,Three Cheese Tri-Color Tortellini
+4792333,1,Long Grain & Wild Rice
+11084092,1,Dehydrated Diced Red & Green Bell Peppers
+3511103,1,Reduced Fat Shredded Mozzarella Cheese
+2810708,1,Raisin Bran
+53339,1,Velveeta Reduced Fat Pasteurized Cheese Product
+50152,1,Deli Ham
+1147159,1,Stone Ground Mustard
+2208994,1,Fresh Mozzarella Pearls
+6295282,1,Coconut Milk Unsweetened Vanilla
+5831069,1,Ralph's Grass Fed Ground Beef 85%
+79903,1,Hot Pepper Sauce
+34278,1,Hazelnut Vegetable Oil
+9769970,1,Fresh Mozzarella Cheese
+2325478,1,93% Lean Ground Turkey
+1869,1,Capicola
+126211,1,Whole Wheat Bread Crumbs
+3253,1,Cooked Lentils
+7188,1,Honey
+1621826,1,Chocolate Whey Protein Powder
+39737,1,Light Rye Flour
+68614,1,Pizza Sauce
+32838,1,Medium Cheddar Cheese
+37071,1,Hazelnuts or Filberts Nuts
+2244245,1,Ground Turkey 90/10
+62756,1,Nonfat Plain Yogurt
+58585,1,Egg Roll Wrappers
+79488,1,Extra Sharp Cheddar Cheese
+38073,1,Surimi (Fish)
+90767,1,Deli Style Brown Mustard
+3924120,1,100% Liquid Egg Whites
+2067568,1,Sprouted Green Lentils
+99136,1,Black Beans (Low Sodium)
+1523492,1,Rice Cheese Mozzarella Style
+37550,1,"Beef Chuck (Arm Pot Roast, Trimmed to 1/8"" Fat, Choice Grade)"
+35090,1,"Beef Gravy (Dry, Instant)"
+67133,1,Meal Starters Sausage Style Recipe Crumbles
+52696,1,Solid White Albacore Tuna in Water (2 oz)
+76239,1,Canned Stewed Tomatoes
+2341930,1,Multigrain Waffles
+186218,1,Boneless Pork Loin Center Cut Chops Thin
+4379,1,100% Whole Wheat or 100% Whole Grain Waffle
+28334,1,Red Beans
+104906,1,Chocolate Almond Milk
+5306979,1,Oikos Greek Nonfat Yogurt - Plain
+56305,1,Low Fat Sour Cream
+37484,1,"Beef Chuck (Arm Pot Roast, Trimmed to 1/2"" Fat, Prime Grade)"
+29373,1,Spreadable Butter with Canola Oil
+3868108,1,Vanilla Bean Syrup
+43385,1,Perfect Portions Boneless Skinless Chicken Breasts
+39782,1,Dry Soba Japanese Noodles
+37821,1,Coffee (Instant)

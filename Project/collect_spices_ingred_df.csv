@@ -1,0 +1,503 @@
+,food_id,count,food_name
+262,33908,995,Salt
+317,33892,854,Black Pepper
+334,36383,751,Garlic
+218,34212,630,Olive Oil
+390,33872,254,Cinnamon
+281,33911,206,Vanilla Extract
+335,33882,198,Garlic Powder
+374,33893,186,Red or Cayenne Pepper
+326,33876,170,Cumin
+558,33889,165,Oregano
+293,39075,141,Baking Soda
+568,36457,139,Parsley
+443,36351,122,Cilantro (Coriander)
+192,34305,119,Canola Vegetable Oil
+295,39072,118,"Baking Powder (Sodium Aluminum Sulfate, Double Acting)"
+403,33905,116,Basil
+365,36384,112,Ginger
+387,33890,110,Paprika
+219,283520,108,Extra Virgin Olive Oil
+332,33887,89,Nutmeg (Ground)
+404,33865,89,Basil (Dried)
+366,33883,81,Ginger (Ground)
+263,298864,79,Sea Salt
+329,33877,68,Curry Powder
+602,33903,63,Thyme (Dried)
+397,33888,62,Onion Powder
+0,36643,59,Tomato Sauce (Canned)
+185,34214,58,Sesame Oil
+1,35103,58,Worcestershire Sauce
+336,475603,56,Minced Garlic
+444,6242,55,Cilantro
+569,33891,50,Parsley (Dried)
+603,33910,49,Thyme
+2,38416,49,Soy Sauce (Shoyu) (Low Sodium)
+402,33866,47,Bay Leaf
+296,59788,41,Baking Powder
+3,34861,41,Pepper or Hot Sauce
+312,33873,40,Cloves (Ground)
+576,33917,39,Rosemary
+4,35084,37,Spaghetti/Marinara Pasta Sauce
+5,3272,36,Soy Sauce
+369,33904,34,Turmeric (Ground)
+193,7048,34,Vegetable Oil
+573,33918,32,Peppermint (Mint)
+371,33863,32,Allspice Ground
+472,33879,31,Dill (Dried)
+580,33900,31,Sage (Ground)
+377,36846,29,Red Hot Chili Peppers
+264,229039,27,Salt
+282,2175965,27,Pure Vanilla Extract
+6,38332,25,Soy Sauce (Shoyu)
+577,33898,24,Rosemary (Dried)
+440,36343,24,Chives
+194,40602,24,Vegetable Oil-Butter Spread (Reduced Calorie)
+180,34209,23,Peanut Oil
+337,93081,22,Minced Garlic
+378,36718,20,Green Hot Chili Peppers
+379,36997,20,Green Chili Peppers (Canned)
+265,229046,20,Coarse Kosher Salt
+473,33906,19,Dill
+323,4350223,19,Crushed Red Pepper Flakes
+8,38333,19,Soy Sauce (Tamari)
+322,33875,19,Coriander Seed
+7,35734,19,"Applesauce (Without Added Ascorbic Acid, Unsweetened, Canned)"
+9,34870,18,Fish Sauce
+305,39078,17,Bakers Yeast (Active Dry)
+338,343387,17,Garlic Powder
+297,39074,17,Baking Powder (Low Sodium)
+10,40713,15,Tomato Sauce
+220,4049182,14,Extra Virgin Olive Oil
+459,33874,13,Coriander Leaf (Dried)
+11,34862,13,Tabasco Sauce
+168,59241,12,Canola Oil
+221,261203,12,Extra Virgin Olive Oil
+339,6246,12,Garlic
+601,33902,12,Tarragon
+266,48838,12,Sea Salt
+298,39073,12,"Baking Powder (Straight Phosphate, Double Acting)"
+583,37025,12,Dried Whole Sesame Seeds
+12,3273,11,Reduced Sodium Soy Sauce
+267,56875,11,Seasoned Salt
+294,1350778,11,Pure Baking Soda
+327,3779807,11,Ground Cumin
+340,61505,11,Minced Garlic
+269,180303,10,Coarse Kosher Salt
+268,56871,10,Garlic Salt
+488,33827,10,Goats Cheese (Soft)
+195,34270,10,Grapeseed Vegetable Oil
+222,80314,10,Extra Virgin Olive Oil
+283,33913,9,"Vanilla Extract (Imitation, No Alcohol)"
+14,5369,9,Applesauce Unsweetened
+13,1125235,9,Less Sodium Soy Sauce
+321,33869,8,Celery Seed
+306,6629,8,Yeast
+489,39076,8,Cream Of Tartar
+223,52432,8,Olive Oil
+313,565305,8,Clover Honey
+556,33885,8,Marjoram (Dried)
+270,2567408,8,Garlic Salt
+17,35105,8,"Tomato Chili Sauce (Low Sodium, Bottled)"
+16,34867,8,Oyster Sauce
+584,3408,8,Sesame Seeds
+384,33880,8,Fennel Seed
+15,34848,8,Barbecue Sauce
+224,59814,7,Extra Virgin Olive Oil
+225,1123662,7,Olive Oil Cooking Spray
+311,33868,7,Cardamom
+271,2383661,7,Kosher Salt
+19,38334,7,Soy Sauce (Made From Hydrolyzed Vegetable Protein)
+388,343406,7,Paprika
+585,37026,7,Roasted and Toasted Whole Sesame Seeds
+570,6258,7,Parsley
+553,33916,7,Horseradish
+18,1905179,7,Soy Sauce
+491,36358,7,"Yellow Sweet Corn (Kernels Cut Off Cob, Frozen)"
+490,34760,7,"Cream Of Mushroom Soup (Canned, Condensed)"
+464,51978,7,Red Curry Paste
+318,518752,7,Ground Black Pepper
+22,35104,6,"Tomato Chili Sauce (with Salt, Bottled)"
+575,33895,6,Poppy Seed
+196,34215,6,Sunflower Vegetable Oil (Linoleic Less Than 60%)
+226,71416,6,Extra Virgin Olive Oil
+169,40653,6,Corn and Canola Oil
+284,518587,6,Pure Almond Extract
+20,47632,6,Sriracha Hot Chili Sauce
+21,262035,6,The Original Worcestershire Sauce
+375,518607,6,Cayenne Pepper
+227,122837,5,Olive Oil Cooking Spray
+285,33912,5,"Vanilla Extract (Imitation, Alcohol)"
+228,262285,5,Organic Olive Oil Cooking Spray
+328,518696,5,Ground Cumin
+431,33870,5,Chervil (Dried)
+391,2532515,5,Ground Cinnamon
+385,6240,5,Fennel Bulb
+171,81221,5,100% Canola Oil
+170,51121,5,Canola Oil Cooking Spray
+31,66556,4,Worcestershire Sauce
+324,518773,4,Crushed Red Pepper
+370,33899,4,Saffron
+32,35997,4,"Applesauce (with Added Ascorbic Acid, Unsweetened, Canned)"
+307,2658950,4,Active Dry Yeast
+30,34866,4,Hoisin Sauce
+29,2090261,4,Hoisin Sauce
+493,89193,4,98% Fat Free Condensed Cream of Mushroom Soup
+492,34873,4,"Cream Of Mushroom Soup (Reduced Sodium, Condensed, Canned)"
+23,34818,4,Teriyaki Sauce
+380,6260,4,Hot Chili Pepper
+474,36958,4,Dill Cucumber Pickles
+24,87491,4,Less Sodium Soy Sauce
+25,856471,4,Sriracha Chili Sauce
+229,369775,4,Extra Virgin Olive Oil
+230,102340,4,Extra Virgin Olive Oil
+231,47442,4,Extra Light Olive Oil
+28,71004,4,Lite Soy Sauce
+27,5368,4,Applesauce
+393,343382,4,Ground Cinnamon
+392,38896,4,"Graham Crackers (Plain or Honey, Includes Cinnamon)"
+386,36976,4,Fennel Bulk
+272,293798,4,Celery Salt
+273,115665,4,Iodized Salt
+274,229040,4,Iodized Salt
+26,41562,4,Original Style Traditional Spaghetti Sauce
+33,6174,4,Tomato Sauce
+197,34263,3,Sunflower Vegetable Oil (Linoleic Approx. 65%)
+198,34327,3,"Margarine (Vegetable Oil Spread, 60% Fat, Tub/Bottle)"
+39,3277,3,Worcestershire Sauce
+581,33901,3,Savory (Ground)
+299,547174,3,Double Acting Baking Powder
+441,36684,3,Chives (Freeze Dried)
+40,120194,3,Reduced Sodium Soy Sauce
+41,525051,3,Chili Garlic Sauce
+232,98352,3,Extra Virgin Olive Oil
+199,40661,3,"Vegetable Oil-Butter Spread (Reduced Calorie, Tub, Salted)"
+38,51976,3,Premium Fish Sauce
+200,34342,3,"Margarine (Vegetable Oil, 20% Fat)"
+571,343392,3,Parsley Flakes
+494,37820,3,Coffee (Instant Powder)
+554,36989,3,Lemon Grass (Citronella)
+34,3219350,3,Original Pepper Sauce
+235,72536,3,Extra Virgin Olive Oil Spray
+234,90699,3,Olive Oil
+186,29050,3,Toasted Sesame Oil
+233,54888,3,Organic Extra Virgin Olive Oil
+325,144508,3,Crushed Red Pepper
+398,516010,3,California Onion Powder
+343,56869,3,Garlic Pepper
+381,36847,3,"Red Hot Chili Peppers (Excluding Seeds, Solids and Liquids, Canned)"
+36,80171,3,Traditional Mild Enchilada Sauce
+344,1014703,3,Garlic & Herb Seasoning Blend
+421,30760,3,Spicy Brown Mustard
+35,49814,3,Spaghetti Sauce Four Cheese
+308,1504246,3,Nutritional Yeast
+37,50583,3,Original BBQ Sauce
+52,35787,2,"Cranberry Sauce (Sweetened, Canned)"
+51,2353080,2,All Natural Pizza Sauce
+497,37822,2,"Coffee (Instant Powder, Decaffeinated)"
+376,721388,2,Cayenne Pepper Spice
+373,33867,2,Caraway Seed
+495,34731,2,"Cream Of Celery Soup (Canned, Condensed)"
+496,5310191,2,Hearts of Romaine Lettuce
+64,200427,2,Unsweetened Applesauce
+499,36980,2,Hearts Of Palm (Canned)
+498,33730,2,Coffee or Table Cream (Light)
+54,212055,2,Sweet Chili Pepper Sauce
+500,34769,2,"Cream Of Potato Soup (Canned, Condensed)"
+501,7331,2,Coffee
+261,229825,2,Cajun Seasoning
+503,37818,2,Coffee (Brewed From Grounds)
+236,49239,2,Olive Oil
+367,38895,2,Gingersnaps
+53,76938,2,Lite Soy Sauce
+475,33878,2,Dill Seed
+275,343376,2,Garlic Salt
+55,7100011,2,Applesauce Unsweetened
+300,1292923,2,Baking Powder
+314,59246,2,Clover Honey
+399,518736,2,Onion Powder
+63,96476,2,Hot Sauce
+389,518751,2,Spanish Paprika
+62,52619,2,Chipotle Peppers in Adobo Sauce
+61,80150,2,Manwich Original Sloppy Joe Sauce
+164,21628901,2,Himalayan Pink Salt
+60,86986,2,Red Hot Buffalo Wing Sauce
+59,36705,2,Spanish Style Tomato Sauce (Canned)
+58,87882,2,Unsweetened Apple Sauce
+57,6170,2,Red Enchilada Sauce
+287,518803,2,100% Pure Vanilla Extract
+286,518799,2,Imitation Vanilla Extract
+301,3903329,2,Baking Powder
+56,7953818,2,Organic Roasted Garlic Pasta Sauce
+348,1315866,2,Minced Garlic in Water
+163,4506920,2,Himalayan Pink Salt Crystals
+502,37819,2,Coffee (Espresso Brewed)
+49,83035,2,Green Chile Enchilada Sauce
+50,69768,2,Lite Cinnamon Apple Sauce
+48,97297,2,Unsweetened Applesauce
+559,518743,2,Oregano
+47,680123,2,Premium Dark Soy Sauce
+46,633859,2,Roasted Red Pepper Alfredo Sauce
+45,54895,2,Original Hot Sauce
+591,555151,2,Toasted Sesame Seeds
+44,55264,2,Fish Sauce
+206,34213,2,Palm Vegetable Oil
+205,34319,2,"Vegetable Oil-Butter Spread (Tub, Salted)"
+204,34264,2,Safflower Vegetable Oil (Over 70% Linoleic)
+203,66804,2,Vegetable Oil
+202,65077,2,Regular Vegetable Oil Spread
+201,34304,2,Avocado Vegetable Oil
+43,82092,2,100% Natural Tomato Sauce
+42,29359,2,Low Sodium Teriyaki Sauce
+589,1518719,2,Sesame Seed Oil
+191,7265,2,"Canola, Soybean and Sunflower Oil"
+190,7156,2,Sunflower Oil
+187,87064,2,Hot Chili Sesame Oil
+184,7263,2,Corn Oil
+183,34308,2,Margarine-Butter Blend (60% Corn Oil & 40% Butter)
+587,34192,2,Sesame Seed Salad Dressing
+588,80622,2,100% Pure Sesame Seed Oil
+599,33920,2,Spearmint (Dried)
+167,69613,2,Hot Chili Oil
+600,33919,2,Spearmint
+162,83045,2,Coarse Sea & Himalayan Salt
+166,51284,2,Chili Oil
+173,30381,2,Pure Canola Oil
+172,93197,2,No Stick Canola Oil Cooking Spray
+82,2283,1,Fish Sauce (Bagoong)
+83,3797809,1,Pizza Sauce (Pizzeria Style)
+66,2268789,1,Teriyaki Sauce
+405,2716629,1,Basil Pesto
+84,505951,1,Sweet & Sour Sauce
+76,6387885,1,Red Enchilada Sauce
+372,33864,1,Anise Seed
+407,47637,1,Organic Tomato Basil Marinara
+86,4945917,1,Tikka Masala Curry Simmer Sauce
+87,66322,1,Organic Unsweetened Apple Sauce
+368,42834,1,Low Fat Sesame Ginger Dressing
+88,48265,1,Medium Picante Sauce
+409,316821,1,Basil Pesto
+410,76819,1,Fresh Basil Pesto
+415,152076,1,Pesto Alla Genovese - Basil Pesto
+85,107397,1,Chunky Garden Combination Pasta Sauce
+67,68387,1,Chipotle Pepper Sauce
+75,81915,1,Chili Beans in Medium Sauce
+78,4851879,1,Mango Curry Grilling Sauce
+74,75445,1,Premium Oyster Sauce
+597,39095,1,"Bagels (Includes Onion, Poppy, Sesame) (Without Calcium Propionate, Enriched)"
+73,29387,1,Marinara Sauce
+72,1902299,1,Spicy Tomato & Basil Pasta Sauce
+71,75443,1,Chili Garlic Sauce
+596,38767,1,"Bagels (Includes Onion, Poppy, Sesame) (Enriched with Calcium Propionate)"
+70,2039177,1,Tamari Gluten Free Soy Sauce
+77,1523033,1,Classic Alfredo Pasta Sauce
+383,36479,1,"Green Hot Chili Peppers (Excluding Seeds, Solids and Liquids, Canned)"
+68,77922,1,Pizza Sauce
+598,5227335,1,Pure Sesame Seed Oil
+395,20310990,1,A Hint of Madagascar Vanilla & Cinnamon
+79,883689,1,Tonkatsu Sauce
+80,59053,1,Old World Style Traditional Pasta Sauce
+396,15488730,1,Pro Granola Vanilla Cinnamon Cluster
+69,7039,1,Hollandaise Sauce
+594,194895,1,Traditional Hummus with Sesame Tahini
+81,26072,1,Original Taco Sauce
+526,248921,1,Bits 'O Brickle Toffee Bits
+442,87274,1,Chives & Onion Cream Cheese
+422,49386,1,Spicy Brown Mustard
+530,34974,1,"Cream Of Mushroom Soup (with Equal Volume Water, Canned)"
+505,37733,1,"Alcoholic Beverage (80 Proof, Gin Rum Vodka Whiskey)"
+506,58735,1,Soup at Hand Cream of Mushroom
+507,37814,1,"Coffee (Espresso Brewed, Decaffeinated)"
+508,1605470,1,Professional Strength Whey Protein Elite Series - Triple Chocolate
+509,52400,1,Healthy Request Condensed Cream of Mushroom Soup
+510,4531828,1,Isofuel
+512,33826,1,Goats Cheese (Semisoft)
+513,36933,1,"White Sweet Corn (Kernels Cut Off Cob, Frozen)"
+514,35100,1,"Cream Of Mushroom Soup (Low Sodium, Canned)"
+515,39534,1,Vanilla Frozen Yogurts (Soft Serve)
+516,81097,1,Stroganoff Mix
+517,34808,1,"Cream Of Vegetable Soup (Dry, Dehydrated)"
+518,1560016,1,Professional Strength Whey Protein Plus Elite Series - Vanilla Cream
+519,40993,1,Soft Wheat Berries
+520,277951,1,98% Fat Free Condensed Cream of Celery Soup
+521,277934,1,Cream of Celery Soup
+522,63889,1,Spreadable Regular Soft Margarine
+524,1578833,1,Reduced Sodium Cream of Mushroom Condensed Soup
+525,82546,1,Healthy Request Cream of Celery Soup
+529,7554,1,Espresso Coffee
+528,442902,1,Sugar Free French Vanilla Liquid Coffee Creamer
+504,37736,1,Vodka (90 Proof)
+364,343272,1,Hot Chipotle Roasted Tomatillo & Garlic Gourmet Mexican Salsa
+423,261831,1,All Natural Spicy Brown Mustard
+531,4615969,1,Black Soybean Tofuplus
+424,90767,1,Deli Style Brown Mustard
+65,121893,1,Natural Apple Sauce
+432,5897,1,"Endive, Chicory, Escarole or Romaine Lettuce"
+527,37735,1,Rum (90 Proof)
+578,83051,1,Rosemary Herb Seasoning Mix
+467,51977,1,Green Curry Paste
+470,58010,1,Indian Korma Curry Paste
+476,11666188,1,Greek Yogurt Dressing Cucumber Dill
+477,54907,1,Baby Kosher Dills
+485,3905486,1,Whole Grains Double Fiber Bread
+486,1969131,1,Healthy Grains Multi-Grain with Flax Flatbread
+487,60796,1,Hearty Grains 100% Whole Wheat English Muffins
+572,55105,1,Italian Parsley
+561,32741,1,Calorie Wise Greek with Feta & Oregano Dressing
+538,37821,1,Coffee (Instant)
+537,45735,1,Flour Tortillas Soft Taco Size
+536,93246,1,"8"" Flour Soft Taco (10 ct)"
+535,154846,1,Balsamic Vinegar of Modena
+534,109073,1,98% Fat Free Cream of Celery Soup
+533,3138920,1,Original Soft Spread
+532,89534,1,Soft Ripened Brie Cheese
+89,35107,1,"Barbeque Sauce (Low Sodium, Canned)"
+94,2460676,1,Pizza Sauce
+363,7114596,1,Minced California Garlic
+244,4054156,1,Reduced Fat Mayo with Olive Oil
+242,370325,1,Buttery Spray with Olive Oil
+241,553374,1,Natural Buttery Spread made with Olive Oil
+240,7051,1,Olive Oil
+239,3148812,1,Extra Virgin Olive Oil
+238,370432,1,Omega Light Buttery Spread made with Extra Virgin Olive Oil
+237,55688,1,Extra Virgin Olive Oil Signature Dressing
+138,55260,1,Sweet Red Chili Sauce
+139,28665,1,Apple Sauce
+140,91277,1,Organic Tomato Sauce
+141,28673,1,Pizza Sauce
+142,36648,1,Tomato Sauce with Tomato Tidbits (Canned)
+143,47981,1,Light No Sugar Added Tomato & Basil Pasta Sauce
+144,34811,1,"Curry Sauce (Dry, Dehydrated)"
+145,827987,1,Pesto Sauce
+146,2478948,1,Green Chile Enchilada Sauce
+243,262167,1,Extra Virgin Olive Oil
+245,893623,1,Organic Mayonnaise with Olive Oil
+362,55856,1,Diced Tomatoes with Garlic & Onion
+246,262177,1,Imported 100% Extra Virgin Olive Oil
+134,72211,1,Pizza Sauce
+135,2507702,1,Original Applesauce (Container)
+136,6173,1,Green Tomato Chile Sauce (Salsa Verde)
+260,58865,1,Mayonnaise Dressing with Extra Virgin Olive Oil
+259,3766995,1,Extra Virgin Olive Oil
+258,262279,1,White Truffle Flavored Extra Virgin Olive Oil
+257,2718343,1,Organic Extra Virgin Olive Oil
+255,262298,1,Rachael Ray EVOO Extra Virgin Olive Oil
+253,95739,1,Extra Virgin Olive Oil
+252,2352458,1,Extra Virgin Olive Oil
+137,113679,1,Marinara with Imported Olive Oil Pasta Sauce
+250,69567,1,Sun-dried Tomatoes in Olive Oil
+249,96744,1,Extra Virgin Olive Oil
+248,62683,1,Extra Virgin Olive Oil
+247,98256,1,Organic Extra Virgin Olive Oil
+147,7069,1,Tabasco Sauce
+148,226940,1,100% Natural Traditional Italian Sauce
+149,2861662,1,Organic Unsweetened Apple Sauce
+150,33617,1,Tomato Puree Sauce
+188,7053,1,Sesame Oil
+157,1282441,1,Marinara Pasta Sauce
+182,262265,1,Pure Peanut Oil
+181,257686,1,Organic Peanut Oil
+158,59052,1,Basil Pesto Sauce
+179,11583321,1,Avocado Oil Mayo
+178,6237551,1,100% Avocado Oil
+177,17577719,1,Avocado Oil
+176,247492,1,Pure Canola Oil
+175,48783,1,Canola Oil
+174,7264,1,Corn and Canola Oil
+159,1245672,1,Organic Marinara Sauce
+160,79903,1,Hot Pepper Sauce
+161,68614,1,Pizza Sauce
+165,11475030,1,Himalayan Pink Salt
+189,1649132,1,Pure Sesame Oil
+156,1146892,1,Low Sodium Soy Sauce
+155,49756,1,Gourmet Pizza Sauce
+212,262193,1,All Natural Pure Vegetable Oil
+151,44175,1,Natural Applesauce
+217,34278,1,Hazelnut Vegetable Oil
+216,1893927,1,Light Vegetable Oil Spread
+215,34286,1,"Sunflower Vegetable Oil (Hydrogenated, Linoleic)"
+214,26736,1,Vegetable Oil Spread made with Olive Oil
+213,34306,1,Mustard Vegetable Oil
+211,34262,1,Cottonseed Vegetable Oil
+154,3106134,1,Texas Original Taco Skillet Sauce
+210,158828,1,Light Vegetable Oil Spread
+209,34333,1,"Margarine (Vegetable Oil Spread, 60% Fat, No Salt, Tub/Bottle)"
+208,34211,1,Coconut Vegetable Oil
+207,370128,1,Shedd's Spread Light Vegetable Oil
+152,87065,1,Hoisin Sauce
+153,34813,1,"Spaghetti Sauce (Dry, Dehydrated)"
+133,30446,1,Traditional Spaghetti Sauce
+132,43616,1,Traditional Tomato Sauce
+131,34875,1,Teriyaki Sauce (Reduced Sodium)
+315,878792,1,Roasted Garlic Cloves
+97,107372,1,Red Taco Sauce - Mild
+331,518700,1,Curry Powder (No MSG)
+330,229810,1,Curry Powder
+98,92139,1,Light Parmesan Alfredo Cheese Creations Sauce
+99,291099,1,Southwestern Ranchero Beans in Tex Mex Sauce
+100,6178,1,Meatless Spaghetti Sauce
+101,445637,1,Mild Enchilada Sauce
+102,2400858,1,Red Enchilada Sauce
+103,34843,1,Sofrito Sauce
+104,369347,1,Enchilada Sauce
+105,4951495,1,Tomato Sauce (No Salt Added)
+320,516012,1,Malabar Black Pepper
+319,518756,1,Whole Black Peppercorns
+106,1599666,1,Tomato Sauce
+107,5446738,1,Natural Applesauce (Container)
+333,33884,1,Mace (Ground)
+96,537348,1,Traditional Pasta Sauce
+95,8806321,1,Marinara Sauce
+355,1361699,1,Minced Garlic
+361,66432,1,Goat Cheese with Garlic & Herbs
+360,1644005,1,"Diced Tomatoes with Basil, Garlic & Oregano (No Salt Added)"
+359,101923,1,"Italian Diced Tomatoes with Basil, Garlic & Oregano"
+358,654579,1,"Tomato Paste with Basil, Garlic and Oregano"
+357,30245,1,Light Garlic & Herb Cheese Wedges
+356,229871,1,Salt Free Garlic & Herb Seasoning
+354,4743995,1,Minced Garlic
+93,36646,1,Tomato Sauce with Herbs and Cheese (Canned)
+353,2428262,1,Chopped Garlic
+352,309901,1,Crushed Garlic
+350,55858,1,"Diced Tomatoes with Basil, Garlic & Oregano"
+90,51987,1,Sweet Red Chili Sauce
+91,98332,1,No Salt Added Tomato Sauce
+92,467809,1,Hot Sauce
+316,77218,1,Pure Clover Honey
+108,61630,1,Pizza Sauce
+130,2976471,1,Organic Marinara Pasta Sauce
+109,200296,1,Tomato Sauce
+289,7325,1,"Sugar Substitute (Herbal Extract Sweetener, Powder)"
+288,20577718,1,Pure Peppermint Extract
+120,35108,1,Spaghetti Sauce (Low Sodium)
+121,49807,1,Diced Tomatoes in Sauce
+122,35092,1,Alfredo Mix Sauce
+123,56854,1,Enchilada Sauce Spices & Seasonings
+124,86512,1,Original Applesauce
+280,4304,1,Saltine Crackers
+278,229036,1,Iodized Salt Seasoning
+277,229816,1,Seasoning Salt
+125,29051,1,Soy Sauce Tamari
+126,3426364,1,Roma Style Tomato Sauce
+127,5317086,1,Chili Beans in Mild Sauce
+128,1368399,1,Louisiana Hot Sauce
+129,4543211,1,No Salt Added Tomato Sauce
+290,7348872,1,Monk Fruit Extract
+291,69620,1,Wasabi Paste in Tubes
+292,37007,1,Wasabi Root
+304,779223,1,Baking Powder (Aluminum-Free)
+110,200287,1,Chunky Tomato Sauce
+310,4539219,1,Brewer's Yeast
+309,2534340,1,Nutritional Food Yeast
+111,6175,1,Low Sodium Tomato Sauce
+112,378166,1,A1 Steak Sauce
+113,91167,1,Curried Mango Grille Sauce
+303,3766126,1,Double Acting Baking Powder
+119,169040,1,Whole Berry Cranberry Sauce
+302,208624,1,Double Acting Baking Powder
+114,2479579,1,Stir-Fry Teriyaki Vegetables with Sweet Soy Sauce Glaze
+115,47008,1,Creamy Alfredo Sauce
+116,332782,1,Pizza Sauce
+117,35735,1,"Applesauce (Without Salt, Sweetened, Canned)"
+118,58810,1,Soya Sauce
+251,6387453,1,Organic Extra Virgin Olive Oil
